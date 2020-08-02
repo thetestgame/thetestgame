@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/thetestgame/thetestgame/images/emotes/testhappyflipped.png" width="150" align="right">
+<img src="https://raw.githubusercontent.com/thetestgame/thetestgame/master/images/emotes/testhappyflipped.png" width="150" align="right">
 
 Hello, My name is Jordan Maxwell! :wave:
 ========================================
@@ -22,7 +22,7 @@ I'm a hobbiest game developer and professional Web and Data Visualization Develo
 
 Since 2004 at the age of eight I've been living and breathing software development, progressively building and expanding my skillset. Creating everything from video games to distributed networking solutions and AR/VR marketing applications. I've had the chance to immerse myself in many different works and projects in the last 16 years, helping to make this world a little better through design & code. 
 
-<img src="https://github.com/thetestgame/thetestgame/images/emotes/coffee.png" width="150" align="right">
+<img src="https://raw.githubusercontent.com/thetestgame/thetestgame/master/images/emotes/coffee.png" width="150" align="right">
 
 ## :briefcase: Where I am currently working at/as
 
