@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **thetestgame/thetestgame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello, My name is Jordan Maxwell! 
+============================
+
+I'm a hobbiest game developer and professional Web and Data Visualization Developer based in De Pere, Wisconsin.
+
+Since 2004 at the age of eight I've been living and breathing software development, progressively building and expanding my skillset. Creating everything from video games to distributed networking solutions and AR/VR marketing applications. I've had the chance to immerse myself in many different works and projects in the last 16 years, helping to make this world a little better through design & code. 
+
+### Find me elsewhere 🌎
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thetestgame//)](https://www.linkedin.com/in/thetestgame/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thetestgame2)](https://twitter.com/thetestgame2)
