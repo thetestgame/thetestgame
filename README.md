@@ -14,7 +14,7 @@ Since 2004 I've been living and breathing software development, progressively bu
 ## Personal Projects and Facts
 
 - 🔭 I’m currently working a proof of concept 2D MMO
-- 🌱 I’m currently learning <a href="https://github.com/MonoGame/MonoGame">MonoGame</a>
+- 🌱 I’m currently learning NodeJS/Electron
 - 📫 How to reach me: nxtlabs13@gmail.com
 - ⚡ Fun fact: I've been writing software since I was around 8 years old. I was drawn to programming through my interest in video games
 
