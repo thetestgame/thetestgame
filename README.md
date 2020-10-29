@@ -25,7 +25,10 @@ Since 2004 I've been living and breathing software development, progressively bu
 * Web Application Developer for Future State, LLC
 * Software and Data Visualization Developer for Fabio Perini North America
 
-<br><br><br>
+## :bar_chart: Current Github Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thetestgame&count_private=true&show_icons=true)
+
 ### Find me elsewhere 🌎
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thetestgame//)](https://www.linkedin.com/in/thetestgame/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thetestgame2)](https://twitter.com/thetestgame2)
