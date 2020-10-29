@@ -23,7 +23,7 @@ Since 2004 I've been living and breathing software development, progressively bu
 ## :briefcase: Where I am currently working at/as
 
 * Web Application Developer for Future State, LLC
-* Software and Data Visualization Developer for Fabio Perini North America
+* Software and Data Visualization Developer for Körber Tissue
 
 ## :bar_chart: Current Github Stats
 
