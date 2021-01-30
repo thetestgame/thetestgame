@@ -15,7 +15,6 @@ Since 2004 I've been living and breathing software development, progressively bu
 
 - 🔭 I’m currently working a proof of concept 2D MMO
 - 🌱 I’m currently learning NodeJS/Electron
-- 📫 How to reach me: nxtlabs13@gmail.com
 - ⚡ Fun fact: I've been writing software since I was around 8 years old. I was drawn to programming through my interest in video games
 
 <img src="https://raw.githubusercontent.com/thetestgame/thetestgame/master/images/emotes/coffee.png" width="150" align="right">
