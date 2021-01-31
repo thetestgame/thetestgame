@@ -1,7 +1,3 @@
-<!--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...-->
-
 <img src="https://raw.githubusercontent.com/thetestgame/thetestgame/master/images/emotes/testhappyflipped.png" width="150" align="right">
 
 Hello, My name is Jordan Maxwell! :wave:
