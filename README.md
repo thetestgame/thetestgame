@@ -9,7 +9,7 @@ Since 2004 I've been living and breathing software development, progressively bu
 
 ## Personal Projects and Facts
 
-- 🔭 I’m currently working a proof of concept 2D MMO
+- 🔭 I’m currently working on refreshing old skills.
 - 🌱 I’m currently learning Azure Containers
 - ⚡ Fun fact: I've been writing software since I was around 8 years old. I was drawn to programming through my interest in video games
 
