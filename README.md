@@ -9,9 +9,9 @@ Since 2004 I've been living and breathing software development, progressively bu
 
 ## Personal Projects and Facts
 
-- 🔭 I’m currently working on refreshing old skills.
-- 🌱 I’m currently learning Kubernetes
-- ⚡ Fun fact: I've been writing software since I was around 8 years old. I was drawn to programming through my interest in video games
+- 🔭 I’m currently working on an experimental mobile game.
+- 🌱 I’m currently learning Kubernetes.
+- ⚡ Fun fact: I've been writing software since I was around 8 years old. I was drawn to programming through my interest in video games.
 
 <img src="https://raw.githubusercontent.com/thetestgame/thetestgame/master/images/emotes/coffee.png" width="150" align="right">
 
