@@ -22,7 +22,9 @@ Since 2004 I've been living and breathing software development, progressively bu
 
 ## :bar_chart: Current Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thetestgame&count_private=true&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api?username=thetestgame&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=dark)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thetestgame&langs_count=4&line_height=345&theme=dark)
+
 
 ### Find me elsewhere 🌎
 
