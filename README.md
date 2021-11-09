@@ -24,7 +24,10 @@ Since 2004 I've been living and breathing software development, progressively bu
 
 ![stats](https://github-readme-stats.vercel.app/api?username=thetestgame&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=onedark)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thetestgame&langs_count=4&line_height=345&theme=onedark)
-[![trophy](https://github-profile-trophy.vercel.app/?username=thetestgame&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🏆 Trophies
+
+![trophies](https://github-profile-trophy.vercel.app/?username=thetestgame&row=1&column=8&theme=onedark&no-bg=true&no-frame=true)
 
 ### Find me elsewhere 🌎
 
