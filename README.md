@@ -9,7 +9,7 @@ Since 2004 I've been living and breathing software development, progressively bu
 
 ## Personal Projects and Facts
 
-- 🔭 I’m currently working on an experimental mobile game.
+- 🔭 I’m currently working on an experimental open source MMO using Panda3D.
 - 🌱 I’m currently learning Kubernetes.
 - ⚡ Fun fact: I've been writing software since I was around 8 years old. I was drawn to programming through my interest in video games.
 
