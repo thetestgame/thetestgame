@@ -26,8 +26,9 @@ Since 2004 I've been living and breathing software development, progressively bu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetestgame&langs_count=4&line_height=345&theme=onedark">
 </div>
 
-## 🏆 Trophies
+<i>* Stats only reflect my public repositories</i>
 
+## 🏆 Trophies
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=thetestgame&row=1&column=8&theme=onedark&no-bg=true&no-frame=true)
 
