@@ -12,19 +12,19 @@ Since 2004 I've been living and breathing software development, progressively bu
 #### 👷 Check out what I'm currently working on
 
 
-- [thetestgame/awesome](https://github.com/thetestgame/awesome) - 😎 This list is automatically generate by all the project I&#39;ve starred over the years! (today)
+- [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - My personal website and portfolio. Statically hosted on Github Pages (today)
 - [thetestgame/EcoServer-API-Python](https://github.com/thetestgame/EcoServer-API-Python) - Python bindings for the Eco game server restful API. (5 days ago)
-- [toontown-classic/toontown-docker](https://github.com/toontown-classic/toontown-docker) - Files for deploying a Toontown Classic cluster via Docker (1 week ago)
+- [thetestgame/EcoServer-API-CSharp](https://github.com/thetestgame/EcoServer-API-CSharp) - C# bindings for the Eco game server restful API. (5 days ago)
 - [toontown-classic/download-server](https://github.com/toontown-classic/download-server) - Download server for the sv1.0.6.9 Toontown revival project &#34;Toontown Classic&#34; (1 week ago)
-- [toontown-classic/toontown-otp](https://github.com/toontown-classic/toontown-otp) - OTP server implementation written in Python designed for the 2003 historical version of Toontown Online. (1 week ago)
+- [toontown-classic/toontown-docker](https://github.com/toontown-classic/toontown-docker) - Files for deploying a Toontown Classic cluster via Docker (1 week ago)
 
 ---
 
 #### 🌱 My latest projects
 
 - [thetestgame/EcoServer-API-Python](https://github.com/thetestgame/EcoServer-API-Python) - Python bindings for the Eco game server restful API.
+- [thetestgame/EcoServer-API-CSharp](https://github.com/thetestgame/EcoServer-API-CSharp) - C# bindings for the Eco game server restful API.
 - [thetestgame/panda3d-steamdeck-demo](https://github.com/thetestgame/panda3d-steamdeck-demo) - Panda3D asteroids demo modified for use on Valve&#39;s Steam Deck
-- [thetestgame/awesome](https://github.com/thetestgame/awesome) - 😎 This list is automatically generate by all the project I&#39;ve starred over the years!
 - [thetestgame/panda3d-android-sample](https://github.com/thetestgame/panda3d-android-sample) - Sample Android application made with Panda3D
 - [thetestgame/actionsflow-workflows](https://github.com/thetestgame/actionsflow-workflows)
 
@@ -42,11 +42,11 @@ Since 2004 I've been living and breathing software development, progressively bu
 
 #### 🔨 Latest Pull Requests I published
 
+- [Use V1 README for About page](https://github.com/thetestgame/thetestgame.github.io/pull/27) on [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) (today)
 - [Release -&gt; Develop](https://github.com/thetestgame/thetestgame.github.io/pull/26) on [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) (1 week ago)
 - [Fixed typos and added missing VS versions](https://github.com/tobspr/P3DModuleBuilder/pull/17) on [tobspr/P3DModuleBuilder](https://github.com/tobspr/P3DModuleBuilder) (2 weeks ago)
 - [Fixed batch scripts; Removed unused Uberdog server](https://github.com/toontown-classic/toontown-otp-ai/pull/3) on [toontown-classic/toontown-otp-ai](https://github.com/toontown-classic/toontown-otp-ai) (2 weeks ago)
 - [Updated README](https://github.com/toontown-classic/toontown-otp/pull/5) on [toontown-classic/toontown-otp](https://github.com/toontown-classic/toontown-otp) (3 weeks ago)
-- [Develop &lt;- Release](https://github.com/thetestgame/thetestgame.github.io/pull/25) on [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) (3 weeks ago)
 
 ### Find me elsewhere 🌎
 
