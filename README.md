@@ -13,8 +13,8 @@ Since 2004 I've been living and breathing software development, progressively bu
 
 
 - [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - My personal website and portfolio. Statically hosted on Github Pages (1 day ago)
-- [thetestgame/EcoServer-API-Python](https://github.com/thetestgame/EcoServer-API-Python) - Python bindings for the Eco game server restful API. (6 days ago)
-- [thetestgame/EcoServer-API-CSharp](https://github.com/thetestgame/EcoServer-API-CSharp) - C# bindings for the Eco game server restful API. (6 days ago)
+- [thetestgame/EcoServer-API-Python](https://github.com/thetestgame/EcoServer-API-Python) - Unofficial Python bindings for the Eco game server restful API. (6 days ago)
+- [thetestgame/EcoServer-API-CSharp](https://github.com/thetestgame/EcoServer-API-CSharp) - Unofficial C# bindings for the Eco game server restful API. (6 days ago)
 - [toontown-classic/download-server](https://github.com/toontown-classic/download-server) - Download server for the sv1.0.6.9 Toontown revival project &#34;Toontown Classic&#34; (1 week ago)
 - [toontown-classic/toontown-docker](https://github.com/toontown-classic/toontown-docker) - Files for deploying a Toontown Classic cluster via Docker (1 week ago)
 
@@ -22,8 +22,8 @@ Since 2004 I've been living and breathing software development, progressively bu
 
 #### 🌱 My latest projects
 
-- [thetestgame/EcoServer-API-Python](https://github.com/thetestgame/EcoServer-API-Python) - Python bindings for the Eco game server restful API.
-- [thetestgame/EcoServer-API-CSharp](https://github.com/thetestgame/EcoServer-API-CSharp) - C# bindings for the Eco game server restful API.
+- [thetestgame/EcoServer-API-Python](https://github.com/thetestgame/EcoServer-API-Python) - Unofficial Python bindings for the Eco game server restful API.
+- [thetestgame/EcoServer-API-CSharp](https://github.com/thetestgame/EcoServer-API-CSharp) - Unofficial C# bindings for the Eco game server restful API.
 - [thetestgame/panda3d-steamdeck-demo](https://github.com/thetestgame/panda3d-steamdeck-demo) - Panda3D asteroids demo modified for use on Valve&#39;s Steam Deck
 - [thetestgame/panda3d-android-sample](https://github.com/thetestgame/panda3d-android-sample) - Sample Android application made with Panda3D
 - [thetestgame/actionsflow-workflows](https://github.com/thetestgame/actionsflow-workflows)
