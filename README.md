@@ -12,8 +12,8 @@ Since 2004 I've been living and breathing software development, progressively bu
 #### 👷 Check out what I'm currently working on
 
 
-- [thetestgame/BearBot](https://github.com/thetestgame/BearBot) - A custom C# Discord bot for the BearDen community server. (1 day ago)
-- [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - My personal website and portfolio. Statically hosted on Github Pages (6 days ago)
+- [thetestgame/BearBot](https://github.com/thetestgame/BearBot) - A custom C# Discord bot for the BearDen community server. (2 days ago)
+- [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - My personal website and portfolio. Statically hosted on Github Pages (1 week ago)
 - [thetestgame/EcoServer-API-Python](https://github.com/thetestgame/EcoServer-API-Python) - Unofficial Python bindings for the Eco game server restful API. (1 week ago)
 - [thetestgame/EcoServer-API-CSharp](https://github.com/thetestgame/EcoServer-API-CSharp) - Unofficial C# bindings for the Eco game server restful API. (1 week ago)
 - [toontown-classic/download-server](https://github.com/toontown-classic/download-server) - Download server for the sv1.0.6.9 Toontown revival project &#34;Toontown Classic&#34; (2 weeks ago)
@@ -32,8 +32,8 @@ Since 2004 I've been living and breathing software development, progressively bu
 
 #### 🔭 Latest releases I've contributed to
 
-- [toontown-classic/download-server](https://github.com/toontown-classic/download-server) ([v1.0.0](https://github.com/toontown-classic/download-server/releases/tag/v1.0.0), 4 weeks ago) - Download server for the sv1.0.6.9 Toontown revival project &#34;Toontown Classic&#34;
-- [toontown-classic/toontown-otp](https://github.com/toontown-classic/toontown-otp) ([v1.0.0](https://github.com/toontown-classic/toontown-otp/releases/tag/v1.0.0), 4 weeks ago) - OTP server implementation written in Python designed for the 2003 historical version of Toontown Online.
+- [toontown-classic/download-server](https://github.com/toontown-classic/download-server) ([v1.0.0](https://github.com/toontown-classic/download-server/releases/tag/v1.0.0), 1 month ago) - Download server for the sv1.0.6.9 Toontown revival project &#34;Toontown Classic&#34;
+- [toontown-classic/toontown-otp](https://github.com/toontown-classic/toontown-otp) ([v1.0.0](https://github.com/toontown-classic/toontown-otp/releases/tag/v1.0.0), 1 month ago) - OTP server implementation written in Python designed for the 2003 historical version of Toontown Online.
 - [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) ([1.0.1](https://github.com/thetestgame/panda3d-astron/releases/tag/1.0.1), 1 month ago) - Panda3D Astron server support as a Python 3 module. Allows the use of Astron with stock Panda3D
 - [thetestgame/panda3d-sqs](https://github.com/thetestgame/panda3d-sqs) ([1.0.0](https://github.com/thetestgame/panda3d-sqs/releases/tag/1.0.0), 1 month ago) - An interfacing library for using AWS SQS queues with the Panda3D game engine
 - [thetestgame/panda3d-rest](https://github.com/thetestgame/panda3d-rest) ([1.0.0](https://github.com/thetestgame/panda3d-rest/releases/tag/1.0.0), 1 month ago) - Python module for utilizing the Panda3D HTTPClient for none blocking RESTful api calls.
@@ -42,7 +42,7 @@ Since 2004 I've been living and breathing software development, progressively bu
 
 #### 🔨 Latest Pull Requests I published
 
-- [Use V1 README for About page](https://github.com/thetestgame/thetestgame.github.io/pull/27) on [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) (6 days ago)
+- [Use V1 README for About page](https://github.com/thetestgame/thetestgame.github.io/pull/27) on [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) (1 week ago)
 - [Release -&gt; Develop](https://github.com/thetestgame/thetestgame.github.io/pull/26) on [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) (2 weeks ago)
 - [Fixed typos and added missing VS versions](https://github.com/tobspr/P3DModuleBuilder/pull/17) on [tobspr/P3DModuleBuilder](https://github.com/tobspr/P3DModuleBuilder) (3 weeks ago)
 - [Fixed batch scripts; Removed unused Uberdog server](https://github.com/toontown-classic/toontown-otp-ai/pull/3) on [toontown-classic/toontown-otp-ai](https://github.com/toontown-classic/toontown-otp-ai) (3 weeks ago)
