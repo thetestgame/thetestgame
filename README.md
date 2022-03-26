@@ -12,10 +12,10 @@ Since 2004 I've been living and breathing software development, progressively bu
 #### 👷 Check out what I'm currently working on
 
 
-- [thetestgame/BearBot](https://github.com/thetestgame/BearBot) - A custom C# Discord bot for the BearDen community server. (3 days ago)
+- [thetestgame/BearBot](https://github.com/thetestgame/BearBot) - A custom C# Discord bot for the BearDen community server. (4 days ago)
 - [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - My personal website and portfolio. Statically hosted on Github Pages (1 week ago)
-- [thetestgame/EcoServer-API-Python](https://github.com/thetestgame/EcoServer-API-Python) - Unofficial Python bindings for the Eco game server restful API. (1 week ago)
-- [thetestgame/EcoServer-API-CSharp](https://github.com/thetestgame/EcoServer-API-CSharp) - Unofficial C# bindings for the Eco game server restful API. (1 week ago)
+- [thetestgame/EcoServer-API-Python](https://github.com/thetestgame/EcoServer-API-Python) - Unofficial Python bindings for the Eco game server restful API. (2 weeks ago)
+- [thetestgame/EcoServer-API-CSharp](https://github.com/thetestgame/EcoServer-API-CSharp) - Unofficial C# bindings for the Eco game server restful API. (2 weeks ago)
 - [toontown-classic/download-server](https://github.com/toontown-classic/download-server) - Download server for the sv1.0.6.9 Toontown revival project &#34;Toontown Classic&#34; (2 weeks ago)
 
 ---
@@ -45,7 +45,7 @@ Since 2004 I've been living and breathing software development, progressively bu
 - [Use V1 README for About page](https://github.com/thetestgame/thetestgame.github.io/pull/27) on [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) (1 week ago)
 - [Release -&gt; Develop](https://github.com/thetestgame/thetestgame.github.io/pull/26) on [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) (3 weeks ago)
 - [Fixed typos and added missing VS versions](https://github.com/tobspr/P3DModuleBuilder/pull/17) on [tobspr/P3DModuleBuilder](https://github.com/tobspr/P3DModuleBuilder) (3 weeks ago)
-- [Fixed batch scripts; Removed unused Uberdog server](https://github.com/toontown-classic/toontown-otp-ai/pull/3) on [toontown-classic/toontown-otp-ai](https://github.com/toontown-classic/toontown-otp-ai) (3 weeks ago)
+- [Fixed batch scripts; Removed unused Uberdog server](https://github.com/toontown-classic/toontown-otp-ai/pull/3) on [toontown-classic/toontown-otp-ai](https://github.com/toontown-classic/toontown-otp-ai) (4 weeks ago)
 - [Updated README](https://github.com/toontown-classic/toontown-otp/pull/5) on [toontown-classic/toontown-otp](https://github.com/toontown-classic/toontown-otp) (1 month ago)
 
 ### Find me elsewhere 🌎
