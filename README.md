@@ -12,7 +12,7 @@ Since 2004 I've been living and breathing software development, progressively bu
 #### 👷 Check out what I'm currently working on
 
 
-- [thetestgame/BearBot](https://github.com/thetestgame/BearBot) - A custom C# Discord bot for the BearDen community server. (3 weeks ago)
+- [thetestgame/BearBot](https://github.com/thetestgame/BearBot) - A custom C# Discord bot for the BearDen community server. (4 weeks ago)
 - [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - My personal website and portfolio. Statically hosted on Github Pages (1 month ago)
 - [thetestgame/EcoServer-API-Python](https://github.com/thetestgame/EcoServer-API-Python) - Unofficial Python bindings for the Eco game server restful API. (1 month ago)
 - [thetestgame/EcoServer-API-CSharp](https://github.com/thetestgame/EcoServer-API-CSharp) - Unofficial C# bindings for the Eco game server restful API. (1 month ago)
@@ -34,9 +34,9 @@ Since 2004 I've been living and breathing software development, progressively bu
 
 - [toontown-classic/download-server](https://github.com/toontown-classic/download-server) ([v1.0.0](https://github.com/toontown-classic/download-server/releases/tag/v1.0.0), 1 month ago) - Download server for the sv1.0.6.9 Toontown revival project &#34;Toontown Classic&#34;
 - [toontown-classic/toontown-otp](https://github.com/toontown-classic/toontown-otp) ([v1.0.0](https://github.com/toontown-classic/toontown-otp/releases/tag/v1.0.0), 1 month ago) - OTP server implementation written in Python designed for the 2003 historical version of Toontown Online.
-- [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) ([1.0.1](https://github.com/thetestgame/panda3d-astron/releases/tag/1.0.1), 1 month ago) - Panda3D Astron server support as a Python 3 module. Allows the use of Astron with stock Panda3D
-- [thetestgame/panda3d-sqs](https://github.com/thetestgame/panda3d-sqs) ([1.0.0](https://github.com/thetestgame/panda3d-sqs/releases/tag/1.0.0), 1 month ago) - An interfacing library for using AWS SQS queues with the Panda3D game engine
-- [thetestgame/panda3d-rest](https://github.com/thetestgame/panda3d-rest) ([1.0.0](https://github.com/thetestgame/panda3d-rest/releases/tag/1.0.0), 1 month ago) - Python module for utilizing the Panda3D HTTPClient for none blocking RESTful api calls.
+- [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) ([1.0.1](https://github.com/thetestgame/panda3d-astron/releases/tag/1.0.1), 2 months ago) - Panda3D Astron server support as a Python 3 module. Allows the use of Astron with stock Panda3D
+- [thetestgame/panda3d-sqs](https://github.com/thetestgame/panda3d-sqs) ([1.0.0](https://github.com/thetestgame/panda3d-sqs/releases/tag/1.0.0), 2 months ago) - An interfacing library for using AWS SQS queues with the Panda3D game engine
+- [thetestgame/panda3d-rest](https://github.com/thetestgame/panda3d-rest) ([1.0.0](https://github.com/thetestgame/panda3d-rest/releases/tag/1.0.0), 2 months ago) - Python module for utilizing the Panda3D HTTPClient for none blocking RESTful api calls.
 
 ---
 
