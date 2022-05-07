@@ -16,7 +16,7 @@ Since 2004 I've been living and breathing software development, progressively bu
 - [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - My personal website and portfolio. Statically hosted on Github Pages (1 month ago)
 - [thetestgame/EcoServer-API-Python](https://github.com/thetestgame/EcoServer-API-Python) - Unofficial Python bindings for the Eco game server restful API. (1 month ago)
 - [thetestgame/EcoServer-API-CSharp](https://github.com/thetestgame/EcoServer-API-CSharp) - Unofficial C# bindings for the Eco game server restful API. (1 month ago)
-- [toontown-classic/download-server](https://github.com/toontown-classic/download-server) - Download server for the sv1.0.6.9 Toontown revival project &#34;Toontown Classic&#34; (1 month ago)
+- [toontown-classic/download-server](https://github.com/toontown-classic/download-server) - Download server for the sv1.0.6.9 Toontown revival project &#34;Toontown Classic&#34; (2 months ago)
 
 ---
 
@@ -42,7 +42,7 @@ Since 2004 I've been living and breathing software development, progressively bu
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add example of IUserAuthorizer](https://github.com/StrangeLoopGames/EcoModKit/pull/44) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (today)
+- [Add example of IUserAuthorizer](https://github.com/StrangeLoopGames/EcoModKit/pull/44) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (1 day ago)
 - [Use V1 README for About page](https://github.com/thetestgame/thetestgame.github.io/pull/27) on [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) (1 month ago)
 - [Release -&gt; Develop](https://github.com/thetestgame/thetestgame.github.io/pull/26) on [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) (2 months ago)
 - [Fixed typos and added missing VS versions](https://github.com/tobspr/P3DModuleBuilder/pull/17) on [tobspr/P3DModuleBuilder](https://github.com/tobspr/P3DModuleBuilder) (2 months ago)
