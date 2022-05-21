@@ -12,8 +12,8 @@ Since 2004 I've been living and breathing software development, progressively bu
 #### 👷 Check out what I'm currently working on
 
 
-- [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) - Eco Mod Kit (1 day ago)
-- [thetestgame/BearBot](https://github.com/thetestgame/BearBot) - A custom C# Discord bot for the BearDen community server. (1 month ago)
+- [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) - Eco Mod Kit (2 days ago)
+- [thetestgame/BearBot](https://github.com/thetestgame/BearBot) - A custom C# Discord bot for the BearDen community server. (2 months ago)
 - [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - My personal website and portfolio. Statically hosted on Github Pages (2 months ago)
 - [thetestgame/EcoServer-API-Python](https://github.com/thetestgame/EcoServer-API-Python) - Unofficial Python bindings for the Eco game server restful API. (2 months ago)
 - [thetestgame/EcoServer-API-CSharp](https://github.com/thetestgame/EcoServer-API-CSharp) - Unofficial C# bindings for the Eco game server restful API. (2 months ago)
@@ -42,8 +42,8 @@ Since 2004 I've been living and breathing software development, progressively bu
 
 #### 🔨 Latest Pull Requests I published
 
-- [Added basic alt recipe](https://github.com/StrangeLoopGames/EcoModKit/pull/47) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (today)
-- [Adjusted Ecopedia mod with new features](https://github.com/StrangeLoopGames/EcoModKit/pull/46) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (1 day ago)
+- [Added basic alt recipe](https://github.com/StrangeLoopGames/EcoModKit/pull/47) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (1 day ago)
+- [Adjusted Ecopedia mod with new features](https://github.com/StrangeLoopGames/EcoModKit/pull/46) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (2 days ago)
 - [Add example of IUserAuthorizer](https://github.com/StrangeLoopGames/EcoModKit/pull/44) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (2 weeks ago)
 - [Use V1 README for About page](https://github.com/thetestgame/thetestgame.github.io/pull/27) on [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) (2 months ago)
 - [Release -&gt; Develop](https://github.com/thetestgame/thetestgame.github.io/pull/26) on [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) (2 months ago)
