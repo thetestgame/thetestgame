@@ -12,7 +12,7 @@ Since 2004 I've been living and breathing software development, progressively bu
 #### 👷 Check out what I'm currently working on
 
 
-- [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) - Eco Mod Kit (6 days ago)
+- [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) - Eco Mod Kit (1 week ago)
 - [thetestgame/BearBot](https://github.com/thetestgame/BearBot) - A custom C# Discord bot for the BearDen community server. (2 months ago)
 - [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - My personal website and portfolio. Statically hosted on Github Pages (2 months ago)
 - [thetestgame/EcoServer-API-CSharp](https://github.com/thetestgame/EcoServer-API-CSharp) - Unofficial C# bindings for the Eco game server restful API. (2 months ago)
@@ -44,7 +44,7 @@ Since 2004 I've been living and breathing software development, progressively bu
 
 - [Added donation box UI example](https://github.com/StrangeLoopGames/EcoModKit/pull/50) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (1 week ago)
 - [Added basic GameActions example](https://github.com/StrangeLoopGames/EcoModKit/pull/49) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (1 week ago)
-- [Add Configurable Modkit Plugin Example](https://github.com/StrangeLoopGames/EcoModKit/pull/48) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (1 week ago)
+- [Add Configurable Modkit Plugin Example](https://github.com/StrangeLoopGames/EcoModKit/pull/48) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (2 weeks ago)
 - [Added basic alt recipe](https://github.com/StrangeLoopGames/EcoModKit/pull/47) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (2 weeks ago)
 - [Adjusted Ecopedia mod with new features](https://github.com/StrangeLoopGames/EcoModKit/pull/46) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (2 weeks ago)
 
