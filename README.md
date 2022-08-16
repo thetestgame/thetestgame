@@ -15,7 +15,7 @@ Since 2004 I've been living and breathing software development, progressively bu
 - [thetestgame/BearBot](https://github.com/thetestgame/BearBot) - A custom C# Discord bot for the BearDen community server. (2 weeks ago)
 - [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) - Eco Mod Kit (2 weeks ago)
 - [thetestgame/Eco-Modkit-UPM](https://github.com/thetestgame/Eco-Modkit-UPM) - Git based UPM repository for the client files of the Eco Modkit (2 weeks ago)
-- [thetestgame/Eco-HairDyes](https://github.com/thetestgame/Eco-HairDyes) - Mod that adds hair dyes to Eco using the EM Artistry mod as a base. (2 weeks ago)
+- [thetestgame/Eco-HairDyes](https://github.com/thetestgame/Eco-HairDyes) - Mod that adds hair dyes to Eco using the EM Artistry mod as a base. (3 weeks ago)
 - [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - My personal website and portfolio. Statically hosted on Github Pages (5 months ago)
 
 ---
