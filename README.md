@@ -13,8 +13,8 @@ Since 2004 I've been living and breathing software development, progressively bu
 
 
 - [thetestgame/BearBot](https://github.com/thetestgame/BearBot) - A custom C# Discord bot for the BearDen community server. (2 weeks ago)
-- [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) - Eco Mod Kit (2 weeks ago)
-- [thetestgame/Eco-Modkit-UPM](https://github.com/thetestgame/Eco-Modkit-UPM) - Git based UPM repository for the client files of the Eco Modkit (2 weeks ago)
+- [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) - Eco Mod Kit (3 weeks ago)
+- [thetestgame/Eco-Modkit-UPM](https://github.com/thetestgame/Eco-Modkit-UPM) - Git based UPM repository for the client files of the Eco Modkit (3 weeks ago)
 - [thetestgame/Eco-HairDyes](https://github.com/thetestgame/Eco-HairDyes) - Mod that adds hair dyes to Eco using the EM Artistry mod as a base. (3 weeks ago)
 - [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - My personal website and portfolio. Statically hosted on Github Pages (5 months ago)
 
@@ -45,7 +45,7 @@ Since 2004 I've been living and breathing software development, progressively bu
 - [Added donation box UI example](https://github.com/StrangeLoopGames/EcoModKit/pull/50) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (2 months ago)
 - [Added basic GameActions example](https://github.com/StrangeLoopGames/EcoModKit/pull/49) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (2 months ago)
 - [Add Configurable Modkit Plugin Example](https://github.com/StrangeLoopGames/EcoModKit/pull/48) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (2 months ago)
-- [Added basic alt recipe](https://github.com/StrangeLoopGames/EcoModKit/pull/47) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (2 months ago)
+- [Added basic alt recipe](https://github.com/StrangeLoopGames/EcoModKit/pull/47) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (3 months ago)
 - [Adjusted Ecopedia mod with new features](https://github.com/StrangeLoopGames/EcoModKit/pull/46) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (3 months ago)
 
 ### Find me elsewhere 🌎
