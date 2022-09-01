@@ -12,9 +12,9 @@ Since 2004 I've been living and breathing software development, progressively bu
 #### 👷 Check out what I'm currently working on
 
 
+- [thetestgame/Eco-Modkit-UPM](https://github.com/thetestgame/Eco-Modkit-UPM) - Git based UPM repository for the client files of the Eco Modkit (today)
 - [thetestgame/BearBot](https://github.com/thetestgame/BearBot) - A custom C# Discord bot for the BearDen community server. (1 month ago)
 - [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) - Eco Mod Kit (1 month ago)
-- [thetestgame/Eco-Modkit-UPM](https://github.com/thetestgame/Eco-Modkit-UPM) - Git based UPM repository for the client files of the Eco Modkit (1 month ago)
 - [thetestgame/Eco-HairDyes](https://github.com/thetestgame/Eco-HairDyes) - Mod that adds hair dyes to Eco using the EM Artistry mod as a base. (1 month ago)
 - [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - My personal website and portfolio. Statically hosted on Github Pages (5 months ago)
 
@@ -24,9 +24,9 @@ Since 2004 I've been living and breathing software development, progressively bu
 
 - [thetestgame/Eco-Modkit-UPM](https://github.com/thetestgame/Eco-Modkit-UPM) - Git based UPM repository for the client files of the Eco Modkit
 - [thetestgame/Eco-HairDyes](https://github.com/thetestgame/Eco-HairDyes) - Mod that adds hair dyes to Eco using the EM Artistry mod as a base.
+- [thetestgame/EcoServer-API-PowerShell](https://github.com/thetestgame/EcoServer-API-PowerShell) - Unofficial PowerShell bindings for the Eco game server restful API.
 - [thetestgame/EcoServer-API-Python](https://github.com/thetestgame/EcoServer-API-Python) - Unofficial Python bindings for the Eco game server restful API.
 - [thetestgame/EcoServer-API-CSharp](https://github.com/thetestgame/EcoServer-API-CSharp) - Unofficial C# bindings for the Eco game server restful API.
-- [thetestgame/panda3d-steamdeck-demo](https://github.com/thetestgame/panda3d-steamdeck-demo) - Panda3D asteroids demo modified for use on Valve&#39;s Steam Deck
 
 ---
 
