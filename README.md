@@ -12,9 +12,9 @@ Since 2004 I've been living and breathing software development, progressively bu
 #### 👷 Check out what I'm currently working on
 
 
-- [thetestgame/ClickUp.NET](https://github.com/thetestgame/ClickUp.NET) (1 day ago)
-- [thetestgame/Eco-HairDyes](https://github.com/thetestgame/Eco-HairDyes) - Mod that adds hair dyes to Eco using the EM Artistry mod as a base. (2 days ago)
-- [thetestgame/BearBot](https://github.com/thetestgame/BearBot) - A custom C# Discord bot for the BearDen community server. (3 days ago)
+- [thetestgame/ClickUp.NET](https://github.com/thetestgame/ClickUp.NET) (2 days ago)
+- [thetestgame/Eco-HairDyes](https://github.com/thetestgame/Eco-HairDyes) - Mod that adds hair dyes to Eco using the EM Artistry mod as a base. (3 days ago)
+- [thetestgame/BearBot](https://github.com/thetestgame/BearBot) - A custom C# Discord bot for the BearDen community server. (4 days ago)
 - [thetestgame/Eco-Modkit-UPM](https://github.com/thetestgame/Eco-Modkit-UPM) - Git based UPM repository for the client files of the Eco Modkit (3 weeks ago)
 - [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) - Eco Mod Kit (1 month ago)
 
@@ -32,7 +32,7 @@ Since 2004 I've been living and breathing software development, progressively bu
 
 #### 🔭 Latest releases I've contributed to
 
-- [thetestgame/Eco-HairDyes](https://github.com/thetestgame/Eco-HairDyes) ([v1.1.0](https://github.com/thetestgame/Eco-HairDyes/releases/tag/v1.1.0), 1 day ago) - Mod that adds hair dyes to Eco using the EM Artistry mod as a base.
+- [thetestgame/Eco-HairDyes](https://github.com/thetestgame/Eco-HairDyes) ([v1.1.0](https://github.com/thetestgame/Eco-HairDyes/releases/tag/v1.1.0), 2 days ago) - Mod that adds hair dyes to Eco using the EM Artistry mod as a base.
 - [toontown-classic/download-server](https://github.com/toontown-classic/download-server) ([v1.0.0](https://github.com/toontown-classic/download-server/releases/tag/v1.0.0), 7 months ago) - Download server for the sv1.0.6.9 Toontown revival project &#34;Toontown Classic&#34;
 - [toontown-classic/toontown-otp](https://github.com/toontown-classic/toontown-otp) ([v1.0.0](https://github.com/toontown-classic/toontown-otp/releases/tag/v1.0.0), 7 months ago) - OTP server implementation written in Python designed for the 2003 historical version of Toontown Online.
 - [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) ([1.0.1](https://github.com/thetestgame/panda3d-astron/releases/tag/1.0.1), 7 months ago) - Panda3D Astron server support as a Python 3 module. Allows the use of Astron with stock Panda3D
@@ -42,8 +42,8 @@ Since 2004 I've been living and breathing software development, progressively bu
 
 #### 🔨 Latest Pull Requests I published
 
-- [Added 9.6.x support](https://github.com/thetestgame/Eco-HairDyes/pull/1) on [thetestgame/Eco-HairDyes](https://github.com/thetestgame/Eco-HairDyes) (1 day ago)
-- [Added donation box UI example](https://github.com/StrangeLoopGames/EcoModKit/pull/50) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (3 months ago)
+- [Added 9.6.x support](https://github.com/thetestgame/Eco-HairDyes/pull/1) on [thetestgame/Eco-HairDyes](https://github.com/thetestgame/Eco-HairDyes) (2 days ago)
+- [Added donation box UI example](https://github.com/StrangeLoopGames/EcoModKit/pull/50) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (4 months ago)
 - [Added basic GameActions example](https://github.com/StrangeLoopGames/EcoModKit/pull/49) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (4 months ago)
 - [Add Configurable Modkit Plugin Example](https://github.com/StrangeLoopGames/EcoModKit/pull/48) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (4 months ago)
 - [Added basic alt recipe](https://github.com/StrangeLoopGames/EcoModKit/pull/47) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (4 months ago)
