@@ -15,7 +15,7 @@ Since 2004 I've been living and breathing software development, progressively bu
 - [thetestgame/Lego-City-API-Server](https://github.com/thetestgame/Lego-City-API-Server) - .NET service for controlling a Lego City diorama via the official Lego PoweredUp system. (2 weeks ago)
 - [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) - Eco Mod Kit (2 weeks ago)
 - [thetestgame/Eco-HairDyes](https://github.com/thetestgame/Eco-HairDyes) - Mod that adds hair dyes to Eco using the EM Artistry mod as a base. (3 weeks ago)
-- [thetestgame/BearBot](https://github.com/thetestgame/BearBot) - A custom C# Discord bot for the BearDen community server. (3 weeks ago)
+- [thetestgame/BearBot](https://github.com/thetestgame/BearBot) - A custom C# Discord bot for the BearDen community server. (4 weeks ago)
 - [thetestgame/Eco-Modkit-UPM](https://github.com/thetestgame/Eco-Modkit-UPM) - Git based UPM repository for the client files of the Eco Modkit (1 month ago)
 
 ---
