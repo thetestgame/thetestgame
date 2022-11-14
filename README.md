@@ -14,7 +14,7 @@ Since 2004 I've been living and breathing software development, progressively bu
 
 - [thetestgame/EcoServerApi.NET](https://github.com/thetestgame/EcoServerApi.NET) - Unofficial C# bindings for the Eco game server restful API. (1 week ago)
 - [thetestgame/Privacy.NET](https://github.com/thetestgame/Privacy.NET) - [WIP] Privacy.com API Client for .NET (1 week ago)
-- [thetestgame/BearBot](https://github.com/thetestgame/BearBot) - A custom C# Discord bot for the BearDen community server. (1 week ago)
+- [thetestgame/BearBot](https://github.com/thetestgame/BearBot) - A custom C# Discord bot for the BearDen community server. (2 weeks ago)
 - [thetestgame/Lego-City-API-Server](https://github.com/thetestgame/Lego-City-API-Server) - .NET service for controlling a Lego City diorama via the official Lego PoweredUp system. (3 weeks ago)
 - [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) - Eco Mod Kit (1 month ago)
 
