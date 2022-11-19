@@ -33,8 +33,8 @@ Since 2004 I've been living and breathing software development, progressively bu
 #### 🔭 Latest releases I've contributed to
 
 - [thetestgame/Eco-HairDyes](https://github.com/thetestgame/Eco-HairDyes) ([v1.1.0](https://github.com/thetestgame/Eco-HairDyes/releases/tag/v1.1.0), 1 month ago) - Mod that adds hair dyes to Eco using the EM Artistry mod as a base.
-- [toontown-classic/download-server](https://github.com/toontown-classic/download-server) ([v1.0.0](https://github.com/toontown-classic/download-server/releases/tag/v1.0.0), 8 months ago) - Download server for the sv1.0.6.9 Toontown revival project &#34;Toontown Classic&#34;
-- [toontown-classic/toontown-otp](https://github.com/toontown-classic/toontown-otp) ([v1.0.0](https://github.com/toontown-classic/toontown-otp/releases/tag/v1.0.0), 8 months ago) - OTP server implementation written in Python designed for the 2003 historical version of Toontown Online.
+- [toontown-classic/download-server](https://github.com/toontown-classic/download-server) ([v1.0.0](https://github.com/toontown-classic/download-server/releases/tag/v1.0.0), 9 months ago) - Download server for the sv1.0.6.9 Toontown revival project &#34;Toontown Classic&#34;
+- [toontown-classic/toontown-otp](https://github.com/toontown-classic/toontown-otp) ([v1.0.0](https://github.com/toontown-classic/toontown-otp/releases/tag/v1.0.0), 9 months ago) - OTP server implementation written in Python designed for the 2003 historical version of Toontown Online.
 - [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) ([1.0.1](https://github.com/thetestgame/panda3d-astron/releases/tag/1.0.1), 9 months ago) - Panda3D Astron server support as a Python 3 module. Allows the use of Astron with stock Panda3D
 - [thetestgame/panda3d-sqs](https://github.com/thetestgame/panda3d-sqs) ([1.0.0](https://github.com/thetestgame/panda3d-sqs/releases/tag/1.0.0), 9 months ago) - An interfacing library for using AWS SQS queues with the Panda3D game engine
 
