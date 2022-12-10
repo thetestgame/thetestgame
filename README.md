@@ -12,21 +12,21 @@ Since 2004 I've been living and breathing software development, progressively bu
 #### 👷 Check out what I'm currently working on
 
 
+- [thetestgame/docker-games](https://github.com/thetestgame/docker-games) - A collection of automatically built game servers images for running in Docker compatible environments (today)
 - [thetestgame/EcoServerApi.NET](https://github.com/thetestgame/EcoServerApi.NET) - Unofficial C# bindings for the Eco game server restful API. (1 month ago)
 - [thetestgame/Privacy.NET](https://github.com/thetestgame/Privacy.NET) - [WIP] Privacy.com API Client for .NET (1 month ago)
 - [thetestgame/BearBot](https://github.com/thetestgame/BearBot) - A custom C# Discord bot for the BearDen community server. (1 month ago)
 - [thetestgame/Lego-City-API-Server](https://github.com/thetestgame/Lego-City-API-Server) - .NET service for controlling a Lego City diorama via the official Lego PoweredUp system. (1 month ago)
-- [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) - Eco Mod Kit (2 months ago)
 
 ---
 
 #### 🌱 My latest projects
 
+- [thetestgame/docker-games](https://github.com/thetestgame/docker-games) - A collection of automatically built game servers images for running in Docker compatible environments
 - [thetestgame/EcoServerApi.NET](https://github.com/thetestgame/EcoServerApi.NET) - Unofficial C# bindings for the Eco game server restful API.
 - [thetestgame/Privacy.NET](https://github.com/thetestgame/Privacy.NET) - [WIP] Privacy.com API Client for .NET
 - [thetestgame/Lego-City-API-Server](https://github.com/thetestgame/Lego-City-API-Server) - .NET service for controlling a Lego City diorama via the official Lego PoweredUp system.
 - [thetestgame/Eco-Modkit-UPM](https://github.com/thetestgame/Eco-Modkit-UPM) - Git based UPM repository for the client files of the Eco Modkit
-- [thetestgame/Eco-HairDyes](https://github.com/thetestgame/Eco-HairDyes) - Mod that adds hair dyes to Eco using the EM Artistry mod as a base.
 
 ---
 
