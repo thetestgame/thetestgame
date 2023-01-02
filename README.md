@@ -12,11 +12,11 @@ Since 2004 I've been living and breathing software development, progressively bu
 #### 👷 Check out what I'm currently working on
 
 
+- [DigitalDescent/.github](https://github.com/DigitalDescent/.github) - Github profile information for Digital Descent LLC (today)
 - [thetestgame/Lego-City-API-Server](https://github.com/thetestgame/Lego-City-API-Server) - .NET service for controlling a Lego City diorama via the official Lego PoweredUp system. (1 week ago)
 - [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) - Eco Mod Kit (3 weeks ago)
 - [thetestgame/docker-games](https://github.com/thetestgame/docker-games) - A collection of automatically built game servers images for running in Docker compatible environments (3 weeks ago)
 - [thetestgame/EcoServerApi.NET](https://github.com/thetestgame/EcoServerApi.NET) - Unofficial C# bindings for the Eco game server restful API. (1 month ago)
-- [thetestgame/Privacy.NET](https://github.com/thetestgame/Privacy.NET) - [WIP] Privacy.com API Client for .NET (1 month ago)
 
 ---
 
