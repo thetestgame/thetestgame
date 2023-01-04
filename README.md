@@ -42,11 +42,11 @@ Since 2004 I've been living and breathing software development, progressively bu
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add Network Objects Protocol](https://github.com/DigitalDescent/Hazel/pull/1) on [DigitalDescent/Hazel](https://github.com/DigitalDescent/Hazel) (today)
 - [Create LICENSE.md](https://github.com/thetestgame/docker-games/pull/1) on [thetestgame/docker-games](https://github.com/thetestgame/docker-games) (3 weeks ago)
 - [Added 9.6.x support](https://github.com/thetestgame/Eco-HairDyes/pull/1) on [thetestgame/Eco-HairDyes](https://github.com/thetestgame/Eco-HairDyes) (3 months ago)
 - [Added donation box UI example](https://github.com/StrangeLoopGames/EcoModKit/pull/50) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (7 months ago)
 - [Added basic GameActions example](https://github.com/StrangeLoopGames/EcoModKit/pull/49) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (7 months ago)
-- [Add Configurable Modkit Plugin Example](https://github.com/StrangeLoopGames/EcoModKit/pull/48) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (7 months ago)
 
 ### Find me elsewhere 🌎
 
