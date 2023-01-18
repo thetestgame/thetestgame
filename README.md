@@ -33,8 +33,8 @@ Since 2004 I've been living and breathing software development, progressively bu
 #### 🔭 Latest releases I've contributed to
 
 - [thetestgame/Eco-HairDyes](https://github.com/thetestgame/Eco-HairDyes) ([v1.1.0](https://github.com/thetestgame/Eco-HairDyes/releases/tag/v1.1.0), 3 months ago) - Mod that adds hair dyes to Eco using the EM Artistry mod as a base.
-- [toontown-classic/download-server](https://github.com/toontown-classic/download-server) ([v1.0.0](https://github.com/toontown-classic/download-server/releases/tag/v1.0.0), 10 months ago) - Download server for the sv1.0.6.9 Toontown revival project &#34;Toontown Classic&#34;
-- [toontown-classic/toontown-otp](https://github.com/toontown-classic/toontown-otp) ([v1.0.0](https://github.com/toontown-classic/toontown-otp/releases/tag/v1.0.0), 10 months ago) - OTP server implementation written in Python designed for the 2003 historical version of Toontown Online.
+- [toontown-classic/download-server](https://github.com/toontown-classic/download-server) ([v1.0.0](https://github.com/toontown-classic/download-server/releases/tag/v1.0.0), 11 months ago) - Download server for the sv1.0.6.9 Toontown revival project &#34;Toontown Classic&#34;
+- [toontown-classic/toontown-otp](https://github.com/toontown-classic/toontown-otp) ([v1.0.0](https://github.com/toontown-classic/toontown-otp/releases/tag/v1.0.0), 11 months ago) - OTP server implementation written in Python designed for the 2003 historical version of Toontown Online.
 - [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) ([1.0.1](https://github.com/thetestgame/panda3d-astron/releases/tag/1.0.1), 11 months ago) - Panda3D Astron server support as a Python 3 module. Allows the use of Astron with stock Panda3D
 - [thetestgame/panda3d-sqs](https://github.com/thetestgame/panda3d-sqs) ([1.0.0](https://github.com/thetestgame/panda3d-sqs/releases/tag/1.0.0), 11 months ago) - An interfacing library for using AWS SQS queues with the Panda3D game engine
 
@@ -42,7 +42,7 @@ Since 2004 I've been living and breathing software development, progressively bu
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add Network Objects Protocol](https://github.com/DigitalDescent/Hazel/pull/1) on [DigitalDescent/Hazel](https://github.com/DigitalDescent/Hazel) (1 week ago)
+- [Add Network Objects Protocol](https://github.com/DigitalDescent/Hazel/pull/1) on [DigitalDescent/Hazel](https://github.com/DigitalDescent/Hazel) (2 weeks ago)
 - [Create LICENSE.md](https://github.com/thetestgame/docker-games/pull/1) on [thetestgame/docker-games](https://github.com/thetestgame/docker-games) (1 month ago)
 - [Added 9.6.x support](https://github.com/thetestgame/Eco-HairDyes/pull/1) on [thetestgame/Eco-HairDyes](https://github.com/thetestgame/Eco-HairDyes) (3 months ago)
 - [Added donation box UI example](https://github.com/StrangeLoopGames/EcoModKit/pull/50) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (7 months ago)
