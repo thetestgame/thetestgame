@@ -14,7 +14,7 @@ Since 2004 I've been living and breathing software development, progressively bu
 
 - [thetestgame/EcoGameApi](https://github.com/thetestgame/EcoGameApi) - Unofficial C# and Typescript bindings for the Eco game server restful API. (2 weeks ago)
 - [DigitalDescent/.github](https://github.com/DigitalDescent/.github) - Github profile information for Digital Descent LLC (3 weeks ago)
-- [thetestgame/Lego-City-API-Server](https://github.com/thetestgame/Lego-City-API-Server) - .NET service for controlling a Lego City diorama via the official Lego PoweredUp system. (4 weeks ago)
+- [thetestgame/Lego-City-API-Server](https://github.com/thetestgame/Lego-City-API-Server) - .NET service for controlling a Lego City diorama via the official Lego PoweredUp system. (1 month ago)
 - [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) - Eco Modkit (1 month ago)
 - [thetestgame/docker-games](https://github.com/thetestgame/docker-games) - A collection of automatically built game servers images for running in Docker compatible environments (1 month ago)
 
