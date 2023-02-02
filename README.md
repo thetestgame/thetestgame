@@ -12,7 +12,7 @@ Since 2004 I've been living and breathing software development, progressively bu
 #### 👷 Check out what I'm currently working on
 
 
-- [thetestgame/EcoGameApi](https://github.com/thetestgame/EcoGameApi) - Unofficial C# and Typescript bindings for the Eco game server restful API. (3 weeks ago)
+- [thetestgame/EcoGameApi](https://github.com/thetestgame/EcoGameApi) - Unofficial C# and Typescript bindings for the Eco game server restful API. (4 weeks ago)
 - [DigitalDescent/.github](https://github.com/DigitalDescent/.github) - Github profile information for Digital Descent LLC (1 month ago)
 - [thetestgame/Lego-City-API-Server](https://github.com/thetestgame/Lego-City-API-Server) - .NET service for controlling a Lego City diorama via the official Lego PoweredUp system. (1 month ago)
 - [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) - Eco Modkit (1 month ago)
