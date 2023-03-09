@@ -33,8 +33,6 @@ Since 2004 I've been living and breathing software development, progressively bu
 #### 🔭 Latest releases I've contributed to
 
 - [thetestgame/Eco-HairDyes](https://github.com/thetestgame/Eco-HairDyes) ([v1.1.0](https://github.com/thetestgame/Eco-HairDyes/releases/tag/v1.1.0), 5 months ago) - Mod that adds hair dyes to Eco using the EM Artistry mod as a base.
-- [toontown-classic/download-server](https://github.com/toontown-classic/download-server) ([v1.0.0](https://github.com/toontown-classic/download-server/releases/tag/v1.0.0), 1 year ago) - Download server for the sv1.0.6.9 Toontown revival project &#34;Toontown Classic&#34;
-- [toontown-classic/toontown-otp](https://github.com/toontown-classic/toontown-otp) ([v1.0.0](https://github.com/toontown-classic/toontown-otp/releases/tag/v1.0.0), 1 year ago) - OTP server implementation written in Python designed for the 2003 historical version of Toontown Online.
 
 ---
 
