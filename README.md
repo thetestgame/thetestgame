@@ -12,21 +12,21 @@ Since 2004 I've been living and breathing software development, progressively bu
 #### 👷 Check out what I'm currently working on
 
 
+- [thetestgame/STOVE-PC-SDK](https://github.com/thetestgame/STOVE-PC-SDK) - The STOVE PC SDK repackaged as a Unity Package (today)
 - [thetestgame/docker-games](https://github.com/thetestgame/docker-games) - A collection of automatically built game servers images for running in Docker compatible environments (1 week ago)
 - [thetestgame/EcoGameApi](https://github.com/thetestgame/EcoGameApi) - Unofficial C# and Typescript bindings for the Eco game server restful API. (2 months ago)
 - [DigitalDescent/.github](https://github.com/DigitalDescent/.github) - Github profile information for Digital Descent LLC (2 months ago)
 - [thetestgame/Lego-City-API-Server](https://github.com/thetestgame/Lego-City-API-Server) - .NET service for controlling a Lego City diorama via the official Lego PoweredUp system. (2 months ago)
-- [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) - Eco Modkit (2 months ago)
 
 ---
 
 #### 🌱 My latest projects
 
+- [thetestgame/STOVE-PC-SDK](https://github.com/thetestgame/STOVE-PC-SDK) - The STOVE PC SDK repackaged as a Unity Package
 - [thetestgame/docker-games](https://github.com/thetestgame/docker-games) - A collection of automatically built game servers images for running in Docker compatible environments
 - [thetestgame/EcoGameApi](https://github.com/thetestgame/EcoGameApi) - Unofficial C# and Typescript bindings for the Eco game server restful API.
 - [thetestgame/Privacy.NET](https://github.com/thetestgame/Privacy.NET) - [WIP] Privacy.com API Client for .NET
 - [thetestgame/Lego-City-API-Server](https://github.com/thetestgame/Lego-City-API-Server) - .NET service for controlling a Lego City diorama via the official Lego PoweredUp system.
-- [thetestgame/Eco-Modkit-UPM](https://github.com/thetestgame/Eco-Modkit-UPM) - Git based UPM repository for the client files of the Eco Modkit
 
 ---
 
