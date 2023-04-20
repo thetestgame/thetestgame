@@ -32,7 +32,7 @@ Since 2004 I've been living and breathing software development, progressively bu
 
 #### 🔭 Latest releases I've contributed to
 
-- [thetestgame/Eco-HairDyes](https://github.com/thetestgame/Eco-HairDyes) ([v1.1.0](https://github.com/thetestgame/Eco-HairDyes/releases/tag/v1.1.0), 6 months ago) - Mod that adds hair dyes to Eco using the EM Artistry mod as a base.
+- [thetestgame/Eco-HairDyes](https://github.com/thetestgame/Eco-HairDyes) ([v1.1.0](https://github.com/thetestgame/Eco-HairDyes/releases/tag/v1.1.0), 7 months ago) - Mod that adds hair dyes to Eco using the EM Artistry mod as a base.
 
 ---
 
@@ -41,7 +41,7 @@ Since 2004 I've been living and breathing software development, progressively bu
 - [Updated README](https://github.com/thetestgame/Discord-Game-SDK/pull/1) on [thetestgame/Discord-Game-SDK](https://github.com/thetestgame/Discord-Game-SDK) (1 month ago)
 - [Add Network Objects Protocol](https://github.com/DigitalDescent/Hazel/pull/1) on [DigitalDescent/Hazel](https://github.com/DigitalDescent/Hazel) (3 months ago)
 - [Create LICENSE.md](https://github.com/thetestgame/docker-games/pull/1) on [thetestgame/docker-games](https://github.com/thetestgame/docker-games) (4 months ago)
-- [Added 9.6.x support](https://github.com/thetestgame/Eco-HairDyes/pull/1) on [thetestgame/Eco-HairDyes](https://github.com/thetestgame/Eco-HairDyes) (6 months ago)
+- [Added 9.6.x support](https://github.com/thetestgame/Eco-HairDyes/pull/1) on [thetestgame/Eco-HairDyes](https://github.com/thetestgame/Eco-HairDyes) (7 months ago)
 - [Added donation box UI example](https://github.com/StrangeLoopGames/EcoModKit/pull/50) on [StrangeLoopGames/EcoModKit](https://github.com/StrangeLoopGames/EcoModKit) (10 months ago)
 
 ### Find me elsewhere 🌎
