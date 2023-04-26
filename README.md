@@ -12,7 +12,7 @@ Since 2004 I've been living and breathing software development, progressively bu
 #### 👷 Check out what I'm currently working on
 
 
-- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An experimental work in progress library for controlling Droid Depot droids (1 day ago)
+- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An experimental work in progress library for controlling Droid Depot droids (today)
 - [thetestgame/Unity-Toolbox](https://github.com/thetestgame/Unity-Toolbox) - A collection of scripts and utilities for working with Unity3D (1 month ago)
 - [thetestgame/STOVE-PC-SDK](https://github.com/thetestgame/STOVE-PC-SDK) - The STOVE PC SDK repackaged as a Unity Package (1 month ago)
 - [thetestgame/docker-games](https://github.com/thetestgame/docker-games) - A collection of automatically built game servers images for running in Docker compatible environments (1 month ago)
