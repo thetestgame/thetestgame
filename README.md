@@ -12,7 +12,7 @@ Since 2004 I've been living and breathing software development, progressively bu
 #### 👷 Check out what I'm currently working on
 
 
-- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An experimental work in progress library for controlling Droid Depot droids (2 days ago)
+- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An experimental work in progress library for controlling Droid Depot droids (3 days ago)
 - [thetestgame/Unity-Toolbox](https://github.com/thetestgame/Unity-Toolbox) - A collection of scripts and utilities for working with Unity3D (1 month ago)
 - [thetestgame/STOVE-PC-SDK](https://github.com/thetestgame/STOVE-PC-SDK) - The STOVE PC SDK repackaged as a Unity Package (1 month ago)
 - [thetestgame/docker-games](https://github.com/thetestgame/docker-games) - A collection of automatically built game servers images for running in Docker compatible environments (1 month ago)
@@ -32,7 +32,7 @@ Since 2004 I've been living and breathing software development, progressively bu
 
 #### 🔭 Latest releases I've contributed to
 
-- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) ([1.0.1](https://github.com/thetestgame/pyDroidDepot/releases/tag/1.0.1), 3 days ago) - An experimental work in progress library for controlling Droid Depot droids
+- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) ([1.0.1](https://github.com/thetestgame/pyDroidDepot/releases/tag/1.0.1), 4 days ago) - An experimental work in progress library for controlling Droid Depot droids
 - [thetestgame/Eco-HairDyes](https://github.com/thetestgame/Eco-HairDyes) ([v1.1.0](https://github.com/thetestgame/Eco-HairDyes/releases/tag/v1.1.0), 7 months ago) - Mod that adds hair dyes to Eco using the EM Artistry mod as a base.
 
 ---
