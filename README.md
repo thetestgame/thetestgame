@@ -32,7 +32,7 @@ Since 2004 I've been living and breathing software development, progressively bu
 
 #### 🔭 Latest releases I've contributed to
 
-- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) ([1.0.1](https://github.com/thetestgame/pyDroidDepot/releases/tag/1.0.1), 2 weeks ago) - An experimental work in progress library for controlling Droid Depot droids
+- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) ([1.0.1](https://github.com/thetestgame/pyDroidDepot/releases/tag/1.0.1), 3 weeks ago) - An experimental work in progress library for controlling Droid Depot droids
 - [thetestgame/Eco-HairDyes](https://github.com/thetestgame/Eco-HairDyes) ([v1.1.0](https://github.com/thetestgame/Eco-HairDyes/releases/tag/v1.1.0), 7 months ago) - Mod that adds hair dyes to Eco using the EM Artistry mod as a base.
 
 ---
