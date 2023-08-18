@@ -12,11 +12,11 @@ Since 2004 I've been living and breathing software development, progressively bu
 #### 👷 Check out what I'm currently working on
 
 
+- [AliceHomeAI/alice-homeassistant](https://github.com/AliceHomeAI/alice-homeassistant) - HomeAssistant Conversation agent for Alice AI Server (today)
+- [AliceHomeAI/AliceHomeAI.github.io](https://github.com/AliceHomeAI/AliceHomeAI.github.io) (today)
+- [AliceHomeAI/alice-discord](https://github.com/AliceHomeAI/alice-discord) - Discord Agent for the Alice AI server (today)
 - [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An experimental work in progress library for controlling Droid Depot droids (1 month ago)
 - [thetestgame/STOVE-PC-SDK](https://github.com/thetestgame/STOVE-PC-SDK) - The STOVE PC SDK repackaged as a Unity Package (5 months ago)
-- [thetestgame/Unity-Toolbox](https://github.com/thetestgame/Unity-Toolbox) - A collection of scripts and utilities for working with Unity3D (5 months ago)
-- [thetestgame/docker-games](https://github.com/thetestgame/docker-games) - A collection of automatically built game servers images for running in Docker compatible environments (5 months ago)
-- [thetestgame/EcoGameApi](https://github.com/thetestgame/EcoGameApi) - Unofficial C# and Typescript bindings for the Eco game server restful API. (7 months ago)
 
 ---
 
