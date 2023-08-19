@@ -12,9 +12,9 @@ Since 2004 I've been living and breathing software development, progressively bu
 #### 👷 Check out what I'm currently working on
 
 
-- [AliceHomeAI/alice-homeassistant](https://github.com/AliceHomeAI/alice-homeassistant) - HomeAssistant Conversation agent for Alice AI Server (today)
-- [AliceHomeAI/AliceHomeAI.github.io](https://github.com/AliceHomeAI/AliceHomeAI.github.io) (today)
-- [AliceHomeAI/alice-discord](https://github.com/AliceHomeAI/alice-discord) - Discord Agent for the Alice AI server (today)
+- [AliceHomeAI/alice-homeassistant](https://github.com/AliceHomeAI/alice-homeassistant) - HomeAssistant Conversation agent for Alice AI Server (1 day ago)
+- [AliceHomeAI/AliceHomeAI.github.io](https://github.com/AliceHomeAI/AliceHomeAI.github.io) (1 day ago)
+- [AliceHomeAI/alice-discord](https://github.com/AliceHomeAI/alice-discord) - Discord Agent for the Alice AI server (1 day ago)
 - [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An experimental work in progress library for controlling Droid Depot droids (1 month ago)
 - [thetestgame/STOVE-PC-SDK](https://github.com/thetestgame/STOVE-PC-SDK) - The STOVE PC SDK repackaged as a Unity Package (5 months ago)
 
