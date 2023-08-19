@@ -7,6 +7,8 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 
 Since 2004 I've been living and breathing software development, progressively building and expanding my skillset. Creating everything from video games to distributed networking solutions and AR/VR marketing applications. I've had the chance to immerse myself in many different works and projects in the last 17 years, helping to make this world a little better through design & code. 
 
+I'm currently working on my own virtual assistant. Can check out the progress [here](https://github.com/AliceHomeAI)
+
 ---
 
 #### 👷 Check out what I'm currently working on
