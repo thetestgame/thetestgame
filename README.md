@@ -18,13 +18,13 @@ I'm currently working on my own virtual assistant. Can check out the progress [h
 - [AliceHomeAI/alice-homeassistant](https://github.com/AliceHomeAI/alice-homeassistant) - HomeAssistant Conversation agent for Alice AI Server (3 days ago)
 - [AliceHomeAI/AliceHomeAI.github.io](https://github.com/AliceHomeAI/AliceHomeAI.github.io) (3 days ago)
 - [AliceHomeAI/alice-discord](https://github.com/AliceHomeAI/alice-discord) - Discord Agent for the Alice AI server (3 days ago)
-- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An experimental work in progress library for controlling Droid Depot droids (1 month ago)
+- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot (1 month ago)
 
 ---
 
 #### 🌱 My latest projects
 
-- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An experimental work in progress library for controlling Droid Depot droids
+- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot
 - [thetestgame/Unity-Toolbox](https://github.com/thetestgame/Unity-Toolbox) - A collection of scripts and utilities for working with Unity3D
 - [thetestgame/STOVE-PC-SDK](https://github.com/thetestgame/STOVE-PC-SDK) - The STOVE PC SDK repackaged as a Unity Package
 - [thetestgame/docker-games](https://github.com/thetestgame/docker-games) - A collection of automatically built game servers images for running in Docker compatible environments
@@ -34,7 +34,7 @@ I'm currently working on my own virtual assistant. Can check out the progress [h
 
 #### 🔭 Latest releases I've contributed to
 
-- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) ([1.0.1](https://github.com/thetestgame/pyDroidDepot/releases/tag/1.0.1), 3 months ago) - An experimental work in progress library for controlling Droid Depot droids
+- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) ([1.0.1](https://github.com/thetestgame/pyDroidDepot/releases/tag/1.0.1), 3 months ago) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot
 - [thetestgame/Eco-HairDyes](https://github.com/thetestgame/Eco-HairDyes) ([v1.1.0](https://github.com/thetestgame/Eco-HairDyes/releases/tag/v1.1.0), 11 months ago) - Mod that adds hair dyes to Eco using the EM Artistry mod as a base.
 
 ---
