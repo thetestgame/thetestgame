@@ -14,21 +14,21 @@ I'm currently working on my own virtual assistant. Can check out the progress [h
 #### 👷 Check out what I'm currently working on
 
 
+- [thetestgame/pydBeacon](https://github.com/thetestgame/pydBeacon) - An experimental open source Python library for reading/writing Disney Theme Park Bluetooth Beacon data. (today)
 - [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot (3 days ago)
 - [AliceHomeAI/alice-server](https://github.com/AliceHomeAI/alice-server) - Logic server for the self hosted Alice virtual assistant (1 week ago)
 - [AliceHomeAI/alice-homeassistant](https://github.com/AliceHomeAI/alice-homeassistant) - HomeAssistant Conversation agent for Alice AI Server (1 week ago)
 - [AliceHomeAI/AliceHomeAI.github.io](https://github.com/AliceHomeAI/AliceHomeAI.github.io) (1 week ago)
-- [AliceHomeAI/alice-discord](https://github.com/AliceHomeAI/alice-discord) - Discord Agent for the Alice AI server (1 week ago)
 
 ---
 
 #### 🌱 My latest projects
 
+- [thetestgame/pydBeacon](https://github.com/thetestgame/pydBeacon) - An experimental open source Python library for reading/writing Disney Theme Park Bluetooth Beacon data.
 - [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot
 - [thetestgame/Unity-Toolbox](https://github.com/thetestgame/Unity-Toolbox) - A collection of scripts and utilities for working with Unity3D
 - [thetestgame/STOVE-PC-SDK](https://github.com/thetestgame/STOVE-PC-SDK) - The STOVE PC SDK repackaged as a Unity Package
 - [thetestgame/docker-games](https://github.com/thetestgame/docker-games) - A collection of automatically built game servers images for running in Docker compatible environments
-- [thetestgame/EcoGameApi](https://github.com/thetestgame/EcoGameApi) - Unofficial C# and Typescript bindings for the Eco game server restful API.
 
 ---
 
