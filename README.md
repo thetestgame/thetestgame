@@ -14,8 +14,8 @@ I'm currently working on my own virtual assistant. Can check out the progress [h
 #### 👷 Check out what I'm currently working on
 
 
-- [thetestgame/pydBeacon](https://github.com/thetestgame/pydBeacon) - An experimental open source Python library for reading/writing Disney Theme Park Bluetooth Beacon data. (today)
-- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot (3 days ago)
+- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot (1 day ago)
+- [thetestgame/pydBeacon](https://github.com/thetestgame/pydBeacon) - An experimental open source Python library for reading/writing Disney Theme Park Bluetooth Beacon data. (1 day ago)
 - [AliceHomeAI/alice-server](https://github.com/AliceHomeAI/alice-server) - Logic server for the self hosted Alice virtual assistant (1 week ago)
 - [AliceHomeAI/alice-homeassistant](https://github.com/AliceHomeAI/alice-homeassistant) - HomeAssistant Conversation agent for Alice AI Server (1 week ago)
 - [AliceHomeAI/AliceHomeAI.github.io](https://github.com/AliceHomeAI/AliceHomeAI.github.io) (1 week ago)
@@ -34,7 +34,8 @@ I'm currently working on my own virtual assistant. Can check out the progress [h
 
 #### 🔭 Latest releases I've contributed to
 
-- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) ([1.0.1](https://github.com/thetestgame/pyDroidDepot/releases/tag/1.0.1), 4 months ago) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot
+- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) ([1.0.3](https://github.com/thetestgame/pyDroidDepot/releases/tag/1.0.3), 1 day ago) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot
+- [thetestgame/pydBeacon](https://github.com/thetestgame/pydBeacon) ([1.0.0](https://github.com/thetestgame/pydBeacon/releases/tag/1.0.0), 1 day ago) - An experimental open source Python library for reading/writing Disney Theme Park Bluetooth Beacon data.
 - [thetestgame/Eco-HairDyes](https://github.com/thetestgame/Eco-HairDyes) ([v1.1.0](https://github.com/thetestgame/Eco-HairDyes/releases/tag/v1.1.0), 11 months ago) - Mod that adds hair dyes to Eco using the EM Artistry mod as a base.
 
 ---
