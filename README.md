@@ -52,7 +52,7 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update ci.yml](https://github.com/thetestgame/Astron/pull/1) on [thetestgame/Astron](https://github.com/thetestgame/Astron) (6 days ago)
+- [Update ci.yml](https://github.com/thetestgame/Astron/pull/1) on [thetestgame/Astron](https://github.com/thetestgame/Astron) (1 week ago)
 - [Update motor.py](https://github.com/thetestgame/pyDroidDepot/pull/1) on [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) (1 month ago)
 - [Updated README](https://github.com/thetestgame/Discord-Game-SDK/pull/1) on [thetestgame/Discord-Game-SDK](https://github.com/thetestgame/Discord-Game-SDK) (6 months ago)
 - [Add Network Objects Protocol](https://github.com/DigitalDescent/Hazel/pull/1) on [DigitalDescent/Hazel](https://github.com/DigitalDescent/Hazel) (8 months ago)
