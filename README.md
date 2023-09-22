@@ -46,7 +46,6 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 
 - [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) ([1.0.3](https://github.com/thetestgame/pyDroidDepot/releases/tag/1.0.3), 3 weeks ago) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot
 - [thetestgame/pydBeacon](https://github.com/thetestgame/pydBeacon) ([1.0.0](https://github.com/thetestgame/pydBeacon/releases/tag/1.0.0), 3 weeks ago) - An experimental open source Python library for reading/writing Disney Theme Park Bluetooth Beacon data.
-- [thetestgame/Eco-HairDyes](https://github.com/thetestgame/Eco-HairDyes) ([v1.1.0](https://github.com/thetestgame/Eco-HairDyes/releases/tag/v1.1.0), 1 year ago) - Mod that adds hair dyes to Eco using the EM Artistry mod as a base.
 
 ---
 
