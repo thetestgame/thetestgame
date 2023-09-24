@@ -24,21 +24,21 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
-- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot (4 weeks ago)
+- [thetestgame/Steam-Postman-Collection](https://github.com/thetestgame/Steam-Postman-Collection) - An automatically generated Postman collection for Steam&#39;s entire web api (today)
 - [thetestgame/pydBeacon](https://github.com/thetestgame/pydBeacon) - An experimental open source Python library for reading/writing Disney Theme Park Bluetooth Beacon data. (4 weeks ago)
+- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot (4 weeks ago)
 - [AliceHomeAI/alice-server](https://github.com/AliceHomeAI/alice-server) - Logic server for the self hosted Alice virtual assistant (1 month ago)
 - [AliceHomeAI/AliceHomeAI.github.io](https://github.com/AliceHomeAI/AliceHomeAI.github.io) (1 month ago)
-- [AliceHomeAI/alice-discord](https://github.com/AliceHomeAI/alice-discord) - Discord Agent for the Alice AI server (1 month ago)
 
 ---
 
 #### 🌱 My latest projects
 
+- [thetestgame/Steam-Postman-Collection](https://github.com/thetestgame/Steam-Postman-Collection) - An automatically generated Postman collection for Steam&#39;s entire web api
 - [thetestgame/pydBeacon](https://github.com/thetestgame/pydBeacon) - An experimental open source Python library for reading/writing Disney Theme Park Bluetooth Beacon data.
 - [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot
 - [thetestgame/Unity-Toolbox](https://github.com/thetestgame/Unity-Toolbox) - A collection of scripts and utilities for working with Unity3D
 - [thetestgame/STOVE-PC-SDK](https://github.com/thetestgame/STOVE-PC-SDK) - The STOVE PC SDK repackaged as a Unity Package
-- [thetestgame/docker-games](https://github.com/thetestgame/docker-games) - A collection of automatically built game servers images for running in Docker compatible environments
 
 ---
 
