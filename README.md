@@ -28,7 +28,7 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 - [thetestgame/pydBeacon](https://github.com/thetestgame/pydBeacon) - An experimental open source Python library for reading/writing Disney Theme Park Bluetooth Beacon data. (1 month ago)
 - [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot (1 month ago)
 - [AliceHomeAI/alice-server](https://github.com/AliceHomeAI/alice-server) - Logic server for the self hosted Alice virtual assistant (1 month ago)
-- [AliceHomeAI/alice-homeassistant](https://github.com/AliceHomeAI/alice-homeassistant) - HomeAssistant Conversation agent for Alice AI Server (1 month ago)
+- [AliceHomeAI/alice-homeassistant](https://github.com/AliceHomeAI/alice-homeassistant) - HomeAssistant Conversation agent for Alice AI Server (2 months ago)
 
 ---
 
