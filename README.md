@@ -24,21 +24,21 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
+- [thetestgame/eco-uptime-monitor](https://github.com/thetestgame/eco-uptime-monitor) (today)
 - [thetestgame/cloudflare-ad-blocker](https://github.com/thetestgame/cloudflare-ad-blocker) - Automatically updated CloudFlare DNS Gateway Ad Blocker (2 weeks ago)
 - [thetestgame/docker-games](https://github.com/thetestgame/docker-games) - A collection of automatically built game servers images for running in Docker compatible environments (1 month ago)
-- [thetestgame/pydBeacon](https://github.com/thetestgame/pydBeacon) - An experimental open source Python library for reading/writing Disney Theme Park Bluetooth Beacon data. (2 months ago)
 - [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot (2 months ago)
-- [AliceHomeAI/alice-server](https://github.com/AliceHomeAI/alice-server) - Logic server for the self hosted Alice virtual assistant (2 months ago)
+- [thetestgame/pydBeacon](https://github.com/thetestgame/pydBeacon) - An experimental open source Python library for reading/writing Disney Theme Park Bluetooth Beacon data. (2 months ago)
 
 ---
 
 #### 🌱 My latest projects
 
+- [thetestgame/eco-uptime-monitor](https://github.com/thetestgame/eco-uptime-monitor)
 - [thetestgame/cloudflare-ad-blocker](https://github.com/thetestgame/cloudflare-ad-blocker) - Automatically updated CloudFlare DNS Gateway Ad Blocker
 - [thetestgame/pydBeacon](https://github.com/thetestgame/pydBeacon) - An experimental open source Python library for reading/writing Disney Theme Park Bluetooth Beacon data.
 - [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot
 - [thetestgame/Unity-Toolbox](https://github.com/thetestgame/Unity-Toolbox) - A collection of scripts and utilities for working with Unity3D
-- [thetestgame/STOVE-PC-SDK](https://github.com/thetestgame/STOVE-PC-SDK) - The STOVE PC SDK repackaged as a Unity Package
 
 ---
 
