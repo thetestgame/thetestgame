@@ -56,7 +56,7 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 - [Update motor.py](https://github.com/thetestgame/pyDroidDepot/pull/1) on [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) (4 months ago)
 - [Updated README](https://github.com/thetestgame/Discord-Game-SDK/pull/1) on [thetestgame/Discord-Game-SDK](https://github.com/thetestgame/Discord-Game-SDK) (9 months ago)
 - [Add Network Objects Protocol](https://github.com/DigitalDescent/Hazel/pull/1) on [DigitalDescent/Hazel](https://github.com/DigitalDescent/Hazel) (11 months ago)
-- [Create LICENSE.md](https://github.com/thetestgame/docker-games/pull/1) on [thetestgame/docker-games](https://github.com/thetestgame/docker-games) (11 months ago)
+- [Create LICENSE.md](https://github.com/thetestgame/docker-games/pull/1) on [thetestgame/docker-games](https://github.com/thetestgame/docker-games) (1 year ago)
 
 ### Find me elsewhere 🌎
 
