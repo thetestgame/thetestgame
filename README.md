@@ -24,9 +24,9 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
-- [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) - Native time Unity package for burst compatibility (today)
-- [StrangeLoopGames/UnityTransformChanges](https://github.com/StrangeLoopGames/UnityTransformChanges) - Native Plugin for Unity which helps to track all transform changes (today)
-- [StrangeLoopGames/RuntimeGraphicsInfo](https://github.com/StrangeLoopGames/RuntimeGraphicsInfo) (today)
+- [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) - Native time Unity package for burst compatibility (1 day ago)
+- [StrangeLoopGames/UnityTransformChanges](https://github.com/StrangeLoopGames/UnityTransformChanges) - Native Plugin for Unity which helps to track all transform changes (1 day ago)
+- [StrangeLoopGames/RuntimeGraphicsInfo](https://github.com/StrangeLoopGames/RuntimeGraphicsInfo) (1 day ago)
 - [thetestgame/pyLionChief](https://github.com/thetestgame/pyLionChief) - An open-source project that provides Python access to the Lionel&#39;s LionChief line of trains (1 month ago)
 - [StrangeLoopGames/EcoServicesMonitor](https://github.com/StrangeLoopGames/EcoServicesMonitor) - Automatic uptime monitoring for Eco&#39;s online services. Check here for news on potential outages. (1 month ago)
 
@@ -52,9 +52,9 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update package.json](https://github.com/StrangeLoopGames/NativeTime/pull/4) on [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) (today)
+- [Update package.json](https://github.com/StrangeLoopGames/NativeTime/pull/4) on [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) (1 day ago)
 - [Update ci.yml](https://github.com/thetestgame/Astron/pull/1) on [thetestgame/Astron](https://github.com/thetestgame/Astron) (4 months ago)
-- [Update motor.py](https://github.com/thetestgame/pyDroidDepot/pull/1) on [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) (5 months ago)
+- [Update motor.py](https://github.com/thetestgame/pyDroidDepot/pull/1) on [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) (6 months ago)
 - [Updated README](https://github.com/thetestgame/Discord-Game-SDK/pull/1) on [thetestgame/Discord-Game-SDK](https://github.com/thetestgame/Discord-Game-SDK) (10 months ago)
 - [Create LICENSE.md](https://github.com/thetestgame/docker-games/pull/1) on [thetestgame/docker-games](https://github.com/thetestgame/docker-games) (1 year ago)
 
