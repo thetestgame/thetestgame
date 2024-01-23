@@ -24,11 +24,11 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
-- [StrangeDeveloperProgram/.github](https://github.com/StrangeDeveloperProgram/.github) - Github profile repository for the Strange Developer Program (2 days ago)
-- [GamePackets/gamepackets.github.io](https://github.com/GamePackets/gamepackets.github.io) (4 days ago)
-- [GamePackets/GamePacketTemplate](https://github.com/GamePackets/GamePacketTemplate) (4 days ago)
-- [StrangeLoopGames/RuntimeGraphicsInfo](https://github.com/StrangeLoopGames/RuntimeGraphicsInfo) (1 week ago)
-- [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) - Native time Unity package for burst compatibility (1 week ago)
+- [StrangeDeveloperProgram/.github](https://github.com/StrangeDeveloperProgram/.github) - Github profile repository for the Strange Developer Program (3 days ago)
+- [GamePackets/gamepackets.github.io](https://github.com/GamePackets/gamepackets.github.io) (5 days ago)
+- [GamePackets/GamePacketTemplate](https://github.com/GamePackets/GamePacketTemplate) (5 days ago)
+- [StrangeLoopGames/RuntimeGraphicsInfo](https://github.com/StrangeLoopGames/RuntimeGraphicsInfo) (2 weeks ago)
+- [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) - Native time Unity package for burst compatibility (2 weeks ago)
 
 ---
 
@@ -45,14 +45,14 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 #### 🔭 Latest releases I've contributed to
 
 - [thetestgame/pyLionChief](https://github.com/thetestgame/pyLionChief) ([1.0.0](https://github.com/thetestgame/pyLionChief/releases/tag/1.0.0), 1 month ago) - An open-source project that provides Python access to the Lionel&#39;s LionChief line of trains
-- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) ([1.0.3](https://github.com/thetestgame/pyDroidDepot/releases/tag/1.0.3), 4 months ago) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot
-- [thetestgame/pydBeacon](https://github.com/thetestgame/pydBeacon) ([1.0.0](https://github.com/thetestgame/pydBeacon/releases/tag/1.0.0), 4 months ago) - An experimental open source Python library for reading/writing Disney Theme Park Bluetooth Beacon data.
+- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) ([1.0.3](https://github.com/thetestgame/pyDroidDepot/releases/tag/1.0.3), 5 months ago) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot
+- [thetestgame/pydBeacon](https://github.com/thetestgame/pydBeacon) ([1.0.0](https://github.com/thetestgame/pydBeacon/releases/tag/1.0.0), 5 months ago) - An experimental open source Python library for reading/writing Disney Theme Park Bluetooth Beacon data.
 
 ---
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update package.json](https://github.com/StrangeLoopGames/NativeTime/pull/4) on [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) (1 week ago)
+- [Update package.json](https://github.com/StrangeLoopGames/NativeTime/pull/4) on [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) (2 weeks ago)
 - [Update ci.yml](https://github.com/thetestgame/Astron/pull/1) on [thetestgame/Astron](https://github.com/thetestgame/Astron) (4 months ago)
 - [Update motor.py](https://github.com/thetestgame/pyDroidDepot/pull/1) on [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) (6 months ago)
 - [Updated README](https://github.com/thetestgame/Discord-Game-SDK/pull/1) on [thetestgame/Discord-Game-SDK](https://github.com/thetestgame/Discord-Game-SDK) (10 months ago)
