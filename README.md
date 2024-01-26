@@ -24,7 +24,7 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
-- [StrangeDeveloperProgram/.github](https://github.com/StrangeDeveloperProgram/.github) - Github profile repository for the Strange Developer Program (5 days ago)
+- [StrangeDeveloperProgram/.github](https://github.com/StrangeDeveloperProgram/.github) - Github profile repository for the Strange Developer Program (6 days ago)
 - [GamePackets/gamepackets.github.io](https://github.com/GamePackets/gamepackets.github.io) (1 week ago)
 - [GamePackets/GamePacketTemplate](https://github.com/GamePackets/GamePacketTemplate) (1 week ago)
 - [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) - Native time Unity package for burst compatibility (2 weeks ago)
