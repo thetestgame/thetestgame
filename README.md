@@ -27,8 +27,8 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 - [StrangeDeveloperProgram/.github](https://github.com/StrangeDeveloperProgram/.github) - Github profile repository for the Strange Developer Program (1 week ago)
 - [GamePackets/gamepackets.github.io](https://github.com/GamePackets/gamepackets.github.io) (1 week ago)
 - [GamePackets/GamePacketTemplate](https://github.com/GamePackets/GamePacketTemplate) (1 week ago)
-- [StrangeLoopGames/UnityTransformChanges](https://github.com/StrangeLoopGames/UnityTransformChanges) - Native Plugin for Unity which helps to track all transform changes (2 weeks ago)
 - [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) - Native time Unity package for burst compatibility (2 weeks ago)
+- [StrangeLoopGames/RuntimeGraphicsInfo](https://github.com/StrangeLoopGames/RuntimeGraphicsInfo) (2 weeks ago)
 
 ---
 
@@ -38,7 +38,7 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 - [thetestgame/cloudflare-ad-blocker](https://github.com/thetestgame/cloudflare-ad-blocker) - Automatically updated CloudFlare DNS Gateway Ad Blocker
 - [thetestgame/pydBeacon](https://github.com/thetestgame/pydBeacon) - An experimental open source Python library for reading/writing Disney Theme Park Bluetooth Beacon data.
 - [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot
-- [thetestgame/Unity-Toolbox](https://github.com/thetestgame/Unity-Toolbox) - A collection of scripts and utilities for working with Unity3D
+- [thetestgame/STOVE-PC-SDK](https://github.com/thetestgame/STOVE-PC-SDK) - The STOVE PC SDK repackaged as a Unity Package
 
 ---
 
