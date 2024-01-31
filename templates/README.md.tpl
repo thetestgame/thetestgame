@@ -16,8 +16,6 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 ## :briefcase: Where I am currently working at/as
 
 * Game Developer at Strange Loop Games
-* Game Developer at Digital Descent
-* Software Developer at Future State Consulting
 
 ---
 
