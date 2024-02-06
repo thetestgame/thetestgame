@@ -22,11 +22,11 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
-- [DigitalDescent/Steam-Postman-Collection](https://github.com/DigitalDescent/Steam-Postman-Collection) - An automatically generated Postman collection for Steam&#39;s entire web api (3 days ago)
-- [StrangeDeveloperProgram/.github](https://github.com/StrangeDeveloperProgram/.github) - Github profile repository for the Strange Developer Program (6 days ago)
+- [DigitalDescent/Steam-Postman-Collection](https://github.com/DigitalDescent/Steam-Postman-Collection) - An automatically generated Postman collection for Steam&#39;s entire web api (4 days ago)
+- [StrangeDeveloperProgram/.github](https://github.com/StrangeDeveloperProgram/.github) - Github profile repository for the Strange Developer Program (1 week ago)
 - [GamePackets/gamepackets.github.io](https://github.com/GamePackets/gamepackets.github.io) (2 weeks ago)
 - [GamePackets/GamePacketTemplate](https://github.com/GamePackets/GamePacketTemplate) (2 weeks ago)
-- [StrangeLoopGames/RuntimeGraphicsInfo](https://github.com/StrangeLoopGames/RuntimeGraphicsInfo) (3 weeks ago)
+- [StrangeLoopGames/RuntimeGraphicsInfo](https://github.com/StrangeLoopGames/RuntimeGraphicsInfo) (4 weeks ago)
 
 ---
 
@@ -50,7 +50,7 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update package.json](https://github.com/StrangeLoopGames/NativeTime/pull/4) on [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) (3 weeks ago)
+- [Update package.json](https://github.com/StrangeLoopGames/NativeTime/pull/4) on [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) (4 weeks ago)
 - [Update ci.yml](https://github.com/thetestgame/Astron/pull/1) on [thetestgame/Astron](https://github.com/thetestgame/Astron) (5 months ago)
 - [Update motor.py](https://github.com/thetestgame/pyDroidDepot/pull/1) on [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) (6 months ago)
 - [Updated README](https://github.com/thetestgame/Discord-Game-SDK/pull/1) on [thetestgame/Discord-Game-SDK](https://github.com/thetestgame/Discord-Game-SDK) (11 months ago)
