@@ -23,7 +23,7 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 
 
 - [DigitalDescent/Steam-Postman-Collection](https://github.com/DigitalDescent/Steam-Postman-Collection) - An automatically generated Postman collection for Steam&#39;s entire web api (1 week ago)
-- [StrangeDeveloperProgram/.github](https://github.com/StrangeDeveloperProgram/.github) - Github profile repository for the Strange Developer Program (1 week ago)
+- [StrangeDeveloperProgram/.github](https://github.com/StrangeDeveloperProgram/.github) - Github profile repository for the Strange Developer Program (2 weeks ago)
 - [GamePackets/gamepackets.github.io](https://github.com/GamePackets/gamepackets.github.io) (3 weeks ago)
 - [GamePackets/GamePacketTemplate](https://github.com/GamePackets/GamePacketTemplate) (3 weeks ago)
 - [StrangeLoopGames/RuntimeGraphicsInfo](https://github.com/StrangeLoopGames/RuntimeGraphicsInfo) (1 month ago)
