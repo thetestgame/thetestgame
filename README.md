@@ -22,7 +22,7 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
-- [StrangeLoopGames/OrchardEcoWebsite](https://github.com/StrangeLoopGames/OrchardEcoWebsite) (5 days ago)
+- [StrangeLoopGames/OrchardEcoWebsite](https://github.com/StrangeLoopGames/OrchardEcoWebsite) (6 days ago)
 - [DigitalDescent/Steam-Postman-Collection](https://github.com/DigitalDescent/Steam-Postman-Collection) - An automatically generated Postman collection for Steam&#39;s entire web api (2 weeks ago)
 - [StrangeDeveloperProgram/.github](https://github.com/StrangeDeveloperProgram/.github) - Github profile repository for the Strange Developer Program (3 weeks ago)
 - [GamePackets/GamePacketTemplate](https://github.com/GamePackets/GamePacketTemplate) (1 month ago)
@@ -43,8 +43,8 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 #### 🔭 Latest releases I've contributed to
 
 - [thetestgame/pyLionChief](https://github.com/thetestgame/pyLionChief) ([1.0.0](https://github.com/thetestgame/pyLionChief/releases/tag/1.0.0), 2 months ago) - An open-source project that provides Python access to the Lionel&#39;s LionChief line of trains
-- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) ([1.0.3](https://github.com/thetestgame/pyDroidDepot/releases/tag/1.0.3), 5 months ago) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot
-- [thetestgame/pydBeacon](https://github.com/thetestgame/pydBeacon) ([1.0.0](https://github.com/thetestgame/pydBeacon/releases/tag/1.0.0), 5 months ago) - An experimental open source Python library for reading/writing Disney Theme Park Bluetooth Beacon data.
+- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) ([1.0.3](https://github.com/thetestgame/pyDroidDepot/releases/tag/1.0.3), 6 months ago) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot
+- [thetestgame/pydBeacon](https://github.com/thetestgame/pydBeacon) ([1.0.0](https://github.com/thetestgame/pydBeacon/releases/tag/1.0.0), 6 months ago) - An experimental open source Python library for reading/writing Disney Theme Park Bluetooth Beacon data.
 
 ---
 
