@@ -43,7 +43,7 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 
 #### 🔭 Latest releases I've contributed to
 
-- [thetestgame/pyLionChief](https://github.com/thetestgame/pyLionChief) ([1.0.0](https://github.com/thetestgame/pyLionChief/releases/tag/1.0.0), 3 months ago) - An open-source project that provides Python access to the Lionel&#39;s LionChief line of trains
+- [thetestgame/pyLionChief](https://github.com/thetestgame/pyLionChief) ([1.0.0](https://github.com/thetestgame/pyLionChief/releases/tag/1.0.0), 4 months ago) - An open-source project that provides Python access to the Lionel&#39;s LionChief line of trains
 - [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) ([1.0.3](https://github.com/thetestgame/pyDroidDepot/releases/tag/1.0.3), 7 months ago) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot
 - [thetestgame/pydBeacon](https://github.com/thetestgame/pydBeacon) ([1.0.0](https://github.com/thetestgame/pydBeacon/releases/tag/1.0.0), 7 months ago) - An experimental open source Python library for reading/writing Disney Theme Park Bluetooth Beacon data.
 
