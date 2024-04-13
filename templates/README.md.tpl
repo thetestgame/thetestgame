@@ -15,7 +15,7 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 
 ## :briefcase: Where I am currently working at/as
 
-* Software Engineer at Microsoft working on Minecraft
+* DevOps Engineer at Microsoft working on Minecraft
 * Freelance game developer
 
 ---
