@@ -23,9 +23,9 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
-- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot (6 days ago)
+- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot (1 week ago)
 - [StrangeLoopGames/PlayEcoWebsite](https://github.com/StrangeLoopGames/PlayEcoWebsite) (2 months ago)
-- [DigitalDescent/Steam-Postman-Collection](https://github.com/DigitalDescent/Steam-Postman-Collection) - An automatically generated Postman collection for Steam&#39;s entire web api (2 months ago)
+- [DigitalDescent/Steam-Postman-Collection](https://github.com/DigitalDescent/Steam-Postman-Collection) - An automatically generated Postman collection for Steam&#39;s entire web api (3 months ago)
 - [GamePackets/GamePacketTemplate](https://github.com/GamePackets/GamePacketTemplate) (3 months ago)
 - [GamePackets/gamepackets.github.io](https://github.com/GamePackets/gamepackets.github.io) (3 months ago)
 
@@ -43,7 +43,7 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 
 #### 🔭 Latest releases I've contributed to
 
-- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) ([1.1.0](https://github.com/thetestgame/pyDroidDepot/releases/tag/1.1.0), 6 days ago) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot
+- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) ([1.1.0](https://github.com/thetestgame/pyDroidDepot/releases/tag/1.1.0), 1 week ago) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot
 - [thetestgame/pyLionChief](https://github.com/thetestgame/pyLionChief) ([1.0.0](https://github.com/thetestgame/pyLionChief/releases/tag/1.0.0), 5 months ago) - An open-source project that provides Python access to the Lionel&#39;s LionChief line of trains
 - [thetestgame/pydBeacon](https://github.com/thetestgame/pydBeacon) ([1.0.0](https://github.com/thetestgame/pydBeacon/releases/tag/1.0.0), 8 months ago) - An experimental open source Python library for reading/writing Disney Theme Park Bluetooth Beacon data.
 
