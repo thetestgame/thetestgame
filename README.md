@@ -43,8 +43,8 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 
 #### 🔭 Latest releases I've contributed to
 
-- [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) ([0.2.1](https://github.com/StrangeLoopGames/NativeTime/releases/tag/0.2.1), 5 days ago) - Native time Unity package for burst compatibility
-- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) ([1.1.0](https://github.com/thetestgame/pyDroidDepot/releases/tag/1.1.0), 3 weeks ago) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot
+- [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) ([0.2.1](https://github.com/StrangeLoopGames/NativeTime/releases/tag/0.2.1), 6 days ago) - Native time Unity package for burst compatibility
+- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) ([1.1.0](https://github.com/thetestgame/pyDroidDepot/releases/tag/1.1.0), 4 weeks ago) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot
 - [thetestgame/pyLionChief](https://github.com/thetestgame/pyLionChief) ([1.0.0](https://github.com/thetestgame/pyLionChief/releases/tag/1.0.0), 5 months ago) - An open-source project that provides Python access to the Lionel&#39;s LionChief line of trains
 - [thetestgame/pydBeacon](https://github.com/thetestgame/pydBeacon) ([1.0.0](https://github.com/thetestgame/pydBeacon/releases/tag/1.0.0), 9 months ago) - An experimental open source Python library for reading/writing Disney Theme Park Bluetooth Beacon data.
 
@@ -53,7 +53,7 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 #### 🔨 Latest Pull Requests I published
 
 - [Update package.json](https://github.com/StrangeLoopGames/NativeTime/pull/4) on [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) (4 months ago)
-- [Update ci.yml](https://github.com/thetestgame/Astron/pull/1) on [thetestgame/Astron](https://github.com/thetestgame/Astron) (8 months ago)
+- [Update ci.yml](https://github.com/thetestgame/Astron/pull/1) on [thetestgame/Astron](https://github.com/thetestgame/Astron) (9 months ago)
 - [Update motor.py](https://github.com/thetestgame/pyDroidDepot/pull/1) on [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) (10 months ago)
 - [Updated README](https://github.com/thetestgame/Discord-Game-SDK/pull/1) on [thetestgame/Discord-Game-SDK](https://github.com/thetestgame/Discord-Game-SDK) (1 year ago)
 - [Added 9.6.x support](https://github.com/thetestgame/Eco-HairDyes/pull/1) on [thetestgame/Eco-HairDyes](https://github.com/thetestgame/Eco-HairDyes) (2 years ago)
