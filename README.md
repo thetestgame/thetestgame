@@ -43,7 +43,7 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 
 #### 🔭 Latest releases I've contributed to
 
-- [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) ([0.2.1](https://github.com/StrangeLoopGames/NativeTime/releases/tag/0.2.1), 1 week ago) - Native time Unity package for burst compatibility
+- [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) ([0.2.1](https://github.com/StrangeLoopGames/NativeTime/releases/tag/0.2.1), 2 weeks ago) - Native time Unity package for burst compatibility
 - [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) ([1.1.0](https://github.com/thetestgame/pyDroidDepot/releases/tag/1.1.0), 1 month ago) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot
 - [thetestgame/pyLionChief](https://github.com/thetestgame/pyLionChief) ([1.0.0](https://github.com/thetestgame/pyLionChief/releases/tag/1.0.0), 6 months ago) - An open-source project that provides Python access to the Lionel&#39;s LionChief line of trains
 - [thetestgame/pydBeacon](https://github.com/thetestgame/pydBeacon) ([1.0.0](https://github.com/thetestgame/pydBeacon/releases/tag/1.0.0), 9 months ago) - An experimental open source Python library for reading/writing Disney Theme Park Bluetooth Beacon data.
