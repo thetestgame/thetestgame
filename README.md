@@ -26,8 +26,8 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 - [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot (1 month ago)
 - [StrangeLoopGames/PlayEcoWebsite](https://github.com/StrangeLoopGames/PlayEcoWebsite) (4 months ago)
 - [DigitalDescent/Steam-Postman-Collection](https://github.com/DigitalDescent/Steam-Postman-Collection) - An automatically generated Postman collection for Steam&#39;s entire web api (4 months ago)
-- [GamePackets/GamePacketTemplate](https://github.com/GamePackets/GamePacketTemplate) (4 months ago)
-- [GamePackets/gamepackets.github.io](https://github.com/GamePackets/gamepackets.github.io) (4 months ago)
+- [GamePackets/GamePacketTemplate](https://github.com/GamePackets/GamePacketTemplate) (5 months ago)
+- [GamePackets/gamepackets.github.io](https://github.com/GamePackets/gamepackets.github.io) (5 months ago)
 
 ---
 
@@ -43,7 +43,7 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 
 #### 🔭 Latest releases I've contributed to
 
-- [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) ([0.2.1](https://github.com/StrangeLoopGames/NativeTime/releases/tag/0.2.1), 4 weeks ago) - Native time Unity package for burst compatibility
+- [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) ([0.2.1](https://github.com/StrangeLoopGames/NativeTime/releases/tag/0.2.1), 1 month ago) - Native time Unity package for burst compatibility
 - [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) ([1.1.0](https://github.com/thetestgame/pyDroidDepot/releases/tag/1.1.0), 1 month ago) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot
 - [thetestgame/pyLionChief](https://github.com/thetestgame/pyLionChief) ([1.0.0](https://github.com/thetestgame/pyLionChief/releases/tag/1.0.0), 6 months ago) - An open-source project that provides Python access to the Lionel&#39;s LionChief line of trains
 - [thetestgame/pydBeacon](https://github.com/thetestgame/pydBeacon) ([1.0.0](https://github.com/thetestgame/pydBeacon/releases/tag/1.0.0), 9 months ago) - An experimental open source Python library for reading/writing Disney Theme Park Bluetooth Beacon data.
