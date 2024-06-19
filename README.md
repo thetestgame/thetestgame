@@ -7,7 +7,7 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 
 ## Personal Projects and Facts
 
-- 🔭 I’m currently working on an experimental virtual assistant named Alice. You can find out more [here](https://github.com/AliceHomeAI)
+- 🔭 I’m currently working on an various open source Unity Packages
 - 🌱 I’m currently learning Kubernetes.
 - ⚡ Fun fact: I've been writing software since I was around 8 years old. I was drawn to programming through my interest in video games.
 
@@ -16,6 +16,7 @@ I'm a professional Game Developer and Web Developer based in Wisconsin.
 ## :briefcase: Where I am currently working at/as
 
 * DevOps Engineer at Microsoft working on Minecraft
+* Lead Developer & Co-Founder at Digital Descent
 * Freelance game developer
 
 ---
