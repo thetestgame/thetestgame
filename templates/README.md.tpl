@@ -3,7 +3,7 @@
 Hello, My name is Jordan Maxwell! :wave:
 ----
 
-I'm a professional Game Developer and Web Developer based in Wisconsin.
+I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 ## Personal Projects and Facts
 
