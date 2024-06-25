@@ -24,8 +24,8 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
-- [GamePackets/.github](https://github.com/GamePackets/.github) (5 days ago)
-- [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - My personal website and portfolio. Statically hosted on Github Pages (6 days ago)
+- [GamePackets/.github](https://github.com/GamePackets/.github) (6 days ago)
+- [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - My personal website and portfolio. Statically hosted on Github Pages (1 week ago)
 - [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot (1 month ago)
 - [StrangeLoopGames/PlayEcoWebsite](https://github.com/StrangeLoopGames/PlayEcoWebsite) (4 months ago)
 - [DigitalDescent/Steam-Postman-Collection](https://github.com/DigitalDescent/Steam-Postman-Collection) - An automatically generated Postman collection for Steam&#39;s entire web api (4 months ago)
