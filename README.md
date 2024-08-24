@@ -53,8 +53,8 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Added commit based tags ](https://github.com/thetestgame/steam-docker/pull/2) on [thetestgame/steam-docker](https://github.com/thetestgame/steam-docker) (6 days ago)
-- [Update Ubuntu version](https://github.com/thetestgame/steam-docker/pull/1) on [thetestgame/steam-docker](https://github.com/thetestgame/steam-docker) (6 days ago)
+- [Added commit based tags ](https://github.com/thetestgame/steam-docker/pull/2) on [thetestgame/steam-docker](https://github.com/thetestgame/steam-docker) (1 week ago)
+- [Update Ubuntu version](https://github.com/thetestgame/steam-docker/pull/1) on [thetestgame/steam-docker](https://github.com/thetestgame/steam-docker) (1 week ago)
 - [Update package.json](https://github.com/StrangeLoopGames/NativeTime/pull/4) on [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) (7 months ago)
 - [Update ci.yml](https://github.com/thetestgame/Astron/pull/1) on [thetestgame/Astron](https://github.com/thetestgame/Astron) (1 year ago)
 - [Update motor.py](https://github.com/thetestgame/pyDroidDepot/pull/1) on [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) (1 year ago)
