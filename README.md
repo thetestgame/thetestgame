@@ -24,21 +24,21 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
-- [thetestgame/gh-pages-cdn](https://github.com/thetestgame/gh-pages-cdn) - CDN for distributing files through my Github Pages (1 day ago)
+- [thetestgame/actionflow-workflows](https://github.com/thetestgame/actionflow-workflows) - Zapier/IFTTT alternative for developing automated workflows using Github actions (1 day ago)
 - [thetestgame/gh-pages-url-shortener](https://github.com/thetestgame/gh-pages-url-shortener) - Github Pages hosted url shortening service (1 day ago)
 - [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot (1 day ago)
+- [thetestgame/gh-pages-cdn](https://github.com/thetestgame/gh-pages-cdn) - CDN for distributing files through my Github Pages (1 day ago)
 - [DigitalDescent/Steam-Postman-Collection](https://github.com/DigitalDescent/Steam-Postman-Collection) - An automatically generated Postman collection for Steam&#39;s entire web api (2 days ago)
-- [GamePackets/.github](https://github.com/GamePackets/.github) (2 months ago)
 
 ---
 
 #### 🌱 My latest projects
 
+- [thetestgame/actionflow-workflows](https://github.com/thetestgame/actionflow-workflows) - Zapier/IFTTT alternative for developing automated workflows using Github actions
 - [thetestgame/gh-pages-url-shortener](https://github.com/thetestgame/gh-pages-url-shortener) - Github Pages hosted url shortening service
 - [thetestgame/pyLionChief](https://github.com/thetestgame/pyLionChief) - An open-source project that provides Python access to the Lionel&#39;s LionChief line of trains
 - [thetestgame/pydBeacon](https://github.com/thetestgame/pydBeacon) - An experimental open source Python library for reading/writing Disney Theme Park Bluetooth Beacon data.
 - [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot
-- [thetestgame/STOVE-PC-SDK](https://github.com/thetestgame/STOVE-PC-SDK) - The STOVE PC SDK repackaged as a Unity Package
 
 ---
 
