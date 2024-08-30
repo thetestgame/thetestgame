@@ -25,10 +25,10 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 
 - [thetestgame/gh-pages-url-shortener](https://github.com/thetestgame/gh-pages-url-shortener) - Github Pages hosted url shortening service (today)
-- [thetestgame/gh-pages-cdn](https://github.com/thetestgame/gh-pages-cdn) - CDN for distributing files through my Github Pages (1 day ago)
+- [thetestgame/panda3d-sprite](https://github.com/thetestgame/panda3d-sprite) - Library for using sprite sheets and animating them in the Panda3D game engine (today)
+- [DigitalDescent/steam-postman-collection](https://github.com/DigitalDescent/steam-postman-collection) - An automatically generated Postman collection for Steam&#39;s entire web api (today)
 - [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot (1 day ago)
-- [DigitalDescent/Steam-Postman-Collection](https://github.com/DigitalDescent/Steam-Postman-Collection) - An automatically generated Postman collection for Steam&#39;s entire web api (2 days ago)
-- [GamePackets/.github](https://github.com/GamePackets/.github) (2 months ago)
+- [thetestgame/gh-pages-cdn](https://github.com/thetestgame/gh-pages-cdn) - CDN for distributing files through my Github Pages (1 day ago)
 
 ---
 
@@ -44,6 +44,7 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 #### 🔭 Latest releases I've contributed to
 
+- [thetestgame/panda3d-sprite](https://github.com/thetestgame/panda3d-sprite) ([1.1.0](https://github.com/thetestgame/panda3d-sprite/releases/tag/1.1.0), today) - Library for using sprite sheets and animating them in the Panda3D game engine
 - [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) ([0.2.2](https://github.com/StrangeLoopGames/NativeTime/releases/tag/0.2.2), 2 months ago) - Native time Unity package for burst compatibility
 - [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) ([1.1.0](https://github.com/thetestgame/pyDroidDepot/releases/tag/1.1.0), 4 months ago) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot
 - [thetestgame/pyLionChief](https://github.com/thetestgame/pyLionChief) ([1.0.0](https://github.com/thetestgame/pyLionChief/releases/tag/1.0.0), 9 months ago) - An open-source project that provides Python access to the Lionel&#39;s LionChief line of trains
@@ -52,8 +53,8 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: Perform test runs on pull requests](https://github.com/DigitalDescent/Steam-Postman-Collection/pull/3) on [DigitalDescent/Steam-Postman-Collection](https://github.com/DigitalDescent/Steam-Postman-Collection) (1 day ago)
-- [feat: Restore automatic Postman collection builds](https://github.com/DigitalDescent/Steam-Postman-Collection/pull/2) on [DigitalDescent/Steam-Postman-Collection](https://github.com/DigitalDescent/Steam-Postman-Collection) (1 day ago)
+- [feat: Perform test runs on pull requests](https://github.com/DigitalDescent/steam-postman-collection/pull/3) on [DigitalDescent/steam-postman-collection](https://github.com/DigitalDescent/steam-postman-collection) (1 day ago)
+- [feat: Restore automatic Postman collection builds](https://github.com/DigitalDescent/steam-postman-collection/pull/2) on [DigitalDescent/steam-postman-collection](https://github.com/DigitalDescent/steam-postman-collection) (1 day ago)
 - [Added commit based tags ](https://github.com/thetestgame/steam-docker/pull/2) on [thetestgame/steam-docker](https://github.com/thetestgame/steam-docker) (1 week ago)
 - [Update Ubuntu version](https://github.com/thetestgame/steam-docker/pull/1) on [thetestgame/steam-docker](https://github.com/thetestgame/steam-docker) (1 week ago)
 - [Update package.json](https://github.com/StrangeLoopGames/NativeTime/pull/4) on [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) (7 months ago)
