@@ -24,11 +24,11 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
-- [thetestgame/satisfactory-docker](https://github.com/thetestgame/satisfactory-docker) - Satisafactory Steam server running inside a Docker container. (1 week ago)
+- [thetestgame/panda3d-sprite](https://github.com/thetestgame/panda3d-sprite) - Library for using sprite sheets and animating them in the Panda3D game engine (1 week ago)
 - [thetestgame/gh-pages-url-shortener](https://github.com/thetestgame/gh-pages-url-shortener) - Github Pages hosted url shortening service (1 week ago)
 - [DigitalDescent/steam-postman-collection](https://github.com/DigitalDescent/steam-postman-collection) - An automatically generated Postman collection for Steam&#39;s entire web api (1 week ago)
-- [thetestgame/panda3d-sprite](https://github.com/thetestgame/panda3d-sprite) - Library for using sprite sheets and animating them in the Panda3D game engine (1 week ago)
-- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot (1 week ago)
+- [thetestgame/satisfactory-docker](https://github.com/thetestgame/satisfactory-docker) - Satisafactory Steam server running inside a Docker container. (1 week ago)
+- [thetestgame/gh-pages-cdn](https://github.com/thetestgame/gh-pages-cdn) - CDN for distributing files through my Github Pages (1 week ago)
 
 ---
 
