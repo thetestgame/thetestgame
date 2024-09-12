@@ -28,7 +28,7 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 - [thetestgame/gh-pages-url-shortener](https://github.com/thetestgame/gh-pages-url-shortener) - Github Pages hosted url shortening service (1 week ago)
 - [DigitalDescent/steam-postman-collection](https://github.com/DigitalDescent/steam-postman-collection) - An automatically generated Postman collection for Steam&#39;s entire web api (1 week ago)
 - [thetestgame/satisfactory-docker](https://github.com/thetestgame/satisfactory-docker) - Satisafactory Steam server running inside a Docker container. (1 week ago)
-- [thetestgame/gh-pages-cdn](https://github.com/thetestgame/gh-pages-cdn) - CDN for distributing files through my Github Pages (1 week ago)
+- [thetestgame/gh-pages-cdn](https://github.com/thetestgame/gh-pages-cdn) - CDN for distributing files through my Github Pages (2 weeks ago)
 
 ---
 
@@ -53,8 +53,8 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: Perform test runs on pull requests](https://github.com/DigitalDescent/steam-postman-collection/pull/3) on [DigitalDescent/steam-postman-collection](https://github.com/DigitalDescent/steam-postman-collection) (1 week ago)
-- [feat: Restore automatic Postman collection builds](https://github.com/DigitalDescent/steam-postman-collection/pull/2) on [DigitalDescent/steam-postman-collection](https://github.com/DigitalDescent/steam-postman-collection) (1 week ago)
+- [feat: Perform test runs on pull requests](https://github.com/DigitalDescent/steam-postman-collection/pull/3) on [DigitalDescent/steam-postman-collection](https://github.com/DigitalDescent/steam-postman-collection) (2 weeks ago)
+- [feat: Restore automatic Postman collection builds](https://github.com/DigitalDescent/steam-postman-collection/pull/2) on [DigitalDescent/steam-postman-collection](https://github.com/DigitalDescent/steam-postman-collection) (2 weeks ago)
 - [Added commit based tags ](https://github.com/thetestgame/steam-docker/pull/2) on [thetestgame/steam-docker](https://github.com/thetestgame/steam-docker) (3 weeks ago)
 - [Update Ubuntu version](https://github.com/thetestgame/steam-docker/pull/1) on [thetestgame/steam-docker](https://github.com/thetestgame/steam-docker) (3 weeks ago)
 - [Update package.json](https://github.com/StrangeLoopGames/NativeTime/pull/4) on [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) (8 months ago)
