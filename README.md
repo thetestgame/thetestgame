@@ -55,8 +55,8 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 - [feat: Perform test runs on pull requests](https://github.com/DigitalDescent/steam-postman-collection/pull/3) on [DigitalDescent/steam-postman-collection](https://github.com/DigitalDescent/steam-postman-collection) (2 weeks ago)
 - [feat: Restore automatic Postman collection builds](https://github.com/DigitalDescent/steam-postman-collection/pull/2) on [DigitalDescent/steam-postman-collection](https://github.com/DigitalDescent/steam-postman-collection) (2 weeks ago)
-- [Added commit based tags ](https://github.com/thetestgame/steam-docker/pull/2) on [thetestgame/steam-docker](https://github.com/thetestgame/steam-docker) (4 weeks ago)
-- [Update Ubuntu version](https://github.com/thetestgame/steam-docker/pull/1) on [thetestgame/steam-docker](https://github.com/thetestgame/steam-docker) (4 weeks ago)
+- [Added commit based tags ](https://github.com/thetestgame/steam-docker/pull/2) on [thetestgame/steam-docker](https://github.com/thetestgame/steam-docker) (1 month ago)
+- [Update Ubuntu version](https://github.com/thetestgame/steam-docker/pull/1) on [thetestgame/steam-docker](https://github.com/thetestgame/steam-docker) (1 month ago)
 - [Update package.json](https://github.com/StrangeLoopGames/NativeTime/pull/4) on [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) (8 months ago)
 
 ### Find me elsewhere 🌎
