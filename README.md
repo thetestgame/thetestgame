@@ -23,21 +23,21 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
-- [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - My personal website and portfolio. Statically hosted on Github Pages (1 day ago)
+- [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - My personal website and portfolio. Statically hosted on Github Pages (today)
+- [thetestgame/gh-pages-twitch-overlays](https://github.com/thetestgame/gh-pages-twitch-overlays) - Collection of Streamer.bot actions and commands and Github Pages hosted streamer overlays. (today)
 - [DigitalDescent/steam-postman-collection](https://github.com/DigitalDescent/steam-postman-collection) - An automatically generated Postman collection for Steam&#39;s entire web api (1 day ago)
-- [thetestgame/panda3d-sprite](https://github.com/thetestgame/panda3d-sprite) - Library for using sprite sheets and animating them in the Panda3D game engine (3 weeks ago)
+- [GamePackets/dkr-steam-satisfactory](https://github.com/GamePackets/dkr-steam-satisfactory) - Satisafactory Steam server running inside a Docker container. (3 weeks ago)
 - [thetestgame/gh-pages-url-shortener](https://github.com/thetestgame/gh-pages-url-shortener) - Github Pages hosted url shortening service (3 weeks ago)
-- [thetestgame/satisfactory-docker](https://github.com/thetestgame/satisfactory-docker) - Satisafactory Steam server running inside a Docker container. (3 weeks ago)
 
 ---
 
 #### 🌱 My latest projects
 
-- [thetestgame/satisfactory-docker](https://github.com/thetestgame/satisfactory-docker) - Satisafactory Steam server running inside a Docker container.
 - [thetestgame/gh-pages-url-shortener](https://github.com/thetestgame/gh-pages-url-shortener) - Github Pages hosted url shortening service
 - [thetestgame/gh-pages-database](https://github.com/thetestgame/gh-pages-database)
 - [thetestgame/gh-pages-twitch-overlays](https://github.com/thetestgame/gh-pages-twitch-overlays) - Collection of Streamer.bot actions and commands and Github Pages hosted streamer overlays.
 - [thetestgame/pyLionChief](https://github.com/thetestgame/pyLionChief) - An open-source project that provides Python access to the Lionel&#39;s LionChief line of trains
+- [thetestgame/pydBeacon](https://github.com/thetestgame/pydBeacon) - An experimental open source Python library for reading/writing Disney Theme Park Bluetooth Beacon data.
 
 ---
 
@@ -54,8 +54,8 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 - [feat: Perform test runs on pull requests](https://github.com/DigitalDescent/steam-postman-collection/pull/3) on [DigitalDescent/steam-postman-collection](https://github.com/DigitalDescent/steam-postman-collection) (3 weeks ago)
 - [feat: Restore automatic Postman collection builds](https://github.com/DigitalDescent/steam-postman-collection/pull/2) on [DigitalDescent/steam-postman-collection](https://github.com/DigitalDescent/steam-postman-collection) (3 weeks ago)
-- [Added commit based tags ](https://github.com/thetestgame/steam-docker/pull/2) on [thetestgame/steam-docker](https://github.com/thetestgame/steam-docker) (1 month ago)
-- [Update Ubuntu version](https://github.com/thetestgame/steam-docker/pull/1) on [thetestgame/steam-docker](https://github.com/thetestgame/steam-docker) (1 month ago)
+- [Added commit based tags ](https://github.com/GamePackets/dkr-steam-server/pull/2) on [GamePackets/dkr-steam-server](https://github.com/GamePackets/dkr-steam-server) (1 month ago)
+- [Update Ubuntu version](https://github.com/GamePackets/dkr-steam-server/pull/1) on [GamePackets/dkr-steam-server](https://github.com/GamePackets/dkr-steam-server) (1 month ago)
 - [Update package.json](https://github.com/StrangeLoopGames/NativeTime/pull/4) on [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) (8 months ago)
 
 ### Find me elsewhere 🌎
