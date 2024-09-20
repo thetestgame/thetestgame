@@ -15,8 +15,7 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 ## :briefcase: Where I am currently working at/as
 
-* DevOps Engineer at Microsoft working on Minecraft
-* Lead Developer & Co-Founder at Digital Descent
+* Lab Automation Engineer at Microsoft working on Minecraft
 * Freelance game developer
 
 ---
@@ -37,7 +36,7 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 - [thetestgame/satisfactory-docker](https://github.com/thetestgame/satisfactory-docker) - Satisafactory Steam server running inside a Docker container.
 - [thetestgame/gh-pages-url-shortener](https://github.com/thetestgame/gh-pages-url-shortener) - Github Pages hosted url shortening service
 - [thetestgame/gh-pages-database](https://github.com/thetestgame/gh-pages-database)
-- [thetestgame/gh-twitch-overlays](https://github.com/thetestgame/gh-twitch-overlays) - Collection of Streamer.bot actions and commands and Github Pages hosted streamer overlays.
+- [thetestgame/gh-pages-twitch-overlays](https://github.com/thetestgame/gh-pages-twitch-overlays) - Collection of Streamer.bot actions and commands and Github Pages hosted streamer overlays.
 - [thetestgame/pyLionChief](https://github.com/thetestgame/pyLionChief) - An open-source project that provides Python access to the Lionel&#39;s LionChief line of trains
 
 ---
