@@ -15,8 +15,7 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 ## :briefcase: Where I am currently working at/as
 
-* DevOps Engineer at Microsoft working on Minecraft
-* Lead Developer & Co-Founder at Digital Descent
+* Lab Automation Engineer at Microsoft working on Minecraft
 * Freelance game developer
 
 ---
