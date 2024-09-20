@@ -24,10 +24,10 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
-- [DigitalDescent/steam-postman-collection](https://github.com/DigitalDescent/steam-postman-collection) - An automatically generated Postman collection for Steam&#39;s entire web api (today)
-- [thetestgame/satisfactory-docker](https://github.com/thetestgame/satisfactory-docker) - Satisafactory Steam server running inside a Docker container. (2 weeks ago)
-- [thetestgame/gh-pages-url-shortener](https://github.com/thetestgame/gh-pages-url-shortener) - Github Pages hosted url shortening service (2 weeks ago)
-- [thetestgame/panda3d-sprite](https://github.com/thetestgame/panda3d-sprite) - Library for using sprite sheets and animating them in the Panda3D game engine (2 weeks ago)
+- [DigitalDescent/steam-postman-collection](https://github.com/DigitalDescent/steam-postman-collection) - An automatically generated Postman collection for Steam&#39;s entire web api (1 day ago)
+- [thetestgame/satisfactory-docker](https://github.com/thetestgame/satisfactory-docker) - Satisafactory Steam server running inside a Docker container. (3 weeks ago)
+- [thetestgame/gh-pages-url-shortener](https://github.com/thetestgame/gh-pages-url-shortener) - Github Pages hosted url shortening service (3 weeks ago)
+- [thetestgame/panda3d-sprite](https://github.com/thetestgame/panda3d-sprite) - Library for using sprite sheets and animating them in the Panda3D game engine (3 weeks ago)
 - [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot (3 weeks ago)
 
 ---
@@ -44,7 +44,7 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 #### 🔭 Latest releases I've contributed to
 
-- [thetestgame/panda3d-sprite](https://github.com/thetestgame/panda3d-sprite) ([1.1.0](https://github.com/thetestgame/panda3d-sprite/releases/tag/1.1.0), 2 weeks ago) - Library for using sprite sheets and animating them in the Panda3D game engine
+- [thetestgame/panda3d-sprite](https://github.com/thetestgame/panda3d-sprite) ([1.1.0](https://github.com/thetestgame/panda3d-sprite/releases/tag/1.1.0), 3 weeks ago) - Library for using sprite sheets and animating them in the Panda3D game engine
 - [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) ([0.2.2](https://github.com/StrangeLoopGames/NativeTime/releases/tag/0.2.2), 2 months ago) - Native time Unity package for burst compatibility
 - [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) ([1.1.0](https://github.com/thetestgame/pyDroidDepot/releases/tag/1.1.0), 4 months ago) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot
 - [thetestgame/pyLionChief](https://github.com/thetestgame/pyLionChief) ([1.0.0](https://github.com/thetestgame/pyLionChief/releases/tag/1.0.0), 9 months ago) - An open-source project that provides Python access to the Lionel&#39;s LionChief line of trains
