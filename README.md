@@ -23,7 +23,7 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
-- [thetestgame/gh-pages-database](https://github.com/thetestgame/gh-pages-database) - REST GET friendly statically hosted database information utilizing Github Pages (today)
+- [thetestgame/gh-pages-database](https://github.com/thetestgame/gh-pages-database) - Experimental REST GET friendly statically hosted database information utilizing Github Pages (today)
 - [thetestgame/gh-pages-url-shortener](https://github.com/thetestgame/gh-pages-url-shortener) - Github Pages hosted url shortening service (today)
 - [thetestgame/gh-pages-twitch-overlays](https://github.com/thetestgame/gh-pages-twitch-overlays) - Collection of Streamer.bot actions and commands and Github Pages hosted streamer overlays. (1 day ago)
 - [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - My personal website and portfolio. Statically hosted on Github Pages (1 day ago)
@@ -34,7 +34,7 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 🌱 My latest projects
 
 - [thetestgame/gh-pages-url-shortener](https://github.com/thetestgame/gh-pages-url-shortener) - Github Pages hosted url shortening service
-- [thetestgame/gh-pages-database](https://github.com/thetestgame/gh-pages-database) - REST GET friendly statically hosted database information utilizing Github Pages
+- [thetestgame/gh-pages-database](https://github.com/thetestgame/gh-pages-database) - Experimental REST GET friendly statically hosted database information utilizing Github Pages
 - [thetestgame/gh-pages-twitch-overlays](https://github.com/thetestgame/gh-pages-twitch-overlays) - Collection of Streamer.bot actions and commands and Github Pages hosted streamer overlays.
 - [thetestgame/pyLionChief](https://github.com/thetestgame/pyLionChief) - An open-source project that provides Python access to the Lionel&#39;s LionChief line of trains
 - [thetestgame/pydBeacon](https://github.com/thetestgame/pydBeacon) - An experimental open source Python library for reading/writing Disney Theme Park Bluetooth Beacon data.
