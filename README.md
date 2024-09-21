@@ -23,18 +23,18 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
+- [thetestgame/gh-pages-database](https://github.com/thetestgame/gh-pages-database) - REST GET friendly statically hosted database information utilizing Github Pages (today)
 - [thetestgame/gh-pages-url-shortener](https://github.com/thetestgame/gh-pages-url-shortener) - Github Pages hosted url shortening service (today)
-- [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - My personal website and portfolio. Statically hosted on Github Pages (1 day ago)
 - [thetestgame/gh-pages-twitch-overlays](https://github.com/thetestgame/gh-pages-twitch-overlays) - Collection of Streamer.bot actions and commands and Github Pages hosted streamer overlays. (1 day ago)
+- [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - My personal website and portfolio. Statically hosted on Github Pages (1 day ago)
 - [DigitalDescent/steam-postman-collection](https://github.com/DigitalDescent/steam-postman-collection) - An automatically generated Postman collection for Steam&#39;s entire web api (2 days ago)
-- [thetestgame/panda3d-sprite](https://github.com/thetestgame/panda3d-sprite) - Library for using sprite sheets and animating them in the Panda3D game engine (3 weeks ago)
 
 ---
 
 #### 🌱 My latest projects
 
 - [thetestgame/gh-pages-url-shortener](https://github.com/thetestgame/gh-pages-url-shortener) - Github Pages hosted url shortening service
-- [thetestgame/gh-pages-database](https://github.com/thetestgame/gh-pages-database)
+- [thetestgame/gh-pages-database](https://github.com/thetestgame/gh-pages-database) - REST GET friendly statically hosted database information utilizing Github Pages
 - [thetestgame/gh-pages-twitch-overlays](https://github.com/thetestgame/gh-pages-twitch-overlays) - Collection of Streamer.bot actions and commands and Github Pages hosted streamer overlays.
 - [thetestgame/pyLionChief](https://github.com/thetestgame/pyLionChief) - An open-source project that provides Python access to the Lionel&#39;s LionChief line of trains
 - [thetestgame/pydBeacon](https://github.com/thetestgame/pydBeacon) - An experimental open source Python library for reading/writing Disney Theme Park Bluetooth Beacon data.
