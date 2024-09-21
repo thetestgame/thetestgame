@@ -23,11 +23,11 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
+- [thetestgame/gh-pages-url-shortener](https://github.com/thetestgame/gh-pages-url-shortener) - Github Pages hosted url shortening service (today)
 - [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - My personal website and portfolio. Statically hosted on Github Pages (1 day ago)
 - [thetestgame/gh-pages-twitch-overlays](https://github.com/thetestgame/gh-pages-twitch-overlays) - Collection of Streamer.bot actions and commands and Github Pages hosted streamer overlays. (1 day ago)
 - [DigitalDescent/steam-postman-collection](https://github.com/DigitalDescent/steam-postman-collection) - An automatically generated Postman collection for Steam&#39;s entire web api (2 days ago)
-- [GamePackets/dkr-steam-satisfactory](https://github.com/GamePackets/dkr-steam-satisfactory) - Satisafactory Steam server running inside a Docker container. (3 weeks ago)
-- [thetestgame/gh-pages-url-shortener](https://github.com/thetestgame/gh-pages-url-shortener) - Github Pages hosted url shortening service (3 weeks ago)
+- [thetestgame/panda3d-sprite](https://github.com/thetestgame/panda3d-sprite) - Library for using sprite sheets and animating them in the Panda3D game engine (3 weeks ago)
 
 ---
 
