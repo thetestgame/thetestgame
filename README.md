@@ -23,11 +23,11 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
+- [GamePackets/dkr-steam-satisfactory](https://github.com/GamePackets/dkr-steam-satisfactory) - Satisafactory Steam server running inside a Docker container. (1 day ago)
 - [thetestgame/upm-unity-streamerbot](https://github.com/thetestgame/upm-unity-streamerbot) - Unity UPM package for consuming socket events from Streamer.Bot actions. Useful for reading events from streaming platforms (2 days ago)
 - [thetestgame/gh-pages-url-shortener](https://github.com/thetestgame/gh-pages-url-shortener) - Github Pages hosted url shortening service (4 days ago)
 - [thetestgame/gh-pages-database](https://github.com/thetestgame/gh-pages-database) - Experimental REST GET friendly statically hosted database information utilizing Github Pages (4 days ago)
 - [thetestgame/gh-pages-twitch-overlays](https://github.com/thetestgame/gh-pages-twitch-overlays) - Collection of Streamer.bot actions and commands and Github Pages hosted streamer overlays. (5 days ago)
-- [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - My personal website and portfolio. Statically hosted on Github Pages (5 days ago)
 
 ---
 
