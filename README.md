@@ -23,27 +23,28 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
+- [thetestgame/panda3d-vfs](https://github.com/thetestgame/panda3d-vfs) - Helper utilities for working with Panda3D&#39;s Virtual File System (1 day ago)
+- [thetestgame/panda3d-sprite](https://github.com/thetestgame/panda3d-sprite) - Library for using sprite sheets and animating them in the Panda3D game engine (1 day ago)
 - [thetestgame/cf-gateway-dns-ad-block](https://github.com/thetestgame/cf-gateway-dns-ad-block) - Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains (3 weeks ago)
 - [GamePackets/dkr-steam-satisfactory](https://github.com/GamePackets/dkr-steam-satisfactory) - Satisafactory Steam server running inside a Docker container. (4 weeks ago)
 - [thetestgame/gh-pages-url-shortener](https://github.com/thetestgame/gh-pages-url-shortener) - Github Pages hosted url shortening service (1 month ago)
-- [thetestgame/gh-pages-database](https://github.com/thetestgame/gh-pages-database) - Experimental REST GET friendly statically hosted database information utilizing Github Pages (1 month ago)
-- [thetestgame/gh-pages-twitch-overlays](https://github.com/thetestgame/gh-pages-twitch-overlays) - Collection of Streamer.bot actions and commands and Github Pages hosted streamer overlays. (1 month ago)
 
 ---
 
 #### 🌱 My latest projects
 
+- [thetestgame/panda3d-vfs](https://github.com/thetestgame/panda3d-vfs) - Helper utilities for working with Panda3D&#39;s Virtual File System
 - [thetestgame/cf-gateway-dns-ad-block](https://github.com/thetestgame/cf-gateway-dns-ad-block) - Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains
 - [thetestgame/gh-pages-url-shortener](https://github.com/thetestgame/gh-pages-url-shortener) - Github Pages hosted url shortening service
 - [thetestgame/gh-pages-database](https://github.com/thetestgame/gh-pages-database) - Experimental REST GET friendly statically hosted database information utilizing Github Pages
 - [thetestgame/gh-pages-twitch-overlays](https://github.com/thetestgame/gh-pages-twitch-overlays) - Collection of Streamer.bot actions and commands and Github Pages hosted streamer overlays.
-- [thetestgame/pyLionChief](https://github.com/thetestgame/pyLionChief) - An open-source project that provides Python access to the Lionel&#39;s LionChief line of trains
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [thetestgame/p3d-sprite](https://github.com/thetestgame/p3d-sprite) ([1.1.0](https://github.com/thetestgame/p3d-sprite/releases/tag/1.1.0), 1 month ago) - Library for using sprite sheets and animating them in the Panda3D game engine
+- [thetestgame/panda3d-vfs](https://github.com/thetestgame/panda3d-vfs) ([1.0.0](https://github.com/thetestgame/panda3d-vfs/releases/tag/1.0.0), today) - Helper utilities for working with Panda3D&#39;s Virtual File System
+- [thetestgame/panda3d-sprite](https://github.com/thetestgame/panda3d-sprite) ([1.1.0](https://github.com/thetestgame/panda3d-sprite/releases/tag/1.1.0), 1 month ago) - Library for using sprite sheets and animating them in the Panda3D game engine
 - [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) ([0.2.2](https://github.com/StrangeLoopGames/NativeTime/releases/tag/0.2.2), 3 months ago) - Native time Unity package for burst compatibility
 - [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) ([1.1.0](https://github.com/thetestgame/pyDroidDepot/releases/tag/1.1.0), 6 months ago) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot
 - [thetestgame/pyLionChief](https://github.com/thetestgame/pyLionChief) ([1.0.0](https://github.com/thetestgame/pyLionChief/releases/tag/1.0.0), 11 months ago) - An open-source project that provides Python access to the Lionel&#39;s LionChief line of trains
