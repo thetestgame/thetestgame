@@ -23,8 +23,8 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
-- [thetestgame/panda3d-vfs](https://github.com/thetestgame/panda3d-vfs) - Helper utilities for working with Panda3D&#39;s Virtual File System (1 day ago)
-- [thetestgame/panda3d-sprite](https://github.com/thetestgame/panda3d-sprite) - Library for using sprite sheets and animating them in the Panda3D game engine (1 day ago)
+- [thetestgame/panda3d-vfs](https://github.com/thetestgame/panda3d-vfs) - Helper utilities for working with Panda3D&#39;s Virtual File System (2 days ago)
+- [thetestgame/panda3d-sprite](https://github.com/thetestgame/panda3d-sprite) - Library for using sprite sheets and animating them in the Panda3D game engine (2 days ago)
 - [thetestgame/cf-gateway-dns-ad-block](https://github.com/thetestgame/cf-gateway-dns-ad-block) - Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains (3 weeks ago)
 - [GamePackets/dkr-steam-satisfactory](https://github.com/GamePackets/dkr-steam-satisfactory) - Satisafactory Steam server running inside a Docker container. (4 weeks ago)
 - [thetestgame/gh-pages-url-shortener](https://github.com/thetestgame/gh-pages-url-shortener) - Github Pages hosted url shortening service (1 month ago)
@@ -43,7 +43,7 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 #### 🔭 Latest releases I've contributed to
 
-- [thetestgame/panda3d-vfs](https://github.com/thetestgame/panda3d-vfs) ([1.0.0](https://github.com/thetestgame/panda3d-vfs/releases/tag/1.0.0), today) - Helper utilities for working with Panda3D&#39;s Virtual File System
+- [thetestgame/panda3d-vfs](https://github.com/thetestgame/panda3d-vfs) ([1.0.0](https://github.com/thetestgame/panda3d-vfs/releases/tag/1.0.0), 1 day ago) - Helper utilities for working with Panda3D&#39;s Virtual File System
 - [thetestgame/panda3d-sprite](https://github.com/thetestgame/panda3d-sprite) ([1.1.0](https://github.com/thetestgame/panda3d-sprite/releases/tag/1.1.0), 1 month ago) - Library for using sprite sheets and animating them in the Panda3D game engine
 - [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) ([0.2.2](https://github.com/StrangeLoopGames/NativeTime/releases/tag/0.2.2), 3 months ago) - Native time Unity package for burst compatibility
 - [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) ([1.1.0](https://github.com/thetestgame/pyDroidDepot/releases/tag/1.1.0), 6 months ago) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot
