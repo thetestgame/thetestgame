@@ -23,21 +23,21 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
+- [thetestgame/panda3d-configurable](https://github.com/thetestgame/panda3d-configurable) (today)
+- [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) - A collection of helpful utility methods and constants for working with the Panda3D game engine (today)
+- [thetestgame/panda3d-logging](https://github.com/thetestgame/panda3d-logging) (today)
 - [thetestgame/panda3d-vfs](https://github.com/thetestgame/panda3d-vfs) - Helper utilities for working with Panda3D&#39;s Virtual File System (2 days ago)
 - [thetestgame/panda3d-sprite](https://github.com/thetestgame/panda3d-sprite) - Library for using sprite sheets and animating them in the Panda3D game engine (2 days ago)
-- [thetestgame/cf-gateway-dns-ad-block](https://github.com/thetestgame/cf-gateway-dns-ad-block) - Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains (3 weeks ago)
-- [GamePackets/dkr-steam-satisfactory](https://github.com/GamePackets/dkr-steam-satisfactory) - Satisafactory Steam server running inside a Docker container. (4 weeks ago)
-- [thetestgame/gh-pages-url-shortener](https://github.com/thetestgame/gh-pages-url-shortener) - Github Pages hosted url shortening service (1 month ago)
 
 ---
 
 #### 🌱 My latest projects
 
+- [thetestgame/panda3d-logging](https://github.com/thetestgame/panda3d-logging)
+- [thetestgame/panda3d-configurable](https://github.com/thetestgame/panda3d-configurable)
+- [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) - A collection of helpful utility methods and constants for working with the Panda3D game engine
 - [thetestgame/panda3d-vfs](https://github.com/thetestgame/panda3d-vfs) - Helper utilities for working with Panda3D&#39;s Virtual File System
 - [thetestgame/cf-gateway-dns-ad-block](https://github.com/thetestgame/cf-gateway-dns-ad-block) - Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains
-- [thetestgame/gh-pages-url-shortener](https://github.com/thetestgame/gh-pages-url-shortener) - Github Pages hosted url shortening service
-- [thetestgame/gh-pages-database](https://github.com/thetestgame/gh-pages-database) - Experimental REST GET friendly statically hosted database information utilizing Github Pages
-- [thetestgame/gh-pages-twitch-overlays](https://github.com/thetestgame/gh-pages-twitch-overlays) - Collection of Streamer.bot actions and commands and Github Pages hosted streamer overlays.
 
 ---
 
