@@ -23,9 +23,9 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
-- [thetestgame/panda3d-sprite](https://github.com/thetestgame/panda3d-sprite) - Library for using sprite sheets and animating them in the Panda3D game engine (1 day ago)
-- [thetestgame/panda3d-configurable](https://github.com/thetestgame/panda3d-configurable) (1 day ago)
 - [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) - A collection of helpful utility methods and constants for working with the Panda3D game engine (1 day ago)
+- [thetestgame/panda3d-configurable](https://github.com/thetestgame/panda3d-configurable) (1 day ago)
+- [thetestgame/panda3d-sprite](https://github.com/thetestgame/panda3d-sprite) - Library for using sprite sheets and animating them in the Panda3D game engine (1 day ago)
 - [thetestgame/panda3d-logging](https://github.com/thetestgame/panda3d-logging) (1 day ago)
 - [thetestgame/panda3d-vfs](https://github.com/thetestgame/panda3d-vfs) - Helper utilities for working with Panda3D&#39;s Virtual File System (3 days ago)
 
