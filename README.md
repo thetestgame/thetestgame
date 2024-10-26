@@ -23,21 +23,21 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
-- [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - Root repository for the GitHub pages documentation site used by all my projects (today)
-- [thetestgame/panda3d-itchio](https://github.com/thetestgame/panda3d-itchio) - Experimental Panda3D module for interacting with Itch.io&#39;s game apis and launcher. (today)
 - [thetestgame/hass-personal-cfg](https://github.com/thetestgame/hass-personal-cfg) - Main configuration for my personal Home Assistant deployment (today)
+- [thetestgame/panda3d-itchio](https://github.com/thetestgame/panda3d-itchio) - Experimental Panda3D module for interacting with Itch.io&#39;s game apis and launcher. (today)
+- [thetestgame/panda3d-tmx](https://github.com/thetestgame/panda3d-tmx) - [WIP] Shader based Tiled tmx file loader/renderer for the Panda3D game engine (today)
+- [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - Root repository for the GitHub pages documentation site used by all my projects (today)
 - [thetestgame/panda3d-gemstone](https://github.com/thetestgame/panda3d-gemstone) - [WIP] High level Python 3 game framework based on the Panda3D game engine. (2 days ago)
-- [thetestgame/panda3d-logging](https://github.com/thetestgame/panda3d-logging) (3 days ago)
 
 ---
 
 #### 🌱 My latest projects
 
+- [thetestgame/panda3d-tmx](https://github.com/thetestgame/panda3d-tmx) - [WIP] Shader based Tiled tmx file loader/renderer for the Panda3D game engine
 - [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - Root repository for the GitHub pages documentation site used by all my projects
 - [thetestgame/panda3d-itchio](https://github.com/thetestgame/panda3d-itchio) - Experimental Panda3D module for interacting with Itch.io&#39;s game apis and launcher.
 - [thetestgame/panda3d-logging](https://github.com/thetestgame/panda3d-logging)
 - [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) - A collection of helpful utility methods and constants for working with the Panda3D game engine
-- [thetestgame/panda3d-vfs](https://github.com/thetestgame/panda3d-vfs) - Helper utilities for working with Panda3D&#39;s Virtual File System
 
 ---
 
