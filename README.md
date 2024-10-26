@@ -23,31 +23,31 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
+- [thetestgame/hass-personal-cfg](https://github.com/thetestgame/hass-personal-cfg) - Main configuration for my personal Home Assistant deployment (today)
+- [thetestgame/panda3d-itchio](https://github.com/thetestgame/panda3d-itchio) - Experimental Panda3D module for interacting with Itch.io&#39;s game apis and launcher. (today)
+- [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - Root repository for the GitHub pages documentation site used by all my projects (today)
 - [thetestgame/panda3d-gemstone](https://github.com/thetestgame/panda3d-gemstone) - [WIP] High level Python 3 game framework based on the Panda3D game engine. (2 days ago)
-- [thetestgame/panda3d-logging](https://github.com/thetestgame/panda3d-logging) (3 days ago)
-- [thetestgame/panda3d-sprite](https://github.com/thetestgame/panda3d-sprite) - Library for using sprite sheets and animating them in the Panda3D game engine (3 days ago)
 - [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) - A collection of helpful utility methods and constants for working with the Panda3D game engine (3 days ago)
-- [thetestgame/panda3d-vfs](https://github.com/thetestgame/panda3d-vfs) - Helper utilities for working with Panda3D&#39;s Virtual File System (5 days ago)
 
 ---
 
 #### 🌱 My latest projects
 
+- [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - Root repository for the GitHub pages documentation site used by all my projects
+- [thetestgame/panda3d-itchio](https://github.com/thetestgame/panda3d-itchio) - Experimental Panda3D module for interacting with Itch.io&#39;s game apis and launcher.
 - [thetestgame/panda3d-logging](https://github.com/thetestgame/panda3d-logging)
 - [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) - A collection of helpful utility methods and constants for working with the Panda3D game engine
 - [thetestgame/panda3d-vfs](https://github.com/thetestgame/panda3d-vfs) - Helper utilities for working with Panda3D&#39;s Virtual File System
-- [thetestgame/cf-gateway-dns-ad-block](https://github.com/thetestgame/cf-gateway-dns-ad-block) - Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains
-- [thetestgame/gh-pages-url-shortener](https://github.com/thetestgame/gh-pages-url-shortener) - Github Pages hosted url shortening service
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [thetestgame/panda3d-itchio](https://github.com/thetestgame/panda3d-itchio) ([1.0.0](https://github.com/thetestgame/panda3d-itchio/releases/tag/1.0.0), today) - Experimental Panda3D module for interacting with Itch.io&#39;s game apis and launcher.
 - [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) ([1.0.0](https://github.com/thetestgame/panda3d-toolbox/releases/tag/1.0.0), 3 days ago) - A collection of helpful utility methods and constants for working with the Panda3D game engine
 - [thetestgame/panda3d-vfs](https://github.com/thetestgame/panda3d-vfs) ([1.0.0](https://github.com/thetestgame/panda3d-vfs/releases/tag/1.0.0), 4 days ago) - Helper utilities for working with Panda3D&#39;s Virtual File System
 - [thetestgame/panda3d-sprite](https://github.com/thetestgame/panda3d-sprite) ([1.1.0](https://github.com/thetestgame/panda3d-sprite/releases/tag/1.1.0), 1 month ago) - Library for using sprite sheets and animating them in the Panda3D game engine
 - [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) ([0.2.2](https://github.com/StrangeLoopGames/NativeTime/releases/tag/0.2.2), 4 months ago) - Native time Unity package for burst compatibility
-- [thetestgame/pyDroidDepot](https://github.com/thetestgame/pyDroidDepot) ([1.1.0](https://github.com/thetestgame/pyDroidDepot/releases/tag/1.1.0), 6 months ago) - An open source Python library for controlling droids from Starwars Galaxy&#39;s Edge Droid Depot
 
 ---
 
