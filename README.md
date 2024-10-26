@@ -25,8 +25,8 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 - [thetestgame/panda3d-gemstone](https://github.com/thetestgame/panda3d-gemstone) - [WIP] High level Python 3 game framework based on the Panda3D game engine. (2 days ago)
 - [thetestgame/panda3d-logging](https://github.com/thetestgame/panda3d-logging) (3 days ago)
-- [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) - A collection of helpful utility methods and constants for working with the Panda3D game engine (3 days ago)
 - [thetestgame/panda3d-sprite](https://github.com/thetestgame/panda3d-sprite) - Library for using sprite sheets and animating them in the Panda3D game engine (3 days ago)
+- [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) - A collection of helpful utility methods and constants for working with the Panda3D game engine (3 days ago)
 - [thetestgame/panda3d-vfs](https://github.com/thetestgame/panda3d-vfs) - Helper utilities for working with Panda3D&#39;s Virtual File System (5 days ago)
 
 ---
