@@ -23,11 +23,11 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
-- [thetestgame/hass-personal-cfg](https://github.com/thetestgame/hass-personal-cfg) - Main configuration for my personal Home Assistant deployment (today)
-- [thetestgame/panda3d-itchio](https://github.com/thetestgame/panda3d-itchio) - Experimental Panda3D module for interacting with Itch.io&#39;s game apis and launcher. (today)
-- [thetestgame/panda3d-tmx](https://github.com/thetestgame/panda3d-tmx) - [WIP] Shader based Tiled tmx file loader/renderer for the Panda3D game engine (today)
-- [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - Root repository for the GitHub pages documentation site used by all my projects (today)
-- [thetestgame/panda3d-gemstone](https://github.com/thetestgame/panda3d-gemstone) - [WIP] High level Python 3 game framework based on the Panda3D game engine. (2 days ago)
+- [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - Root repository for the GitHub pages documentation site used by all my projects (1 day ago)
+- [thetestgame/hass-personal-cfg](https://github.com/thetestgame/hass-personal-cfg) - Main configuration for my personal Home Assistant deployment (1 day ago)
+- [thetestgame/panda3d-tmx](https://github.com/thetestgame/panda3d-tmx) - [WIP] Shader based Tiled tmx file loader/renderer for the Panda3D game engine (1 day ago)
+- [thetestgame/panda3d-itchio](https://github.com/thetestgame/panda3d-itchio) - Experimental Panda3D module for interacting with Itch.io&#39;s game apis and launcher. (1 day ago)
+- [thetestgame/panda3d-gemstone](https://github.com/thetestgame/panda3d-gemstone) - [WIP] High level Python 3 game framework based on the Panda3D game engine. (3 days ago)
 
 ---
 
@@ -43,9 +43,9 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 #### 🔭 Latest releases I've contributed to
 
-- [thetestgame/panda3d-itchio](https://github.com/thetestgame/panda3d-itchio) ([1.0.0](https://github.com/thetestgame/panda3d-itchio/releases/tag/1.0.0), today) - Experimental Panda3D module for interacting with Itch.io&#39;s game apis and launcher.
-- [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) ([1.0.0](https://github.com/thetestgame/panda3d-toolbox/releases/tag/1.0.0), 3 days ago) - A collection of helpful utility methods and constants for working with the Panda3D game engine
-- [thetestgame/panda3d-vfs](https://github.com/thetestgame/panda3d-vfs) ([1.0.0](https://github.com/thetestgame/panda3d-vfs/releases/tag/1.0.0), 4 days ago) - Helper utilities for working with Panda3D&#39;s Virtual File System
+- [thetestgame/panda3d-itchio](https://github.com/thetestgame/panda3d-itchio) ([1.0.0](https://github.com/thetestgame/panda3d-itchio/releases/tag/1.0.0), 1 day ago) - Experimental Panda3D module for interacting with Itch.io&#39;s game apis and launcher.
+- [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) ([1.0.0](https://github.com/thetestgame/panda3d-toolbox/releases/tag/1.0.0), 4 days ago) - A collection of helpful utility methods and constants for working with the Panda3D game engine
+- [thetestgame/panda3d-vfs](https://github.com/thetestgame/panda3d-vfs) ([1.0.0](https://github.com/thetestgame/panda3d-vfs/releases/tag/1.0.0), 5 days ago) - Helper utilities for working with Panda3D&#39;s Virtual File System
 - [thetestgame/panda3d-sprite](https://github.com/thetestgame/panda3d-sprite) ([1.1.0](https://github.com/thetestgame/panda3d-sprite/releases/tag/1.1.0), 1 month ago) - Library for using sprite sheets and animating them in the Panda3D game engine
 - [StrangeLoopGames/NativeTime](https://github.com/StrangeLoopGames/NativeTime) ([0.2.2](https://github.com/StrangeLoopGames/NativeTime/releases/tag/0.2.2), 4 months ago) - Native time Unity package for burst compatibility
 
