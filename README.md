@@ -24,9 +24,9 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 
 - [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) - Panda3D Astron server support as a Python 3 module. Allows the use of Astron with stock Panda3D (today)
-- [thetestgame/panda3d-tmx](https://github.com/thetestgame/panda3d-tmx) - [WIP] Shader based Tiled tmx file loader/renderer for the Panda3D game engine (1 day ago)
 - [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - Root repository for the GitHub pages documentation site used by all my projects (1 day ago)
 - [thetestgame/panda3d-itchio](https://github.com/thetestgame/panda3d-itchio) - Panda3D module for interacting with Itch.io&#39;s game apis and launcher. (1 day ago)
+- [thetestgame/panda3d-tmx](https://github.com/thetestgame/panda3d-tmx) - [WIP] Shader based Tiled tmx file loader/renderer for the Panda3D game engine (1 day ago)
 - [thetestgame/hass-personal-cfg](https://github.com/thetestgame/hass-personal-cfg) - Main configuration for my personal Home Assistant deployment (1 day ago)
 
 ---
