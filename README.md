@@ -23,9 +23,9 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
-- [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) - A collection of helpful utility methods and constants for working with the Panda3D game engine (1 day ago)
-- [thetestgame/panda3d-animalese](https://github.com/thetestgame/panda3d-animalese) - Animalese TTS synth for the Panda3D game engine (1 day ago)
-- [thetestgame/panda3d-itchio](https://github.com/thetestgame/panda3d-itchio) - Panda3D module for interacting with Itch.io&#39;s game apis and launcher. (3 days ago)
+- [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) - A collection of helpful utility methods and constants for working with the Panda3D game engine (2 days ago)
+- [thetestgame/panda3d-animalese](https://github.com/thetestgame/panda3d-animalese) - Animalese TTS synth for the Panda3D game engine (2 days ago)
+- [thetestgame/panda3d-itchio](https://github.com/thetestgame/panda3d-itchio) - Panda3D module for interacting with Itch.io&#39;s game apis and launcher. (4 days ago)
 - [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) - Panda3D Astron server support as a Python 3 module. Allows the use of Astron with stock Panda3D (2 weeks ago)
 - [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - Root repository for the GitHub pages documentation site used by all my projects (2 weeks ago)
 
@@ -43,18 +43,18 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 #### 🔭 Latest releases I've contributed to
 
-- [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) ([v1.1.0](https://github.com/thetestgame/panda3d-toolbox/releases/tag/v1.1.0), 1 day ago) - A collection of helpful utility methods and constants for working with the Panda3D game engine
-- [thetestgame/panda3d-animalese](https://github.com/thetestgame/panda3d-animalese) ([v1.0.0](https://github.com/thetestgame/panda3d-animalese/releases/tag/v1.0.0), 1 day ago) - Animalese TTS synth for the Panda3D game engine
+- [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) ([v1.1.0](https://github.com/thetestgame/panda3d-toolbox/releases/tag/v1.1.0), 2 days ago) - A collection of helpful utility methods and constants for working with the Panda3D game engine
+- [thetestgame/panda3d-animalese](https://github.com/thetestgame/panda3d-animalese) ([v1.0.0](https://github.com/thetestgame/panda3d-animalese/releases/tag/v1.0.0), 2 days ago) - Animalese TTS synth for the Panda3D game engine
 - [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) ([v1.1.0](https://github.com/thetestgame/panda3d-astron/releases/tag/v1.1.0), 2 weeks ago) - Panda3D Astron server support as a Python 3 module. Allows the use of Astron with stock Panda3D
 - [thetestgame/panda3d-itchio](https://github.com/thetestgame/panda3d-itchio) ([v1.1.0](https://github.com/thetestgame/panda3d-itchio/releases/tag/v1.1.0), 2 weeks ago) - Panda3D module for interacting with Itch.io&#39;s game apis and launcher.
-- [thetestgame/panda3d-vfs](https://github.com/thetestgame/panda3d-vfs) ([1.0.0](https://github.com/thetestgame/panda3d-vfs/releases/tag/1.0.0), 2 weeks ago) - Helper utilities for working with Panda3D&#39;s Virtual File System
+- [thetestgame/panda3d-vfs](https://github.com/thetestgame/panda3d-vfs) ([1.0.0](https://github.com/thetestgame/panda3d-vfs/releases/tag/1.0.0), 3 weeks ago) - Helper utilities for working with Panda3D&#39;s Virtual File System
 
 ---
 
 #### 🔨 Latest Pull Requests I published
 
-- [[WIP] Add internal interfaces and a more complete binding](https://github.com/thetestgame/panda3d-astron/pull/1) on [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) (today)
-- [Adjusted workflows and removed docs](https://github.com/thetestgame/panda3d-itchio/pull/1) on [thetestgame/panda3d-itchio](https://github.com/thetestgame/panda3d-itchio) (2 days ago)
+- [[WIP] Add internal interfaces and a more complete binding](https://github.com/thetestgame/panda3d-astron/pull/1) on [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) (1 day ago)
+- [Adjusted workflows and removed docs](https://github.com/thetestgame/panda3d-itchio/pull/1) on [thetestgame/panda3d-itchio](https://github.com/thetestgame/panda3d-itchio) (3 days ago)
 - [feat: Perform test runs on pull requests](https://github.com/DigitalDescent/steam-postman-collection/pull/3) on [DigitalDescent/steam-postman-collection](https://github.com/DigitalDescent/steam-postman-collection) (2 months ago)
 - [feat: Restore automatic Postman collection builds](https://github.com/DigitalDescent/steam-postman-collection/pull/2) on [DigitalDescent/steam-postman-collection](https://github.com/DigitalDescent/steam-postman-collection) (2 months ago)
 - [Added commit based tags ](https://github.com/thetestgame/docker-steam-server/pull/2) on [thetestgame/docker-steam-server](https://github.com/thetestgame/docker-steam-server) (2 months ago)
