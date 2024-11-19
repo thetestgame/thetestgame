@@ -33,11 +33,11 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 #### 🌱 My latest projects
 
+- [thetestgame/redpanda3d](https://github.com/thetestgame/redpanda3d) - Powerful, mature open-source cross-platform game engine for Python and C&#43;&#43;, developed by Disney, and CMU
 - [thetestgame/panda3d-animalese](https://github.com/thetestgame/panda3d-animalese) - Animalese TTS synth for the Panda3D game engine
 - [thetestgame/panda3d-tmx](https://github.com/thetestgame/panda3d-tmx) - [WIP] Shader based Tiled tmx file loader/renderer for the Panda3D game engine
 - [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - Root repository for the GitHub pages documentation site used by all my projects
 - [thetestgame/panda3d-itchio](https://github.com/thetestgame/panda3d-itchio) - Panda3D module for interacting with Itch.io&#39;s game apis and launcher.
-- [thetestgame/panda3d-logging](https://github.com/thetestgame/panda3d-logging)
 
 ---
 
@@ -53,11 +53,11 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Automatically build thirdparty libraries with engine](https://github.com/thetestgame/redpanda3d/pull/1) on [thetestgame/redpanda3d](https://github.com/thetestgame/redpanda3d) (today)
 - [Build and Release Preview Packages](https://github.com/thetestgame/panda3d-astron/pull/3) on [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) (6 days ago)
 - [Added documentation starter project](https://github.com/thetestgame/panda3d-astron/pull/2) on [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) (6 days ago)
 - [Add initial interfaces and a more complete binding](https://github.com/thetestgame/panda3d-astron/pull/1) on [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) (1 week ago)
 - [Adjusted workflows and removed docs](https://github.com/thetestgame/panda3d-itchio/pull/1) on [thetestgame/panda3d-itchio](https://github.com/thetestgame/panda3d-itchio) (1 week ago)
-- [feat: Perform test runs on pull requests](https://github.com/DigitalDescent/steam-postman-collection/pull/3) on [DigitalDescent/steam-postman-collection](https://github.com/DigitalDescent/steam-postman-collection) (2 months ago)
 
 ### Find me elsewhere 🌎
 
