@@ -23,21 +23,21 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
-- [thetestgame/digipanda3d](https://github.com/thetestgame/digipanda3d) - Powerful, mature open-source cross-platform game engine for Python and C&#43;&#43;, developed by Disney, and CMU (today)
 - [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) - A collection of helpful utility methods and constants for working with the Panda3D game engine (6 days ago)
 - [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) - Panda3D Astron server support as a Python 3 module. Allows the use of Astron with stock Panda3D (2 weeks ago)
 - [thetestgame/panda3d-animalese](https://github.com/thetestgame/panda3d-animalese) - Animalese TTS synth for the Panda3D game engine (2 weeks ago)
 - [thetestgame/panda3d-itchio](https://github.com/thetestgame/panda3d-itchio) - Panda3D module for interacting with Itch.io&#39;s game apis and launcher. (3 weeks ago)
+- [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - Root repository for the GitHub pages documentation site used by all my projects (1 month ago)
 
 ---
 
 #### 🌱 My latest projects
 
-- [thetestgame/digipanda3d](https://github.com/thetestgame/digipanda3d) - Powerful, mature open-source cross-platform game engine for Python and C&#43;&#43;, developed by Disney, and CMU
 - [thetestgame/panda3d-animalese](https://github.com/thetestgame/panda3d-animalese) - Animalese TTS synth for the Panda3D game engine
 - [thetestgame/panda3d-tmx](https://github.com/thetestgame/panda3d-tmx) - [WIP] Shader based Tiled tmx file loader/renderer for the Panda3D game engine
 - [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - Root repository for the GitHub pages documentation site used by all my projects
 - [thetestgame/panda3d-itchio](https://github.com/thetestgame/panda3d-itchio) - Panda3D module for interacting with Itch.io&#39;s game apis and launcher.
+- [thetestgame/panda3d-logging](https://github.com/thetestgame/panda3d-logging)
 
 ---
 
@@ -53,9 +53,9 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add testing workflow](https://github.com/thetestgame/Steamworks.NET/pull/3) on [thetestgame/Steamworks.NET](https://github.com/thetestgame/Steamworks.NET) (today)
+- [Add testing workflow](https://github.com/rlabrecque/Steamworks.NET/pull/661) on [rlabrecque/Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET) (today)
 - [Added additional utilities and logging systems](https://github.com/thetestgame/panda3d-toolbox/pull/1) on [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) (5 days ago)
-- [Include thirdparty](https://github.com/thetestgame/digipanda3d/pull/2) on [thetestgame/digipanda3d](https://github.com/thetestgame/digipanda3d) (6 days ago)
-- [Automatically build thirdparty libraries with engine](https://github.com/thetestgame/digipanda3d/pull/1) on [thetestgame/digipanda3d](https://github.com/thetestgame/digipanda3d) (1 week ago)
 - [Build and Release Preview Packages](https://github.com/thetestgame/panda3d-astron/pull/3) on [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) (2 weeks ago)
 - [Added documentation starter project](https://github.com/thetestgame/panda3d-astron/pull/2) on [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) (2 weeks ago)
 
