@@ -15,8 +15,8 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 ## :briefcase: Where I am currently working at/as
 
-* Software Engineer @Mojang working on Minecraft
-* Freelance game developer
+* Software Engineer @ Mojang
+* Freelance Software Developer
 
 ---
 
