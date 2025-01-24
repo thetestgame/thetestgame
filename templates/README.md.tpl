@@ -7,7 +7,7 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 ## Personal Projects and Facts
 
-- 🔭 I’m currently working on an various open source Unity Packages
+- 🔭 I’m currently working on a personal game project
 - 🌱 I’m currently learning Kubernetes.
 - ⚡ Fun fact: I've been writing software since I was around 8 years old. I was drawn to programming through my interest in video games.
 
@@ -15,7 +15,7 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 ## :briefcase: Where I am currently working at/as
 
-* Lab Automation Engineer at Microsoft working on Minecraft
+* Software Engineer @Mojang working on Minecraft
 * Freelance game developer
 
 ---
