@@ -7,7 +7,7 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 ## Personal Projects and Facts
 
-- 🔭 I’m currently working on an various open source Unity Packages
+- 🔭 I’m currently working on a personal game project
 - 🌱 I’m currently learning Kubernetes.
 - ⚡ Fun fact: I've been writing software since I was around 8 years old. I was drawn to programming through my interest in video games.
 
@@ -15,7 +15,7 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 ## :briefcase: Where I am currently working at/as
 
-* Lab Automation Engineer at Microsoft working on Minecraft
+* Software Engineer @Mojang working on Minecraft
 * Freelance game developer
 
 ---
@@ -23,11 +23,11 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
+- [thetestgame/gh-pages-personal-portfolio](https://github.com/thetestgame/gh-pages-personal-portfolio) - My personal website and portfolio. Statically hosted on Github Pages (today)
 - [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - Root repository for the GitHub pages documentation site used by all my projects (5 days ago)
 - [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) - A collection of helpful utility methods and constants for working with the Panda3D game engine (2 months ago)
 - [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) - Panda3D Astron server support as a Python 3 module. Allows the use of Astron with stock Panda3D (2 months ago)
 - [thetestgame/panda3d-animalese](https://github.com/thetestgame/panda3d-animalese) - Animalese TTS synth for the Panda3D game engine (2 months ago)
-- [thetestgame/panda3d-itchio](https://github.com/thetestgame/panda3d-itchio) - Panda3D module for interacting with Itch.io&#39;s game apis and launcher. (2 months ago)
 
 ---
 
