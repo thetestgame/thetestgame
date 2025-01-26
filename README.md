@@ -23,8 +23,8 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
-- [thetestgame/gh-pages-personal-portfolio](https://github.com/thetestgame/gh-pages-personal-portfolio) - My personal website and portfolio. Statically hosted on Github Pages (1 day ago)
-- [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - Root repository for the GitHub pages documentation site used by all my projects (6 days ago)
+- [thetestgame/gh-pages-personal-portfolio](https://github.com/thetestgame/gh-pages-personal-portfolio) - My personal website and portfolio. Statically hosted on Github Pages (2 days ago)
+- [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - Root repository for the GitHub pages documentation site used by all my projects (1 week ago)
 - [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) - A collection of helpful utility methods and constants for working with the Panda3D game engine (2 months ago)
 - [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) - Panda3D Astron server support as a Python 3 module. Allows the use of Astron with stock Panda3D (2 months ago)
 - [thetestgame/panda3d-animalese](https://github.com/thetestgame/panda3d-animalese) - Animalese TTS synth for the Panda3D game engine (2 months ago)
