@@ -23,9 +23,9 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
-- [PiratesOnlineRewritten/Pirate-Bot](https://github.com/PiratesOnlineRewritten/Pirate-Bot) - The Official Discord bot for Pirates Online Rewritten (today)
+- [PiratesOnlineRewritten/Pirate-Bot](https://github.com/PiratesOnlineRewritten/Pirate-Bot) - The Official Discord bot for Pirates Online Rewritten (1 day ago)
 - [thetestgame/gh-pages-portfolio-website](https://github.com/thetestgame/gh-pages-portfolio-website) - My personal website and portfolio. Statically hosted on Github Pages (3 weeks ago)
-- [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - Root repository for the GitHub pages documentation site used by all my projects (4 weeks ago)
+- [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - Root repository for the GitHub pages documentation site used by all my projects (1 month ago)
 - [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) - A collection of helpful utility methods and constants for working with the Panda3D game engine (2 months ago)
 - [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) - Panda3D Astron server support as a Python 3 module. Allows the use of Astron with stock Panda3D (3 months ago)
 
