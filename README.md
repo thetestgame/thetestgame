@@ -57,7 +57,7 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 - [Added additional utilities and logging systems](https://github.com/thetestgame/panda3d-toolbox/pull/1) on [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) (3 months ago)
 - [Build and Release Preview Packages](https://github.com/thetestgame/panda3d-astron/pull/3) on [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) (3 months ago)
 - [Added documentation starter project](https://github.com/thetestgame/panda3d-astron/pull/2) on [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) (3 months ago)
-- [Add initial interfaces and a more complete binding](https://github.com/thetestgame/panda3d-astron/pull/1) on [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) (3 months ago)
+- [Add initial interfaces and a more complete binding](https://github.com/thetestgame/panda3d-astron/pull/1) on [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) (4 months ago)
 
 ### Find me elsewhere 🌎
 
