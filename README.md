@@ -24,7 +24,7 @@ I'm a professional Senior Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
-- [PiratesOnlineRewritten/Pirate-Bot](https://github.com/PiratesOnlineRewritten/Pirate-Bot) - The Official Discord bot for Pirates Online Rewritten (1 month ago)
+- [PiratesOnlineRewritten/Pirate-Bot](https://github.com/PiratesOnlineRewritten/Pirate-Bot) - The Official Discord bot for Pirates Online Rewritten (2 months ago)
 - [thetestgame/gh-pages-portfolio-website](https://github.com/thetestgame/gh-pages-portfolio-website) - My personal website and portfolio. Statically hosted on Github Pages (2 months ago)
 - [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - Root repository for the GitHub pages documentation site used by all my projects (2 months ago)
 - [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) - A collection of helpful utility methods and constants for working with the Panda3D game engine (4 months ago)
