@@ -46,8 +46,8 @@ I'm a professional Senior Game Developer and DevOps Engineer based in Wisconsin.
 
 - [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) ([v1.1.0](https://github.com/thetestgame/panda3d-toolbox/releases/tag/v1.1.0), 5 months ago) - A collection of helpful utility methods and constants for working with the Panda3D game engine
 - [thetestgame/panda3d-animalese](https://github.com/thetestgame/panda3d-animalese) ([v1.0.0](https://github.com/thetestgame/panda3d-animalese/releases/tag/v1.0.0), 5 months ago) - Animalese TTS synth for the Panda3D game engine
-- [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) ([v1.1.0](https://github.com/thetestgame/panda3d-astron/releases/tag/v1.1.0), 5 months ago) - Panda3D Astron server support as a Python 3 module. Allows the use of Astron with stock Panda3D
-- [thetestgame/panda3d-itchio](https://github.com/thetestgame/panda3d-itchio) ([v1.1.0](https://github.com/thetestgame/panda3d-itchio/releases/tag/v1.1.0), 5 months ago) - Panda3D module for interacting with Itch.io&#39;s game apis and launcher.
+- [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) ([v1.1.0](https://github.com/thetestgame/panda3d-astron/releases/tag/v1.1.0), 6 months ago) - Panda3D Astron server support as a Python 3 module. Allows the use of Astron with stock Panda3D
+- [thetestgame/panda3d-itchio](https://github.com/thetestgame/panda3d-itchio) ([v1.1.0](https://github.com/thetestgame/panda3d-itchio/releases/tag/v1.1.0), 6 months ago) - Panda3D module for interacting with Itch.io&#39;s game apis and launcher.
 - [thetestgame/panda3d-vfs](https://github.com/thetestgame/panda3d-vfs) ([1.0.0](https://github.com/thetestgame/panda3d-vfs/releases/tag/1.0.0), 6 months ago) - Helper utilities for working with Panda3D&#39;s Virtual File System
 
 ---
