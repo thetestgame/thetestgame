@@ -16,7 +16,6 @@ I'm a professional Senior Game Developer and DevOps Engineer based in Wisconsin.
 ## :briefcase: Where I am currently working at/as
 
 * Software Engineer @ Mojang/Microsoft
-* Lead Software Engineer @ Cogworks Media, LLC
 * Freelance Software Developer
 
 ---
