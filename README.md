@@ -23,11 +23,11 @@ I'm a professional Senior Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
+- [thetestgame/google-gmail-filters](https://github.com/thetestgame/google-gmail-filters) - Code based Google Gmail filters project. Deploys standardized filters based on data files. Based on gmailctl (1 day ago)
 - [thetestgame/cf-gateway-dns-ad-block](https://github.com/thetestgame/cf-gateway-dns-ad-block) - Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains (1 month ago)
-- [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - Root repository for the GitHub pages documentation site used by all my projects (2 months ago)
 - [thetestgame/gh-pages-portfolio-website](https://github.com/thetestgame/gh-pages-portfolio-website) - My personal website and portfolio. Statically hosted on Github Pages (2 months ago)
+- [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - Root repository for the GitHub pages documentation site used by all my projects (2 months ago)
 - [PiratesOnlineRewritten/Pirate-Bot](https://github.com/PiratesOnlineRewritten/Pirate-Bot) - The Official Discord bot for Pirates Online Rewritten (5 months ago)
-- [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) - A collection of helpful utility methods and constants for working with the Panda3D game engine (8 months ago)
 
 ---
 
@@ -37,7 +37,7 @@ I'm a professional Senior Game Developer and DevOps Engineer based in Wisconsin.
 - [thetestgame/panda3d-tmx](https://github.com/thetestgame/panda3d-tmx) - [WIP] Shader based Tiled tmx file loader/renderer for the Panda3D game engine
 - [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - Root repository for the GitHub pages documentation site used by all my projects
 - [thetestgame/panda3d-itchio](https://github.com/thetestgame/panda3d-itchio) - Panda3D module for interacting with Itch.io&#39;s game apis and launcher.
-- [thetestgame/panda3d-logging](https://github.com/thetestgame/panda3d-logging)
+- [thetestgame/google-gmail-filters](https://github.com/thetestgame/google-gmail-filters) - Code based Google Gmail filters project. Deploys standardized filters based on data files. Based on gmailctl
 
 ---
 
