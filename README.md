@@ -23,7 +23,7 @@ I'm a professional Senior Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
-- [thetestgame/google-gmail-filters](https://github.com/thetestgame/google-gmail-filters) - Code based Google Gmail filters project. Deploys standardized filters based on data files. Based on gmailctl (3 days ago)
+- [thetestgame/google-gmail-filters](https://github.com/thetestgame/google-gmail-filters) - Code based Google Gmail filters project. Deploys standardized filters based on data files. Based on gmailctl (4 days ago)
 - [thetestgame/cf-gateway-dns-ad-block](https://github.com/thetestgame/cf-gateway-dns-ad-block) - Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains (1 month ago)
 - [thetestgame/gh-pages-portfolio-website](https://github.com/thetestgame/gh-pages-portfolio-website) - My personal website and portfolio. Statically hosted on Github Pages (2 months ago)
 - [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - Root repository for the GitHub pages documentation site used by all my projects (2 months ago)
@@ -43,8 +43,8 @@ I'm a professional Senior Game Developer and DevOps Engineer based in Wisconsin.
 
 #### 🔭 Latest releases I've contributed to
 
-- [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) ([v1.1.0](https://github.com/thetestgame/panda3d-toolbox/releases/tag/v1.1.0), 8 months ago) - A collection of helpful utility methods and constants for working with the Panda3D game engine
-- [thetestgame/panda3d-animalese](https://github.com/thetestgame/panda3d-animalese) ([v1.0.0](https://github.com/thetestgame/panda3d-animalese/releases/tag/v1.0.0), 8 months ago) - Animalese TTS synth for the Panda3D game engine
+- [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) ([v1.1.0](https://github.com/thetestgame/panda3d-toolbox/releases/tag/v1.1.0), 9 months ago) - A collection of helpful utility methods and constants for working with the Panda3D game engine
+- [thetestgame/panda3d-animalese](https://github.com/thetestgame/panda3d-animalese) ([v1.0.0](https://github.com/thetestgame/panda3d-animalese/releases/tag/v1.0.0), 9 months ago) - Animalese TTS synth for the Panda3D game engine
 - [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) ([v1.1.0](https://github.com/thetestgame/panda3d-astron/releases/tag/v1.1.0), 9 months ago) - Panda3D Astron server support as a Python 3 module. Allows the use of Astron with stock Panda3D
 - [thetestgame/panda3d-itchio](https://github.com/thetestgame/panda3d-itchio) ([v1.1.0](https://github.com/thetestgame/panda3d-itchio/releases/tag/v1.1.0), 9 months ago) - Panda3D module for interacting with Itch.io&#39;s game apis and launcher.
 - [thetestgame/panda3d-vfs](https://github.com/thetestgame/panda3d-vfs) ([1.0.0](https://github.com/thetestgame/panda3d-vfs/releases/tag/1.0.0), 9 months ago) - Helper utilities for working with Panda3D&#39;s Virtual File System
