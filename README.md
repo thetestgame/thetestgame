@@ -27,7 +27,7 @@ I'm a professional Senior Game Developer and DevOps Engineer based in Wisconsin.
 - [RedPanda3DEngine/python-samples](https://github.com/RedPanda3DEngine/python-samples) - Python sample applications for Redpanda (1 month ago)
 - [thetestgame/win-machine-setup](https://github.com/thetestgame/win-machine-setup) - Personal utility scripts for setting up new Windows based machines. (2 months ago)
 - [thetestgame/gh-pages-database](https://github.com/thetestgame/gh-pages-database) - Experimental REST GET friendly statically hosted database information utilizing Github Pages (2 months ago)
-- [thetestgame/google-gmail-filters](https://github.com/thetestgame/google-gmail-filters) - Code based Google Gmail filters project. Deploys standardized filters based on data files. Based on gmailctl (2 months ago)
+- [thetestgame/google-gmail-filters](https://github.com/thetestgame/google-gmail-filters) - Code based Google Gmail filters project. Deploys standardized filters based on data files. Based on gmailctl (3 months ago)
 
 ---
 
@@ -51,7 +51,7 @@ I'm a professional Senior Game Developer and DevOps Engineer based in Wisconsin.
 
 - [Added C# language support](https://github.com/RedPanda3DEngine/interrogate/pull/1) on [RedPanda3DEngine/interrogate](https://github.com/RedPanda3DEngine/interrogate) (1 month ago)
 - [Add testing workflow](https://github.com/rlabrecque/Steamworks.NET/pull/661) on [rlabrecque/Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET) (11 months ago)
-- [Added additional utilities and logging systems](https://github.com/thetestgame/panda3d-toolbox/pull/1) on [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) (11 months ago)
+- [Added additional utilities and logging systems](https://github.com/thetestgame/panda3d-toolbox/pull/1) on [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) (1 year ago)
 - [Build and Release Preview Packages](https://github.com/thetestgame/panda3d-astron/pull/3) on [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) (1 year ago)
 - [Added documentation starter project](https://github.com/thetestgame/panda3d-astron/pull/2) on [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) (1 year ago)
 
