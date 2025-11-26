@@ -3,7 +3,7 @@
 Hello, My name is Jordan Maxwell! :wave:
 ----
 
-I'm a professional Senior Game Developer and DevOps Engineer based in Wisconsin.
+I'm a professional Senior Software Engineer and DevOps Engineer based in Wisconsin.
 
 ## Personal Projects and Facts
 
@@ -16,9 +16,9 @@ I'm a professional Senior Game Developer and DevOps Engineer based in Wisconsin.
 ## :briefcase: Where I am currently working at/as
 
 * Software Engineer @ Mojang/Microsoft
+* Software Engineer @ Toontown Rewritten
 * Founder/CTO @ Digital Descent
 * Founder/CTO @ Gachaplex
-* Volunteer Software Engineer @ Toontown Rewritten
 * Freelance Software Developer
 
 ---
