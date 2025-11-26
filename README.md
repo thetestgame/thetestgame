@@ -23,11 +23,11 @@ I'm a professional Senior Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
-- [RedPanda3DEngine/cplusplus-examples](https://github.com/RedPanda3DEngine/cplusplus-examples) (1 month ago)
-- [RedPanda3DEngine/python-samples](https://github.com/RedPanda3DEngine/python-samples) - Python sample applications for Redpanda (1 month ago)
-- [thetestgame/win-machine-setup](https://github.com/thetestgame/win-machine-setup) - Personal utility scripts for setting up new Windows based machines. (2 months ago)
-- [thetestgame/gh-pages-database](https://github.com/thetestgame/gh-pages-database) - Experimental REST GET friendly statically hosted database information utilizing Github Pages (2 months ago)
-- [thetestgame/google-gmail-filters](https://github.com/thetestgame/google-gmail-filters) - Code based Google Gmail filters project. Deploys standardized filters based on data files. Based on gmailctl (3 months ago)
+- [GamePackets/docker-steam-eco](https://github.com/GamePackets/docker-steam-eco) - Host Eco dedicated servers using Docker hosts or Kubernetes (1 day ago)
+- [GamePackets/docker-game-packet-template](https://github.com/GamePackets/docker-game-packet-template) (1 day ago)
+- [GamePackets/docker-steam-left-4-dead](https://github.com/GamePackets/docker-steam-left-4-dead) - Host Left 4 Dead dedicated servers using Docker hosts or Kubernetes (1 day ago)
+- [GamePackets/docker-steam-satisfactory](https://github.com/GamePackets/docker-steam-satisfactory) - Host Satisfactory dedicated servers using Docker hosts or Kubernetes (1 day ago)
+- [thetestgame/google-gmail-filters](https://github.com/thetestgame/google-gmail-filters) - Code based Google Gmail filters project. Deploys standardized filters based on data files. Based on gmailctl (1 day ago)
 
 ---
 
