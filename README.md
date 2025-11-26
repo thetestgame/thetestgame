@@ -16,6 +16,9 @@ I'm a professional Senior Game Developer and DevOps Engineer based in Wisconsin.
 ## :briefcase: Where I am currently working at/as
 
 * Software Engineer @ Mojang/Microsoft
+* Founder/CTO @ Digital Descent
+* Founder/CTO @ Gachaplex
+* Volunteer Software Engineer @ Toontown Rewritten
 * Freelance Software Developer
 
 ---
@@ -48,11 +51,11 @@ I'm a professional Senior Game Developer and DevOps Engineer based in Wisconsin.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add Claude Code GitHub Workflow](https://github.com/thetestgame/google-gmail-filters/pull/1) on [thetestgame/google-gmail-filters](https://github.com/thetestgame/google-gmail-filters) (today)
 - [Added C# language support](https://github.com/RedPanda3DEngine/interrogate/pull/1) on [RedPanda3DEngine/interrogate](https://github.com/RedPanda3DEngine/interrogate) (1 month ago)
 - [Add testing workflow](https://github.com/rlabrecque/Steamworks.NET/pull/661) on [rlabrecque/Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET) (1 year ago)
 - [Added additional utilities and logging systems](https://github.com/thetestgame/panda3d-toolbox/pull/1) on [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) (1 year ago)
 - [Build and Release Preview Packages](https://github.com/thetestgame/panda3d-astron/pull/3) on [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) (1 year ago)
-- [Added documentation starter project](https://github.com/thetestgame/panda3d-astron/pull/2) on [thetestgame/panda3d-astron](https://github.com/thetestgame/panda3d-astron) (1 year ago)
 
 ### Find me elsewhere 🌎
 
