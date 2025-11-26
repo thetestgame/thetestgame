@@ -16,6 +16,9 @@ I'm a professional Senior Game Developer and DevOps Engineer based in Wisconsin.
 ## :briefcase: Where I am currently working at/as
 
 * Software Engineer @ Mojang/Microsoft
+* Founder/CTO @ Digital Descent
+* Founder/CTO @ Gachaplex
+* Volunteer Software Engineer @ Toontown Rewritten
 * Freelance Software Developer
 
 ---
