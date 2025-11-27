@@ -26,7 +26,7 @@ I'm a professional Senior Software Engineer and DevOps Engineer based in Wiscons
 #### 👷 Check out what I'm currently working on
 
 
-- [thetestgame/google-gmail-filters](https://github.com/thetestgame/google-gmail-filters) - Code based Google Gmail filters project. Deploys standardized filters based on data files. Based on gmailctl (1 day ago)
+- [thetestgame/google-gmail-filters](https://github.com/thetestgame/google-gmail-filters) - Code based Google Gmail filters project. Deploys standardized filters based on data files. Based on gmailctl (2 days ago)
 - [RedPanda3DEngine/cplusplus-examples](https://github.com/RedPanda3DEngine/cplusplus-examples) (1 month ago)
 - [RedPanda3DEngine/python-samples](https://github.com/RedPanda3DEngine/python-samples) - Python sample applications for Redpanda (1 month ago)
 - [thetestgame/win-machine-setup](https://github.com/thetestgame/win-machine-setup) - Personal utility scripts for setting up new Windows based machines. (2 months ago)
@@ -51,7 +51,7 @@ I'm a professional Senior Software Engineer and DevOps Engineer based in Wiscons
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add Claude Code GitHub Workflow](https://github.com/thetestgame/google-gmail-filters/pull/1) on [thetestgame/google-gmail-filters](https://github.com/thetestgame/google-gmail-filters) (today)
+- [Add Claude Code GitHub Workflow](https://github.com/thetestgame/google-gmail-filters/pull/1) on [thetestgame/google-gmail-filters](https://github.com/thetestgame/google-gmail-filters) (1 day ago)
 - [Added C# language support](https://github.com/RedPanda3DEngine/interrogate/pull/1) on [RedPanda3DEngine/interrogate](https://github.com/RedPanda3DEngine/interrogate) (1 month ago)
 - [Add testing workflow](https://github.com/rlabrecque/Steamworks.NET/pull/661) on [rlabrecque/Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET) (1 year ago)
 - [Added additional utilities and logging systems](https://github.com/thetestgame/panda3d-toolbox/pull/1) on [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) (1 year ago)
