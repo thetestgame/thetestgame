@@ -18,7 +18,6 @@ I'm a professional Senior Software Engineer and DevOps Engineer based in Wiscons
 * Software Engineer @ Mojang/Microsoft
 * Software Engineer @ Toontown Rewritten
 * Founder/CTO @ Digital Descent
-* Founder/CTO @ Gachaplex
 * Freelance Software Developer
 
 ---
