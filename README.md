@@ -25,21 +25,21 @@ I'm a professional Senior Software Engineer and DevOps Engineer based in Wiscons
 #### 👷 Check out what I'm currently working on
 
 
-- [RedPanda3DEngine/python-samples](https://github.com/RedPanda3DEngine/python-samples) - Python sample applications for Redpanda (2 months ago)
+- [thetestgame/ha-addons-repository](https://github.com/thetestgame/ha-addons-repository) (today)
 - [RedPanda3DEngine/cplusplus-examples](https://github.com/RedPanda3DEngine/cplusplus-examples) (2 months ago)
+- [RedPanda3DEngine/python-samples](https://github.com/RedPanda3DEngine/python-samples) - Python sample applications for Redpanda (2 months ago)
 - [thetestgame/win-machine-setup](https://github.com/thetestgame/win-machine-setup) - Personal utility scripts for setting up new Windows based machines. (3 months ago)
 - [thetestgame/gh-pages-database](https://github.com/thetestgame/gh-pages-database) - Experimental REST GET friendly statically hosted database information utilizing Github Pages (4 months ago)
-- [thetestgame/cf-gateway-dns-ad-block](https://github.com/thetestgame/cf-gateway-dns-ad-block) - Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains (6 months ago)
 
 ---
 
 #### 🌱 My latest projects
 
+- [thetestgame/ha-addons-repository](https://github.com/thetestgame/ha-addons-repository)
 - [thetestgame/win-machine-setup](https://github.com/thetestgame/win-machine-setup) - Personal utility scripts for setting up new Windows based machines.
 - [thetestgame/panda3d-animalese](https://github.com/thetestgame/panda3d-animalese) - Animalese TTS synth for the Panda3D game engine
 - [thetestgame/panda3d-tmx](https://github.com/thetestgame/panda3d-tmx) - [WIP] Shader based Tiled tmx file loader/renderer for the Panda3D game engine
 - [thetestgame/thetestgame.github.io](https://github.com/thetestgame/thetestgame.github.io) - Root repository for the GitHub pages documentation site used by all my projects
-- [thetestgame/panda3d-itchio](https://github.com/thetestgame/panda3d-itchio) - Panda3D module for interacting with Itch.io&#39;s game apis and launcher.
 
 ---
 
