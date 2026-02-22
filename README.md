@@ -27,7 +27,7 @@ I'm a professional Senior Software Engineer and DevOps Engineer based in Wiscons
 
 - [GamePackets/docker-steam-valheim](https://github.com/GamePackets/docker-steam-valheim) - Host Valheim dedicated servers using Docker hosts or Kubernetes (2 weeks ago)
 - [thetestgame/ha-addons-repository](https://github.com/thetestgame/ha-addons-repository) (1 month ago)
-- [RedPanda3DEngine/python-samples](https://github.com/RedPanda3DEngine/python-samples) - Python sample applications for Redpanda (4 months ago)
+- [RedPanda3DEngine/samples](https://github.com/RedPanda3DEngine/samples) - Sample applications for RedPanda3D (4 months ago)
 - [thetestgame/win-machine-setup](https://github.com/thetestgame/win-machine-setup) - Personal utility scripts for setting up new Windows based machines. (5 months ago)
 - [thetestgame/gh-pages-database](https://github.com/thetestgame/gh-pages-database) - Experimental REST GET friendly statically hosted database information utilizing Github Pages (5 months ago)
 
