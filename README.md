@@ -25,11 +25,11 @@ I'm a professional Senior Software Engineer and DevOps Engineer based in Wiscons
 #### 👷 Check out what I'm currently working on
 
 
+- [DigitalDescent/panda3d-toolbox](https://github.com/DigitalDescent/panda3d-toolbox) - A collection of helpful utility methods and constants for working with the Panda3D game engine (1 day ago)
 - [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) - Panda3D bindings for Valve&#39;s Steamworks SDK. Used for shipping Panda3D applications on Steam. (1 day ago)
 - [GamePackets/docker-steam-valheim](https://github.com/GamePackets/docker-steam-valheim) - Host Valheim dedicated servers using Docker hosts or Kubernetes (3 weeks ago)
 - [thetestgame/ha-addons-repository](https://github.com/thetestgame/ha-addons-repository) (1 month ago)
 - [RedPanda3DEngine/samples](https://github.com/RedPanda3DEngine/samples) - Sample applications for RedPanda3D (4 months ago)
-- [thetestgame/win-machine-setup](https://github.com/thetestgame/win-machine-setup) - Personal utility scripts for setting up new Windows based machines. (5 months ago)
 
 ---
 
@@ -45,16 +45,17 @@ I'm a professional Senior Software Engineer and DevOps Engineer based in Wiscons
 
 #### 🔭 Latest releases I've contributed to
 
+- [DigitalDescent/panda3d-toolbox](https://github.com/DigitalDescent/panda3d-toolbox) ([v1.1.0](https://github.com/DigitalDescent/panda3d-toolbox/releases/tag/v1.1.0), 1 year ago) - A collection of helpful utility methods and constants for working with the Panda3D game engine
 
 ---
 
 #### 🔨 Latest Pull Requests I published
 
+- [Transfer panda3d-toolbox library to Digital Descent.](https://github.com/DigitalDescent/panda3d-toolbox/pull/2) on [DigitalDescent/panda3d-toolbox](https://github.com/DigitalDescent/panda3d-toolbox) (today)
 - [Support Modern Panda3D, CMake, and Visual Studio.](https://github.com/tobspr/P3DModuleBuilder/pull/18) on [tobspr/P3DModuleBuilder](https://github.com/tobspr/P3DModuleBuilder) (today)
 - [Additional Upgrades](https://github.com/GamePackets/docker-steam-server/pull/6) on [GamePackets/docker-steam-server](https://github.com/GamePackets/docker-steam-server) (3 weeks ago)
 - [Additional Features and Basic Maintenance](https://github.com/GamePackets/docker-steam-server/pull/5) on [GamePackets/docker-steam-server](https://github.com/GamePackets/docker-steam-server) (3 weeks ago)
 - [Add testing workflow](https://github.com/rlabrecque/Steamworks.NET/pull/661) on [rlabrecque/Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET) (1 year ago)
-- [Added additional utilities and logging systems](https://github.com/thetestgame/panda3d-toolbox/pull/1) on [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) (1 year ago)
 
 ### Find me elsewhere 🌎
 
