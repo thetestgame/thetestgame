@@ -25,11 +25,11 @@ I'm a professional Senior Software Engineer and DevOps Engineer based in Wiscons
 #### 👷 Check out what I'm currently working on
 
 
+- [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) - Panda3D bindings for Valve&#39;s Steamworks SDK. Used for shipping Panda3D applications on Steam. (1 day ago)
 - [GamePackets/docker-steam-valheim](https://github.com/GamePackets/docker-steam-valheim) - Host Valheim dedicated servers using Docker hosts or Kubernetes (3 weeks ago)
 - [thetestgame/ha-addons-repository](https://github.com/thetestgame/ha-addons-repository) (1 month ago)
 - [RedPanda3DEngine/samples](https://github.com/RedPanda3DEngine/samples) - Sample applications for RedPanda3D (4 months ago)
 - [thetestgame/win-machine-setup](https://github.com/thetestgame/win-machine-setup) - Personal utility scripts for setting up new Windows based machines. (5 months ago)
-- [thetestgame/gh-pages-database](https://github.com/thetestgame/gh-pages-database) - Experimental REST GET friendly statically hosted database information utilizing Github Pages (5 months ago)
 
 ---
 
