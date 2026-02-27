@@ -51,11 +51,11 @@ I'm a professional Senior Software Engineer and DevOps Engineer based in Wiscons
 
 #### 🔨 Latest Pull Requests I published
 
+- [Automated create Github releases on git tag](https://github.com/DigitalDescent/panda3d-steamworks/pull/1) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (today)
 - [Transfer panda3d-toolbox library to Digital Descent.](https://github.com/DigitalDescent/panda3d-toolbox/pull/2) on [DigitalDescent/panda3d-toolbox](https://github.com/DigitalDescent/panda3d-toolbox) (1 day ago)
 - [Support Modern Panda3D, CMake, and Visual Studio.](https://github.com/tobspr/P3DModuleBuilder/pull/18) on [tobspr/P3DModuleBuilder](https://github.com/tobspr/P3DModuleBuilder) (1 day ago)
 - [Additional Upgrades](https://github.com/GamePackets/docker-steam-server/pull/6) on [GamePackets/docker-steam-server](https://github.com/GamePackets/docker-steam-server) (3 weeks ago)
 - [Additional Features and Basic Maintenance](https://github.com/GamePackets/docker-steam-server/pull/5) on [GamePackets/docker-steam-server](https://github.com/GamePackets/docker-steam-server) (3 weeks ago)
-- [Add testing workflow](https://github.com/rlabrecque/Steamworks.NET/pull/661) on [rlabrecque/Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET) (1 year ago)
 
 ### Find me elsewhere 🌎
 
