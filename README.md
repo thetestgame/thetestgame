@@ -45,18 +45,18 @@ I'm a professional Senior Software Engineer and DevOps Engineer based in Wiscons
 
 #### 🔭 Latest releases I've contributed to
 
-- [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) ([v1.63.6](https://github.com/DigitalDescent/panda3d-steamworks/releases/tag/v1.63.6), today) - Panda3D bindings for Valve&#39;s Steamworks SDK. Used for shipping Panda3D applications on Steam.
+- [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) ([v1.63.7](https://github.com/DigitalDescent/panda3d-steamworks/releases/tag/v1.63.7), today) - Panda3D bindings for Valve&#39;s Steamworks SDK. Used for shipping Panda3D applications on Steam.
 - [DigitalDescent/panda3d-toolbox](https://github.com/DigitalDescent/panda3d-toolbox) ([v1.1.0](https://github.com/DigitalDescent/panda3d-toolbox/releases/tag/v1.1.0), 1 year ago) - A collection of helpful utility methods and constants for working with the Panda3D game engine
 
 ---
 
 #### 🔨 Latest Pull Requests I published
 
+- [Support additional Python versions [WIP]](https://github.com/DigitalDescent/panda3d-steamworks/pull/11) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (today)
+- [Remove PyPi wheel dependency on Interrogatedb](https://github.com/DigitalDescent/panda3d-steamworks/pull/10) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (today)
 - [Add PyPi packages for Python 3.14](https://github.com/DigitalDescent/panda3d-steamworks/pull/9) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (today)
 - [Fix incorrect PyPi version and details](https://github.com/DigitalDescent/panda3d-steamworks/pull/8) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (today)
 - [Attempt to fix MacOS builds.](https://github.com/DigitalDescent/panda3d-steamworks/pull/7) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (today)
-- [Fix builds for PyPi publishing](https://github.com/DigitalDescent/panda3d-steamworks/pull/6) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (today)
-- [Misc. Clean up and organization.](https://github.com/DigitalDescent/panda3d-steamworks/pull/5) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (today)
 
 ### Find me elsewhere 🌎
 
