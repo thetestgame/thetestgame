@@ -25,8 +25,8 @@ I'm a professional Senior Software Engineer and DevOps Engineer based in Wiscons
 #### 👷 Check out what I'm currently working on
 
 
-- [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) - Panda3D bindings for Valve&#39;s Steamworks SDK. Used for shipping Panda3D applications on Steam. (today)
-- [DigitalDescent/panda3d-toolbox](https://github.com/DigitalDescent/panda3d-toolbox) - A collection of helpful utility methods and constants for working with the Panda3D game engine (2 days ago)
+- [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) - Panda3D bindings for Valve&#39;s Steamworks SDK. Used for shipping Panda3D applications on Steam. (1 day ago)
+- [DigitalDescent/panda3d-toolbox](https://github.com/DigitalDescent/panda3d-toolbox) - A collection of helpful utility methods and constants for working with the Panda3D game engine (3 days ago)
 - [GamePackets/docker-steam-valheim](https://github.com/GamePackets/docker-steam-valheim) - Host Valheim dedicated servers using Docker hosts or Kubernetes (3 weeks ago)
 - [thetestgame/ha-addons-repository](https://github.com/thetestgame/ha-addons-repository) (1 month ago)
 - [thetestgame/win-machine-setup](https://github.com/thetestgame/win-machine-setup) - Personal utility scripts for setting up new Windows based machines. (5 months ago)
@@ -51,11 +51,11 @@ I'm a professional Senior Software Engineer and DevOps Engineer based in Wiscons
 
 #### 🔨 Latest Pull Requests I published
 
-- [Automatically create and publish documentation](https://github.com/DigitalDescent/panda3d-steamworks/pull/3) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (today)
-- [Fix build/publish workflow issues [WIP]](https://github.com/DigitalDescent/panda3d-steamworks/pull/2) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (today)
-- [Automated create Github releases on git tag](https://github.com/DigitalDescent/panda3d-steamworks/pull/1) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (today)
-- [Transfer panda3d-toolbox library to Digital Descent.](https://github.com/DigitalDescent/panda3d-toolbox/pull/2) on [DigitalDescent/panda3d-toolbox](https://github.com/DigitalDescent/panda3d-toolbox) (1 day ago)
-- [Support Modern Panda3D, CMake, and Visual Studio.](https://github.com/tobspr/P3DModuleBuilder/pull/18) on [tobspr/P3DModuleBuilder](https://github.com/tobspr/P3DModuleBuilder) (1 day ago)
+- [Add support for Steamworks enums](https://github.com/DigitalDescent/panda3d-steamworks/pull/4) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (1 day ago)
+- [Automatically create and publish documentation](https://github.com/DigitalDescent/panda3d-steamworks/pull/3) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (1 day ago)
+- [Fix build/publish workflow issues](https://github.com/DigitalDescent/panda3d-steamworks/pull/2) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (1 day ago)
+- [Automated create Github releases on git tag](https://github.com/DigitalDescent/panda3d-steamworks/pull/1) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (1 day ago)
+- [Transfer panda3d-toolbox library to Digital Descent.](https://github.com/DigitalDescent/panda3d-toolbox/pull/2) on [DigitalDescent/panda3d-toolbox](https://github.com/DigitalDescent/panda3d-toolbox) (2 days ago)
 
 ### Find me elsewhere 🌎
 
