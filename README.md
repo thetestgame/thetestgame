@@ -26,8 +26,8 @@ I'm a professional Senior Software Engineer and DevOps Engineer based in Wiscons
 
 
 - [DigitalDescent/.github](https://github.com/DigitalDescent/.github) - Github profile information for Digital Descent LLC (5 days ago)
-- [DigitalDescent/panda3d-config](https://github.com/DigitalDescent/panda3d-config) (5 days ago)
 - [DigitalDescent/panda3d-localization](https://github.com/DigitalDescent/panda3d-localization) (5 days ago)
+- [DigitalDescent/panda3d-config](https://github.com/DigitalDescent/panda3d-config) (5 days ago)
 - [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) - Panda3D bindings for Valve&#39;s Steamworks SDK. Used for shipping Panda3D applications on Steam. (1 week ago)
 - [DigitalDescent/panda3d-toolbox](https://github.com/DigitalDescent/panda3d-toolbox) - A collection of helpful utility methods and constants for working with the Panda3D game engine (1 week ago)
 
