@@ -25,9 +25,9 @@ I'm a professional Senior Software Engineer and DevOps Engineer based in Wiscons
 #### 👷 Check out what I'm currently working on
 
 
-- [DigitalDescent/.github](https://github.com/DigitalDescent/.github) - Github profile information for Digital Descent LLC (5 days ago)
-- [DigitalDescent/panda3d-localization](https://github.com/DigitalDescent/panda3d-localization) (5 days ago)
-- [DigitalDescent/panda3d-config](https://github.com/DigitalDescent/panda3d-config) (5 days ago)
+- [DigitalDescent/.github](https://github.com/DigitalDescent/.github) - Github profile information for Digital Descent LLC (6 days ago)
+- [DigitalDescent/panda3d-localization](https://github.com/DigitalDescent/panda3d-localization) (6 days ago)
+- [DigitalDescent/panda3d-config](https://github.com/DigitalDescent/panda3d-config) (6 days ago)
 - [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) - Panda3D bindings for Valve&#39;s Steamworks SDK. Used for shipping Panda3D applications on Steam. (1 week ago)
 - [DigitalDescent/panda3d-toolbox](https://github.com/DigitalDescent/panda3d-toolbox) - A collection of helpful utility methods and constants for working with the Panda3D game engine (1 week ago)
 
@@ -52,8 +52,8 @@ I'm a professional Senior Software Engineer and DevOps Engineer based in Wiscons
 
 #### 🔨 Latest Pull Requests I published
 
-- [Support Steam Game Sockets and Relay Network](https://github.com/DigitalDescent/panda3d-steamworks/pull/13) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (today)
-- [Support Steam HTML Surface interface](https://github.com/DigitalDescent/panda3d-steamworks/pull/12) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (today)
+- [Support Steam Game Sockets and Relay Network](https://github.com/DigitalDescent/panda3d-steamworks/pull/13) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (1 day ago)
+- [Support Steam HTML Surface interface](https://github.com/DigitalDescent/panda3d-steamworks/pull/12) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (1 day ago)
 - [Support additional Python versions [WIP]](https://github.com/DigitalDescent/panda3d-steamworks/pull/11) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (1 week ago)
 - [Remove PyPi wheel dependency on Interrogatedb](https://github.com/DigitalDescent/panda3d-steamworks/pull/10) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (1 week ago)
 - [Add PyPi packages for Python 3.14](https://github.com/DigitalDescent/panda3d-steamworks/pull/9) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (1 week ago)
