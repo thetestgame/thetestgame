@@ -52,11 +52,11 @@ I'm a professional Senior Software Engineer and DevOps Engineer based in Wiscons
 
 #### 🔨 Latest Pull Requests I published
 
+- [Support Latest Python Versions](https://github.com/thetestgame/cefpython/pull/1) on [thetestgame/cefpython](https://github.com/thetestgame/cefpython) (today)
 - [Support Steam Game Sockets and Relay Network](https://github.com/DigitalDescent/panda3d-steamworks/pull/13) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (1 day ago)
 - [Support Steam HTML Surface interface](https://github.com/DigitalDescent/panda3d-steamworks/pull/12) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (1 day ago)
 - [Support additional Python versions [WIP]](https://github.com/DigitalDescent/panda3d-steamworks/pull/11) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (1 week ago)
 - [Remove PyPi wheel dependency on Interrogatedb](https://github.com/DigitalDescent/panda3d-steamworks/pull/10) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (1 week ago)
-- [Add PyPi packages for Python 3.14](https://github.com/DigitalDescent/panda3d-steamworks/pull/9) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (1 week ago)
 
 ### Find me elsewhere 🌎
 
