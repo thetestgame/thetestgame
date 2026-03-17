@@ -16,7 +16,6 @@ I'm a professional Senior Software Engineer and DevOps Engineer based in Wiscons
 ## :briefcase: Where I am currently working at/as
 
 * Software Engineer @ Mojang/Microsoft
-* Software Engineer @ Toontown Rewritten
 * Founder/CTO @ Digital Descent
 * Freelance Software Developer
 
