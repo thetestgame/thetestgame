@@ -51,11 +51,11 @@ I'm a professional Senior Software Engineer and DevOps Engineer based in Wiscons
 
 #### 🔨 Latest Pull Requests I published
 
+- [Rework native loading for packaged builds](https://github.com/DigitalDescent/panda3d-steamworks/pull/14) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (today)
 - [Microsoft GameInput and Visual Studio 2026 Support](https://github.com/panda3d/panda3d/pull/1812) on [panda3d/panda3d](https://github.com/panda3d/panda3d) (3 days ago)
 - [Support Steam Game Sockets and Relay Network](https://github.com/DigitalDescent/panda3d-steamworks/pull/13) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (1 week ago)
 - [Support Steam HTML Surface interface](https://github.com/DigitalDescent/panda3d-steamworks/pull/12) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (1 week ago)
 - [Support additional Python versions](https://github.com/DigitalDescent/panda3d-steamworks/pull/11) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (2 weeks ago)
-- [Remove PyPi wheel dependency on Interrogatedb](https://github.com/DigitalDescent/panda3d-steamworks/pull/10) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (2 weeks ago)
 
 ### Find me elsewhere 🌎
 
