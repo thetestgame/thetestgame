@@ -24,7 +24,7 @@ I'm a professional Senior Software Engineer and DevOps Engineer based in Wiscons
 #### 👷 Check out what I'm currently working on
 
 
-- [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) - Panda3D bindings for Valve&#39;s Steamworks SDK. Used for shipping Panda3D applications on Steam. (today)
+- [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) - Panda3D bindings for Valve&#39;s Steamworks SDK. Used for shipping Panda3D applications on Steam. (1 day ago)
 - [DigitalDescent/.github](https://github.com/DigitalDescent/.github) - Github profile information for Digital Descent LLC (2 weeks ago)
 - [DigitalDescent/panda3d-config](https://github.com/DigitalDescent/panda3d-config) (2 weeks ago)
 - [DigitalDescent/panda3d-localization](https://github.com/DigitalDescent/panda3d-localization) (2 weeks ago)
@@ -51,7 +51,7 @@ I'm a professional Senior Software Engineer and DevOps Engineer based in Wiscons
 
 #### 🔨 Latest Pull Requests I published
 
-- [Microsoft GameInput and Visual Studio 2026 Support](https://github.com/panda3d/panda3d/pull/1812) on [panda3d/panda3d](https://github.com/panda3d/panda3d) (2 days ago)
+- [Microsoft GameInput and Visual Studio 2026 Support](https://github.com/panda3d/panda3d/pull/1812) on [panda3d/panda3d](https://github.com/panda3d/panda3d) (3 days ago)
 - [Support Steam Game Sockets and Relay Network](https://github.com/DigitalDescent/panda3d-steamworks/pull/13) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (1 week ago)
 - [Support Steam HTML Surface interface](https://github.com/DigitalDescent/panda3d-steamworks/pull/12) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (1 week ago)
 - [Support additional Python versions](https://github.com/DigitalDescent/panda3d-steamworks/pull/11) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (2 weeks ago)
