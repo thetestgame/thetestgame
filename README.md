@@ -24,18 +24,18 @@ I'm a professional Senior Software Engineer and DevOps Engineer based in Wiscons
 #### 👷 Check out what I'm currently working on
 
 
-- [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) - Panda3D bindings for Valve&#39;s Steamworks SDK. Used for shipping Panda3D applications on Steam. (1 day ago)
-- [DigitalDescent/.github](https://github.com/DigitalDescent/.github) - Github profile information for Digital Descent LLC (2 weeks ago)
-- [DigitalDescent/panda3d-config](https://github.com/DigitalDescent/panda3d-config) (2 weeks ago)
-- [DigitalDescent/panda3d-localization](https://github.com/DigitalDescent/panda3d-localization) (2 weeks ago)
-- [DigitalDescent/panda3d-toolbox](https://github.com/DigitalDescent/panda3d-toolbox) - A collection of helpful utility methods and constants for working with the Panda3D game engine (3 weeks ago)
+- [thetestgame/bbmodel2bam](https://github.com/thetestgame/bbmodel2bam) - About A CLI tool to convert Blockbench bbmodel files to Panda3D BAM files (1 month ago)
+- [DigitalDescent/panda3d-config](https://github.com/DigitalDescent/panda3d-config) - Experimentalconfiguration utilities for the Panda3D game engine (1 month ago)
+- [thetestgame/ha-addons-repository](https://github.com/thetestgame/ha-addons-repository) (1 month ago)
+- [DigitalDescent/panda3d-pipes](https://github.com/DigitalDescent/panda3d-pipes) - Distributed object networking for Panda3D. Backed by Valve&#39;s Game Sockets and Relay Network (1 month ago)
+- [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) - Panda3D bindings for Valve&#39;s Steamworks SDK. Used for shipping Panda3D applications on Steam. (2 months ago)
 
 ---
 
 #### 🌱 My latest projects
 
+- [thetestgame/bbmodel2bam](https://github.com/thetestgame/bbmodel2bam) - About A CLI tool to convert Blockbench bbmodel files to Panda3D BAM files
 - [thetestgame/ha-addons-repository](https://github.com/thetestgame/ha-addons-repository)
-- [thetestgame/win-machine-setup](https://github.com/thetestgame/win-machine-setup) - Personal utility scripts for setting up new Windows based machines.
 - [thetestgame/panda3d-animalese](https://github.com/thetestgame/panda3d-animalese) - Animalese TTS synth for the Panda3D game engine
 - [thetestgame/panda3d-tmx](https://github.com/thetestgame/panda3d-tmx) - [WIP] Shader based Tiled tmx file loader/renderer for the Panda3D game engine
 - [thetestgame/panda3d-itchio](https://github.com/thetestgame/panda3d-itchio) - Panda3D module for interacting with Itch.io&#39;s game apis and launcher.
@@ -44,18 +44,19 @@ I'm a professional Senior Software Engineer and DevOps Engineer based in Wiscons
 
 #### 🔭 Latest releases I've contributed to
 
-- [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) ([v1.63.7](https://github.com/DigitalDescent/panda3d-steamworks/releases/tag/v1.63.7), 2 weeks ago) - Panda3D bindings for Valve&#39;s Steamworks SDK. Used for shipping Panda3D applications on Steam.
-- [DigitalDescent/panda3d-toolbox](https://github.com/DigitalDescent/panda3d-toolbox) ([v1.1.0](https://github.com/DigitalDescent/panda3d-toolbox/releases/tag/v1.1.0), 1 year ago) - A collection of helpful utility methods and constants for working with the Panda3D game engine
+- [thetestgame/bbmodel2bam](https://github.com/thetestgame/bbmodel2bam) ([v0.1.0](https://github.com/thetestgame/bbmodel2bam/releases/tag/v0.1.0), 1 month ago) - About A CLI tool to convert Blockbench bbmodel files to Panda3D BAM files
+- [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) ([v1.63.7](https://github.com/DigitalDescent/panda3d-steamworks/releases/tag/v1.63.7), 2 months ago) - Panda3D bindings for Valve&#39;s Steamworks SDK. Used for shipping Panda3D applications on Steam.
+- [DigitalDescent/panda3d-toolbox](https://github.com/DigitalDescent/panda3d-toolbox) ([v1.1.0](https://github.com/DigitalDescent/panda3d-toolbox/releases/tag/v1.1.0), 2 years ago) - A collection of helpful utility methods and constants for working with the Panda3D game engine
 
 ---
 
 #### 🔨 Latest Pull Requests I published
 
-- [Rework native loading for packaged builds](https://github.com/DigitalDescent/panda3d-steamworks/pull/14) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (today)
-- [Microsoft GameInput and Visual Studio 2026 Support](https://github.com/panda3d/panda3d/pull/1812) on [panda3d/panda3d](https://github.com/panda3d/panda3d) (3 days ago)
-- [Support Steam Game Sockets and Relay Network](https://github.com/DigitalDescent/panda3d-steamworks/pull/13) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (1 week ago)
-- [Support Steam HTML Surface interface](https://github.com/DigitalDescent/panda3d-steamworks/pull/12) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (1 week ago)
-- [Support additional Python versions](https://github.com/DigitalDescent/panda3d-steamworks/pull/11) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (2 weeks ago)
+- [Build wheels using pypa/cibuildwheel](https://github.com/DigitalDescent/panda3d-steamworks/pull/16) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (1 month ago)
+- [Initial production version of Panda3D Pipes](https://github.com/DigitalDescent/panda3d-pipes/pull/1) on [DigitalDescent/panda3d-pipes](https://github.com/DigitalDescent/panda3d-pipes) (2 months ago)
+- [Change Panda3D version](https://github.com/DigitalDescent/panda3d-steamworks/pull/15) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (2 months ago)
+- [Rework native loading for packaged builds](https://github.com/DigitalDescent/panda3d-steamworks/pull/14) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (2 months ago)
+- [Microsoft GameInput Support](https://github.com/panda3d/panda3d/pull/1812) on [panda3d/panda3d](https://github.com/panda3d/panda3d) (2 months ago)
 
 ### Find me elsewhere 🌎
 
