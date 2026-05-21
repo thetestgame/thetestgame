@@ -3,7 +3,7 @@
 Hello, My name is Jordan Maxwell! :wave:
 ----
 
-I'm a professional Senior Software Engineer and DevOps Engineer based in Wisconsin.
+I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 ## Personal Projects and Facts
 
