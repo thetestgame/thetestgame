@@ -24,11 +24,11 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
+- [bdovaz/UnityNuGet](https://github.com/bdovaz/UnityNuGet) - Provides a service to install NuGet packages into a Unity project via the Unity Package Manager (today)
 - [thetestgame/bbmodel2bam](https://github.com/thetestgame/bbmodel2bam) - About A CLI tool to convert Blockbench bbmodel files to Panda3D BAM files (1 month ago)
 - [DigitalDescent/panda3d-config](https://github.com/DigitalDescent/panda3d-config) - Experimentalconfiguration utilities for the Panda3D game engine (2 months ago)
 - [thetestgame/ha-addons-repository](https://github.com/thetestgame/ha-addons-repository) (2 months ago)
 - [DigitalDescent/panda3d-pipes](https://github.com/DigitalDescent/panda3d-pipes) - Distributed object networking for Panda3D. Backed by Valve&#39;s Game Sockets and Relay Network (2 months ago)
-- [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) - Panda3D bindings for Valve&#39;s Steamworks SDK. Used for shipping Panda3D applications on Steam. (2 months ago)
 
 ---
 
