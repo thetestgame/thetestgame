@@ -24,7 +24,7 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
-- [bdovaz/UnityNuGet](https://github.com/bdovaz/UnityNuGet) - Provides a service to install NuGet packages into a Unity project via the Unity Package Manager (today)
+- [bdovaz/UnityNuGet](https://github.com/bdovaz/UnityNuGet) - Provides a service to install NuGet packages into a Unity project via the Unity Package Manager (1 day ago)
 - [thetestgame/bbmodel2bam](https://github.com/thetestgame/bbmodel2bam) - About A CLI tool to convert Blockbench bbmodel files to Panda3D BAM files (1 month ago)
 - [DigitalDescent/panda3d-config](https://github.com/DigitalDescent/panda3d-config) - Experimentalconfiguration utilities for the Panda3D game engine (2 months ago)
 - [thetestgame/ha-addons-repository](https://github.com/thetestgame/ha-addons-repository) (2 months ago)
@@ -52,8 +52,8 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add MySqlConnector 1.0.0](https://github.com/bdovaz/UnityNuGet/pull/709) on [bdovaz/UnityNuGet](https://github.com/bdovaz/UnityNuGet) (1 day ago)
-- [Add Linq2db version 2.0.0](https://github.com/bdovaz/UnityNuGet/pull/708) on [bdovaz/UnityNuGet](https://github.com/bdovaz/UnityNuGet) (2 days ago)
+- [Add MySqlConnector 1.0.0](https://github.com/bdovaz/UnityNuGet/pull/709) on [bdovaz/UnityNuGet](https://github.com/bdovaz/UnityNuGet) (2 days ago)
+- [Add Linq2db version 2.0.0](https://github.com/bdovaz/UnityNuGet/pull/708) on [bdovaz/UnityNuGet](https://github.com/bdovaz/UnityNuGet) (3 days ago)
 - [Build wheels using pypa/cibuildwheel](https://github.com/DigitalDescent/panda3d-steamworks/pull/16) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (2 months ago)
 - [Initial production version of Panda3D Pipes](https://github.com/DigitalDescent/panda3d-pipes/pull/1) on [DigitalDescent/panda3d-pipes](https://github.com/DigitalDescent/panda3d-pipes) (2 months ago)
 - [Change Panda3D version](https://github.com/DigitalDescent/panda3d-steamworks/pull/15) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (2 months ago)
