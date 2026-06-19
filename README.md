@@ -56,7 +56,7 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 - [Add Linq2db version 2.0.0](https://github.com/bdovaz/UnityNuGet/pull/708) on [bdovaz/UnityNuGet](https://github.com/bdovaz/UnityNuGet) (2 weeks ago)
 - [Build wheels using pypa/cibuildwheel](https://github.com/DigitalDescent/panda3d-steamworks/pull/16) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (2 months ago)
 - [Initial production version of Panda3D Pipes](https://github.com/DigitalDescent/panda3d-pipes/pull/1) on [DigitalDescent/panda3d-pipes](https://github.com/DigitalDescent/panda3d-pipes) (2 months ago)
-- [Change Panda3D version](https://github.com/DigitalDescent/panda3d-steamworks/pull/15) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (2 months ago)
+- [Change Panda3D version](https://github.com/DigitalDescent/panda3d-steamworks/pull/15) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (3 months ago)
 
 ### Find me elsewhere 🌎
 
