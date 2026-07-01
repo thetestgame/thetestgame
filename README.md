@@ -52,7 +52,7 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add MySqlConnector 1.0.0](https://github.com/bdovaz/UnityNuGet/pull/709) on [bdovaz/UnityNuGet](https://github.com/bdovaz/UnityNuGet) (4 weeks ago)
+- [Add MySqlConnector 1.0.0](https://github.com/bdovaz/UnityNuGet/pull/709) on [bdovaz/UnityNuGet](https://github.com/bdovaz/UnityNuGet) (1 month ago)
 - [Add Linq2db version 2.0.0](https://github.com/bdovaz/UnityNuGet/pull/708) on [bdovaz/UnityNuGet](https://github.com/bdovaz/UnityNuGet) (1 month ago)
 - [Build wheels using pypa/cibuildwheel](https://github.com/DigitalDescent/panda3d-steamworks/pull/16) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (3 months ago)
 - [Initial production version of Panda3D Pipes](https://github.com/DigitalDescent/panda3d-pipes/pull/1) on [DigitalDescent/panda3d-pipes](https://github.com/DigitalDescent/panda3d-pipes) (3 months ago)
