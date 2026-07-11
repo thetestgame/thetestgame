@@ -52,8 +52,8 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Experimental CI Improvements](https://github.com/thetestgame/UnityNuGet/pull/20) on [thetestgame/UnityNuGet](https://github.com/thetestgame/UnityNuGet) (today)
-- [Added Redis.OM 0.1.0](https://github.com/bdovaz/UnityNuGet/pull/736) on [bdovaz/UnityNuGet](https://github.com/bdovaz/UnityNuGet) (today)
+- [Experimental CI Improvements](https://github.com/thetestgame/UnityNuGet/pull/20) on [thetestgame/UnityNuGet](https://github.com/thetestgame/UnityNuGet) (1 day ago)
+- [Added Redis.OM 0.1.0](https://github.com/bdovaz/UnityNuGet/pull/736) on [bdovaz/UnityNuGet](https://github.com/bdovaz/UnityNuGet) (1 day ago)
 - [Add MySqlConnector 1.0.0](https://github.com/bdovaz/UnityNuGet/pull/709) on [bdovaz/UnityNuGet](https://github.com/bdovaz/UnityNuGet) (1 month ago)
 - [Add Linq2db version 2.0.0](https://github.com/bdovaz/UnityNuGet/pull/708) on [bdovaz/UnityNuGet](https://github.com/bdovaz/UnityNuGet) (1 month ago)
 - [Build wheels using pypa/cibuildwheel](https://github.com/DigitalDescent/panda3d-steamworks/pull/16) on [DigitalDescent/panda3d-steamworks](https://github.com/DigitalDescent/panda3d-steamworks) (3 months ago)
