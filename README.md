@@ -28,7 +28,7 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 - [thetestgame/bbmodel2bam](https://github.com/thetestgame/bbmodel2bam) - About A CLI tool to convert Blockbench bbmodel files to Panda3D BAM files (3 months ago)
 - [DigitalDescent/panda3d-config](https://github.com/DigitalDescent/panda3d-config) - Experimentalconfiguration utilities for the Panda3D game engine (3 months ago)
 - [thetestgame/ha-addons-repository](https://github.com/thetestgame/ha-addons-repository) (3 months ago)
-- [DigitalDescent/panda3d-pipes](https://github.com/DigitalDescent/panda3d-pipes) - Distributed object networking for Panda3D. Backed by Valve&#39;s Game Sockets and Relay Network (3 months ago)
+- [DigitalDescent/panda3d-pipes](https://github.com/DigitalDescent/panda3d-pipes) - Distributed object networking for Panda3D. Backed by Valve&#39;s Game Sockets and Relay Network (4 months ago)
 
 ---
 
