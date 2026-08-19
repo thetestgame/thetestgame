@@ -7,7 +7,7 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 ## Personal Projects and Facts
 
-- 🔭 I’m currently working on a personal game project
+- 🔭 I’m currently working on a open source game development tools
 - 🌱 I’m currently learning Kubernetes.
 - ⚡ Fun fact: I've been writing software since I was around 8 years old. I was drawn to programming through my interest in video games.
 
@@ -16,7 +16,8 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 ## :briefcase: Where I am currently working at/as
 
 * Multiplayer Systems Engineer @ Magic Find Studios
-* Founder/CTO @ Digital Descent
+* Software Engineer @ Toons of the World Foundation
+* Chief Technology Officer @ Digital Descent
 * Freelance Software Developer
 
 ---
