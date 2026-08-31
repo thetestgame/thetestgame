@@ -25,11 +25,11 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
+- [ClockworksEngine/.github](https://github.com/ClockworksEngine/.github) (today)
+- [ClockworksEngine/Logbook](https://github.com/ClockworksEngine/Logbook) - Serilog logging module for the Unity game engine (1 week ago)
+- [ClockworksEngine/Gearbox](https://github.com/ClockworksEngine/Gearbox) - Standardized framework for Unity application settings. (1 week ago)
 - [bdovaz/UnityNuGet](https://github.com/bdovaz/UnityNuGet) - Provides a service to install NuGet packages into a Unity project via the Unity Package Manager (2 weeks ago)
-- [thetestgame/bbmodel2bam](https://github.com/thetestgame/bbmodel2bam) - About A CLI tool to convert Blockbench bbmodel files to Panda3D BAM files (4 months ago)
-- [thetestgame/panda3d-config](https://github.com/thetestgame/panda3d-config) - Experimentalconfiguration utilities for the Panda3D game engine (5 months ago)
-- [thetestgame/ha-addons-repository](https://github.com/thetestgame/ha-addons-repository) (5 months ago)
-- [thetestgame/panda3d-pipes](https://github.com/thetestgame/panda3d-pipes) - Distributed object networking for Panda3D. Backed by Valve&#39;s Game Sockets and Relay Network (5 months ago)
+- [ClockworksEngine/Clockworks](https://github.com/ClockworksEngine/Clockworks) (2 weeks ago)
 
 ---
 
