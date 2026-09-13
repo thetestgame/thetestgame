@@ -29,7 +29,7 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 - [bdovaz/UnityNuGet](https://github.com/bdovaz/UnityNuGet) - Provides a service to install NuGet packages into a Unity project via the Unity Package Manager (1 month ago)
 - [ClockworksEngine/Clockworks](https://github.com/ClockworksEngine/Clockworks) (1 month ago)
 - [thetestgame/bbmodel2bam](https://github.com/thetestgame/bbmodel2bam) - About A CLI tool to convert Blockbench bbmodel files to Panda3D BAM files (5 months ago)
-- [thetestgame/panda3d-config](https://github.com/thetestgame/panda3d-config) - Experimentalconfiguration utilities for the Panda3D game engine (5 months ago)
+- [thetestgame/panda3d-config](https://github.com/thetestgame/panda3d-config) - Experimental configuration utilities for the Panda3D game engine (5 months ago)
 
 ---
 
@@ -37,7 +37,7 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 - [thetestgame/bbmodel2bam](https://github.com/thetestgame/bbmodel2bam) - About A CLI tool to convert Blockbench bbmodel files to Panda3D BAM files
 - [thetestgame/panda3d-pipes](https://github.com/thetestgame/panda3d-pipes) - Distributed object networking for Panda3D. Backed by Valve&#39;s Game Sockets and Relay Network
-- [thetestgame/panda3d-config](https://github.com/thetestgame/panda3d-config) - Experimentalconfiguration utilities for the Panda3D game engine
+- [thetestgame/panda3d-config](https://github.com/thetestgame/panda3d-config) - Experimental configuration utilities for the Panda3D game engine
 - [thetestgame/panda3d-localization](https://github.com/thetestgame/panda3d-localization)
 - [thetestgame/panda3d-steamworks](https://github.com/thetestgame/panda3d-steamworks) - Panda3D bindings for Valve&#39;s Steamworks SDK. Used for shipping Panda3D applications on Steam.
 
