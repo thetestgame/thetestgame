@@ -25,7 +25,7 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
-- [Game-Rooms/game-rooms-csharp-sdk](https://github.com/Game-Rooms/game-rooms-csharp-sdk) (1 day ago)
+- [Game-Rooms/game-rooms-typescript-sdk](https://github.com/Game-Rooms/game-rooms-typescript-sdk) (1 day ago)
 - [Game-Rooms/.github](https://github.com/Game-Rooms/.github) (1 day ago)
 - [Game-Rooms/game-rooms-python-sdk](https://github.com/Game-Rooms/game-rooms-python-sdk) (1 day ago)
 - [Game-Rooms/game-rooms-sdk-template](https://github.com/Game-Rooms/game-rooms-sdk-template) (1 day ago)
