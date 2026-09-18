@@ -25,26 +25,27 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
+- [Game-Rooms/Game-Rooms-Worker](https://github.com/Game-Rooms/Game-Rooms-Worker) - A multiplayer object messaging service using websockets and powered by Cloudflare Workers (1 day ago)
+- [Game-Rooms/Game-Rooms-Python-SDK](https://github.com/Game-Rooms/Game-Rooms-Python-SDK) (1 day ago)
+- [Game-Rooms/Game-Rooms-SDK-Template](https://github.com/Game-Rooms/Game-Rooms-SDK-Template) (1 day ago)
+- [thetestgame/Unity-Package-Registry](https://github.com/thetestgame/Unity-Package-Registry) - A Unity package manager compatible NPM registry hosted on Cloudflare Workers. (1 day ago)
 - [ClockworksEngine/.github](https://github.com/ClockworksEngine/.github) (2 weeks ago)
-- [bdovaz/UnityNuGet](https://github.com/bdovaz/UnityNuGet) - Provides a service to install NuGet packages into a Unity project via the Unity Package Manager (1 month ago)
-- [ClockworksEngine/Clockworks](https://github.com/ClockworksEngine/Clockworks) (1 month ago)
-- [thetestgame/bbmodel2bam](https://github.com/thetestgame/bbmodel2bam) - About A CLI tool to convert Blockbench bbmodel files to Panda3D BAM files (5 months ago)
-- [thetestgame/panda3d-config](https://github.com/thetestgame/panda3d-config) - Experimental configuration utilities for the Panda3D game engine (5 months ago)
 
 ---
 
 #### 🌱 My latest projects
 
+- [thetestgame/Unity-Package-Registry](https://github.com/thetestgame/Unity-Package-Registry) - A Unity package manager compatible NPM registry hosted on Cloudflare Workers.
 - [thetestgame/bbmodel2bam](https://github.com/thetestgame/bbmodel2bam) - About A CLI tool to convert Blockbench bbmodel files to Panda3D BAM files
 - [thetestgame/panda3d-pipes](https://github.com/thetestgame/panda3d-pipes) - Distributed object networking for Panda3D. Backed by Valve&#39;s Game Sockets and Relay Network
 - [thetestgame/panda3d-config](https://github.com/thetestgame/panda3d-config) - Experimental configuration utilities for the Panda3D game engine
 - [thetestgame/panda3d-localization](https://github.com/thetestgame/panda3d-localization)
-- [thetestgame/panda3d-steamworks](https://github.com/thetestgame/panda3d-steamworks) - Panda3D bindings for Valve&#39;s Steamworks SDK. Used for shipping Panda3D applications on Steam.
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [thetestgame/Unity-Package-Registry](https://github.com/thetestgame/Unity-Package-Registry) ([1.0.0](https://github.com/thetestgame/Unity-Package-Registry/releases/tag/1.0.0), 1 day ago) - A Unity package manager compatible NPM registry hosted on Cloudflare Workers.
 - [thetestgame/bbmodel2bam](https://github.com/thetestgame/bbmodel2bam) ([v0.1.0](https://github.com/thetestgame/bbmodel2bam/releases/tag/v0.1.0), 5 months ago) - About A CLI tool to convert Blockbench bbmodel files to Panda3D BAM files
 - [thetestgame/panda3d-steamworks](https://github.com/thetestgame/panda3d-steamworks) ([v1.63.7](https://github.com/thetestgame/panda3d-steamworks/releases/tag/v1.63.7), 6 months ago) - Panda3D bindings for Valve&#39;s Steamworks SDK. Used for shipping Panda3D applications on Steam.
 - [thetestgame/panda3d-toolbox](https://github.com/thetestgame/panda3d-toolbox) ([v1.1.0](https://github.com/thetestgame/panda3d-toolbox/releases/tag/v1.1.0), 2 years ago) - A collection of helpful utility methods and constants for working with the Panda3D game engine
