@@ -29,7 +29,7 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 - [PackmuleRegistry/Upptime](https://github.com/PackmuleRegistry/Upptime) (3 days ago)
 - [PackmuleRegistry/Unity-Nuget-Packaging](https://github.com/PackmuleRegistry/Unity-Nuget-Packaging) (3 days ago)
 - [Game-Rooms/game-rooms-python-sdk](https://github.com/Game-Rooms/game-rooms-python-sdk) (3 days ago)
-- [PackmuleRegistry/Packmule-Registry-Tools](https://github.com/PackmuleRegistry/Packmule-Registry-Tools) (4 days ago)
+- [Game-Rooms/game-rooms-typescript-sdk](https://github.com/Game-Rooms/game-rooms-typescript-sdk) (4 days ago)
 
 ---
 
