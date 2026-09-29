@@ -57,7 +57,7 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 - [Update GitHub Actions to latest versions](https://github.com/thetestgame/docker-steam-server/pull/8) on [thetestgame/docker-steam-server](https://github.com/thetestgame/docker-steam-server) (1 week ago)
 - [Experimental CI Improvements](https://github.com/thetestgame/UnityNuGet/pull/20) on [thetestgame/UnityNuGet](https://github.com/thetestgame/UnityNuGet) (2 months ago)
 - [Added Redis.OM 0.1.0](https://github.com/bdovaz/UnityNuGet/pull/736) on [bdovaz/UnityNuGet](https://github.com/bdovaz/UnityNuGet) (2 months ago)
-- [Add MySqlConnector 1.0.0](https://github.com/bdovaz/UnityNuGet/pull/709) on [bdovaz/UnityNuGet](https://github.com/bdovaz/UnityNuGet) (3 months ago)
+- [Add MySqlConnector 1.0.0](https://github.com/bdovaz/UnityNuGet/pull/709) on [bdovaz/UnityNuGet](https://github.com/bdovaz/UnityNuGet) (4 months ago)
 - [Add Linq2db version 2.0.0](https://github.com/bdovaz/UnityNuGet/pull/708) on [bdovaz/UnityNuGet](https://github.com/bdovaz/UnityNuGet) (4 months ago)
 
 ### Find me elsewhere 🌎
