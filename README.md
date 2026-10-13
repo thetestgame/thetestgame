@@ -25,11 +25,11 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
-- [Game-Rooms/game-rooms-cpp-sdk](https://github.com/Game-Rooms/game-rooms-cpp-sdk) (3 weeks ago)
-- [PackmuleRegistry/Upptime](https://github.com/PackmuleRegistry/Upptime) (3 weeks ago)
 - [PackmuleRegistry/Unity-Nuget-Packaging](https://github.com/PackmuleRegistry/Unity-Nuget-Packaging) (3 weeks ago)
-- [Game-Rooms/game-rooms-python-sdk](https://github.com/Game-Rooms/game-rooms-python-sdk) (3 weeks ago)
-- [Game-Rooms/game-rooms-csharp-sdk](https://github.com/Game-Rooms/game-rooms-csharp-sdk) (3 weeks ago)
+- [PackmuleRegistry/Packmule-Registry-Tools](https://github.com/PackmuleRegistry/Packmule-Registry-Tools) (3 weeks ago)
+- [PackmuleRegistry/Steam-Audio](https://github.com/PackmuleRegistry/Steam-Audio) - Unity Package Manager friendly version of Valve&#39;s Steam Audio library (3 weeks ago)
+- [Game-Rooms/.github](https://github.com/Game-Rooms/.github) (3 weeks ago)
+- [thetestgame/Unity-Package-Registry](https://github.com/thetestgame/Unity-Package-Registry) - A Unity package manager compatible NPM registry hosted on Cloudflare Workers. (3 weeks ago)
 
 ---
 
