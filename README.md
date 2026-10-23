@@ -29,7 +29,7 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 - [PackmuleRegistry/Packmule-Registry-Tools](https://github.com/PackmuleRegistry/Packmule-Registry-Tools) (1 month ago)
 - [PackmuleRegistry/Steam-Audio](https://github.com/PackmuleRegistry/Steam-Audio) - Unity Package Manager friendly version of Valve&#39;s Steam Audio library (1 month ago)
 - [Game-Rooms/.github](https://github.com/Game-Rooms/.github) (1 month ago)
-- [thetestgame/Unity-Package-Registry](https://github.com/thetestgame/Unity-Package-Registry) - A Unity package manager compatible NPM registry hosted on Cloudflare Workers. (1 month ago)
+- [PackmuleRegistry/Github-UPM-Proxy](https://github.com/PackmuleRegistry/Github-UPM-Proxy) (1 month ago)
 
 ---
 
