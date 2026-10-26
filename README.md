@@ -27,9 +27,9 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 - [DigitalDescent/.github](https://github.com/DigitalDescent/.github) - Github profile information for Digital Descent LLC (1 day ago)
 - [PackmuleRegistry/Unity-Nuget-Packaging](https://github.com/PackmuleRegistry/Unity-Nuget-Packaging) (1 month ago)
-- [Game-Rooms/.github](https://github.com/Game-Rooms/.github) (1 month ago)
-- [PackmuleRegistry/.github](https://github.com/PackmuleRegistry/.github) (1 month ago)
+- [PackmuleRegistry/Packmule-Registry-Tools](https://github.com/PackmuleRegistry/Packmule-Registry-Tools) (1 month ago)
 - [thetestgame/Unity-Package-Registry](https://github.com/thetestgame/Unity-Package-Registry) - A Unity package manager compatible NPM registry hosted on Cloudflare Workers. (1 month ago)
+- [PackmuleRegistry/Github-UPM-Proxy](https://github.com/PackmuleRegistry/Github-UPM-Proxy) (1 month ago)
 
 ---
 
