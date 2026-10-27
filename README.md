@@ -35,11 +35,11 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 
 #### 🌱 My latest projects
 
-- [thetestgame/test](https://github.com/thetestgame/test)
 - [thetestgame/Unity-Package-Registry](https://github.com/thetestgame/Unity-Package-Registry) - A Unity package manager compatible NPM registry hosted on Cloudflare Workers.
 - [thetestgame/bbmodel2bam](https://github.com/thetestgame/bbmodel2bam) - About A CLI tool to convert Blockbench bbmodel files to Panda3D BAM files
 - [thetestgame/panda3d-pipes](https://github.com/thetestgame/panda3d-pipes) - Distributed object networking for Panda3D. Backed by Valve&#39;s Game Sockets and Relay Network
 - [thetestgame/panda3d-config](https://github.com/thetestgame/panda3d-config) - Experimental configuration utilities for the Panda3D game engine
+- [thetestgame/panda3d-localization](https://github.com/thetestgame/panda3d-localization)
 
 ---
 
