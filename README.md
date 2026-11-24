@@ -25,7 +25,7 @@ I'm a professional Game Developer and DevOps Engineer based in Wisconsin.
 #### 👷 Check out what I'm currently working on
 
 
-- [DigitalDescent/.github](https://github.com/DigitalDescent/.github) - Github profile information for Digital Descent LLC (4 weeks ago)
+- [DigitalDescent/.github](https://github.com/DigitalDescent/.github) - Github profile information for Digital Descent LLC (1 month ago)
 - [PackmuleRegistry/Unity-Nuget-Packaging](https://github.com/PackmuleRegistry/Unity-Nuget-Packaging) (2 months ago)
 - [PackmuleRegistry/Steam-Audio](https://github.com/PackmuleRegistry/Steam-Audio) - Unity Package Manager friendly version of Valve&#39;s Steam Audio library (2 months ago)
 - [PackmuleRegistry/.github](https://github.com/PackmuleRegistry/.github) (2 months ago)
